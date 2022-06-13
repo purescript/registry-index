@@ -1,0 +1,1 @@
+{"name":"functor-compose","version":"0.1.0","license":"MIT","location":{"githubOwner":"DavidHarrison","githubRepo":"purescript-functor-compose"},"description":"Compose Functors (and other type classes) in PureScript.","dependencies":{"control":">=1.0.0 <2.0.0","foldable-traversable":">=1.0.0 <2.0.0"}}

@@ -1,0 +1,1 @@
+{"name":"console-foreign","version":"0.1.0","license":"Apache-2.0","location":{"githubOwner":"mikemckibben","githubRepo":"purescript-console-foreign"},"dependencies":{"console":">=2.0.0 <3.0.0","foreign":">=3.2.0 <4.0.0"}}

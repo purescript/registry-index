@@ -1,0 +1,2 @@
+{"name":"strictlypositiveint","version":"1.0.0","license":"MIT","location":{"githubOwner":"jamieyung","githubRepo":"purescript-strictlypositiveint"},"description":"Strictly positive integers (1, 2, 3, ...)","dependencies":{"prelude":">=4.1.0 <4.1.1"}}
+{"name":"strictlypositiveint","version":"1.0.1","license":"MIT","location":{"githubOwner":"jamieyung","githubRepo":"purescript-strictlypositiveint"},"description":"Strictly positive integers (1, 2, 3, ...)","dependencies":{"prelude":">=4.1.0 <4.1.1"}}

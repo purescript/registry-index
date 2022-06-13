@@ -1,0 +1,1 @@
+{"name":"conveyor-health","version":"1.0.0","license":"MIT","location":{"githubOwner":"oreshinya","githubRepo":"purescript-conveyor-health"},"description":"Healthcheck endpoint for conveyor","dependencies":{"conveyor":">=2.1.0 <3.0.0"}}

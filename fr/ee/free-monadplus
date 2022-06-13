@@ -1,0 +1,1 @@
+{"name":"free-monadplus","version":"0.1.0","license":"MIT","location":{"githubOwner":"Risto-Stevcev","githubRepo":"purescript-free-monadplus"},"description":"An implementation of free monad plus in purescript","dependencies":{"console":">=3.0.0 <4.0.0","control":">=3.3.0 <4.0.0","lists":">=4.9.0 <5.0.0","prelude":">=3.1.0 <4.0.0"}}

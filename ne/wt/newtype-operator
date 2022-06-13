@@ -1,0 +1,1 @@
+{"name":"newtype-operator","version":"1.0.0","license":"Apache-2.0","location":{"githubOwner":"cyrbon","githubRepo":"purescript-newtype-operator"},"description":"Provides ^ operator to ease nested newtype handling","dependencies":{"eff":">=3.0.0 <4.0.0","newtype":">=2.0.0 <3.0.0","prelude":">=3.0.0 <4.0.0"}}

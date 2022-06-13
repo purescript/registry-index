@@ -1,0 +1,1 @@
+{"name":"xpath","version":"0.1.0","license":"Apache-2.0","location":{"githubOwner":"slamdata","githubRepo":"purescript-xpath"},"dependencies":{"lists":">=3.2.1 <4.0.0"}}

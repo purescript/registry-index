@@ -1,0 +1,4 @@
+{"name":"undefined","version":"1.0.0","license":"AGPL-3.0","location":{"githubOwner":"bklaric","githubRepo":"purescript-undefined"},"dependencies":{}}
+{"name":"undefined","version":"1.0.1","license":"AGPL-3.0","location":{"githubOwner":"bklaric","githubRepo":"purescript-undefined"},"description":"Package containing the undefined value.","dependencies":{}}
+{"name":"undefined","version":"1.0.2","license":"MIT","location":{"githubOwner":"bklaric","githubRepo":"purescript-undefined"},"description":"Package containing the undefined value.","dependencies":{}}
+{"name":"undefined","version":"2.0.0","license":"AGPL-3.0","location":{"githubOwner":"bklaric","githubRepo":"purescript-undefined"},"dependencies":{}}

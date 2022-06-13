@@ -1,0 +1,2 @@
+{"name":"signal-loop","version":"1.0.1","license":"MIT","location":{"githubOwner":"paf31","githubRepo":"purescript-signal-loop"},"dependencies":{"signal":">=6.0.0 <7.0.0"}}
+{"name":"signal-loop","version":"2.0.0","license":"MIT","location":{"githubOwner":"paf31","githubRepo":"purescript-signal-loop"},"dependencies":{"signal":">=9.0.0 <10.0.0"}}

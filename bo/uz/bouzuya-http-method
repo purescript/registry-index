@@ -1,0 +1,5 @@
+{"name":"bouzuya-http-method","version":"0.1.0","license":"MIT","location":{"githubOwner":"bouzuya","githubRepo":"purescript-bouzuya-http-method"},"dependencies":{"foldable-traversable":">=3.7.1 <4.0.0","maybe":">=3.1.0 <4.0.0","prelude":">=3.3.0 <4.0.0"}}
+{"name":"bouzuya-http-method","version":"0.2.0","license":"MIT","location":{"githubOwner":"bouzuya","githubRepo":"purescript-bouzuya-http-method"},"description":"HTTP method","dependencies":{"foldable-traversable":">=3.7.1 <4.0.0","maybe":">=3.1.0 <4.0.0","prelude":">=3.3.0 <4.0.0"}}
+{"name":"bouzuya-http-method","version":"0.2.1","license":"MIT","location":{"githubOwner":"bouzuya","githubRepo":"purescript-bouzuya-http-method"},"description":"HTTP method","dependencies":{"foldable-traversable":">=3.7.1 <4.0.0","maybe":">=3.1.0 <4.0.0","prelude":">=3.3.0 <4.0.0"}}
+{"name":"bouzuya-http-method","version":"0.3.0","license":"MIT","location":{"githubOwner":"bouzuya","githubRepo":"purescript-bouzuya-http-method"},"dependencies":{}}
+{"name":"bouzuya-http-method","version":"1.0.0","license":"MIT","location":{"githubOwner":"bouzuya","githubRepo":"purescript-bouzuya-http-method"},"dependencies":{}}

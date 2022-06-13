@@ -1,0 +1,1 @@
+{"name":"freearr","version":"0.1.0","license":"MIT","location":{"githubOwner":"ethul","githubRepo":"purescript-freearr"},"dependencies":{"exists":">=2.0.0 <3.0.0","profunctor":">=2.0.0 <3.0.0","tuples":">=3.0.0 <4.0.0"}}

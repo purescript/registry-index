@@ -1,0 +1,2 @@
+{"name":"knockoutjs","version":"0.0.1","license":"MIT","location":{"githubOwner":"brunjlar","githubRepo":"purescript-knockoutjs"},"description":"Type declarations for Knockout","dependencies":{"foreign":">=0.4.2 <0.5.0","globals":">=0.1.6 <0.2.0"}}
+{"name":"knockoutjs","version":"0.0.2","license":"MIT","location":{"githubOwner":"brunjlar","githubRepo":"purescript-knockoutjs"},"description":"Type declarations for Knockout","dependencies":{"foreign":">=0.4.2 <0.5.0","globals":">=0.1.6 <0.2.0"}}

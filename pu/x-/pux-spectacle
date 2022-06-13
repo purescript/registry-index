@@ -1,0 +1,4 @@
+{"name":"pux-spectacle","version":"1.0.1","license":"MIT","location":{"githubOwner":"spicydonuts","githubRepo":"purescript-pux-spectacle"},"dependencies":{"console":">=1.0.0 <2.0.0","pux":">=5.0.3 <6.0.0"}}
+{"name":"pux-spectacle","version":"1.1.0","license":"MIT","location":{"githubOwner":"spicydonuts","githubRepo":"purescript-pux-spectacle"},"dependencies":{"console":">=1.0.0 <2.0.0","pux":">=5.0.3 <6.0.0"}}
+{"name":"pux-spectacle","version":"1.2.0","license":"MIT","location":{"githubOwner":"spicydonuts","githubRepo":"purescript-pux-spectacle"},"dependencies":{"console":">=1.0.0 <2.0.0","pux":">=5.0.3 <6.0.0"}}
+{"name":"pux-spectacle","version":"2.0.0","license":"MIT","location":{"githubOwner":"spicydonuts","githubRepo":"purescript-pux-spectacle"},"dependencies":{"pux":">=7.0.0 <8.0.0"}}

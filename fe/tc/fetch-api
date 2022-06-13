@@ -1,0 +1,1 @@
+{"name":"fetch-api","version":"1.0.0","license":"MIT","location":{"githubOwner":"iarthstar","githubRepo":"purescript-fetch-api"},"dependencies":{"aff":">=5.1.1 <6.0.0","console":">=4.2.0 <5.0.0","effect":">=2.0.1 <3.0.0","foreign-generic":">=10.0.0 <11.0.0","prelude":">=4.1.1 <5.0.0"}}

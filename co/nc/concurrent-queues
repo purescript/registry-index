@@ -1,0 +1,5 @@
+{"name":"concurrent-queues","version":"0.1.0","license":"Apache-2.0","location":{"githubOwner":"purescript-contrib","githubRepo":"purescript-concurrent-queues"},"dependencies":{"aff":">=4.0.2 <5.0.0"}}
+{"name":"concurrent-queues","version":"1.0.0","license":"Apache-2.0","location":{"githubOwner":"purescript-contrib","githubRepo":"purescript-concurrent-queues"},"dependencies":{"aff":">=5.0.0 <6.0.0","avar":">=3.0.0 <4.0.0"}}
+{"name":"concurrent-queues","version":"1.1.0","license":"Apache-2.0","location":{"githubOwner":"purescript-contrib","githubRepo":"purescript-concurrent-queues"},"dependencies":{"aff":">=5.0.0 <6.0.0","avar":">=3.0.0 <4.0.0"}}
+{"name":"concurrent-queues","version":"2.0.0","license":"Apache-2.0","location":{"githubOwner":"purescript-contrib","githubRepo":"purescript-concurrent-queues"},"dependencies":{"aff":">=6.0.0 <7.0.0","avar":">=4.0.0 <5.0.0","effect":">=3.0.0 <4.0.0"}}
+{"name":"concurrent-queues","version":"3.0.0","license":"Apache-2.0","location":{"githubOwner":"purescript-contrib","githubRepo":"purescript-concurrent-queues"},"dependencies":{"aff":">=7.0.0 <8.0.0","avar":">=5.0.0 <6.0.0","effect":">=4.0.0 <5.0.0"}}

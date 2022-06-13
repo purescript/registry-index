@@ -1,0 +1,1 @@
+{"name":"react-event-listener","version":"0.0.0","license":"BSD-3-Clause","location":{"githubOwner":"athanclark","githubRepo":"purescript-react-event-listener"},"dependencies":{"prelude":">=4.1.0 <5.0.0","react":">=6.1.0 <7.0.0","row-extra":">=0.0.0 <0.0.1","web-events":">=1.0.0 <2.0.0"}}

@@ -1,0 +1,4 @@
+{"name":"functor-optics","version":"1.0.0","license":"MIT","location":{"githubOwner":"paf31","githubRepo":"purescript-hoist"},"dependencies":{"day":">=2.0.0 <3.0.0","profunctor":">=1.0.0 <2.0.0"}}
+{"name":"functor-optics","version":"2.0.0","license":"MIT","location":{"githubOwner":"paf31","githubRepo":"purescript-hoist"},"dependencies":{"functor-compose":">=0.1.0 <0.2.0","functor-coproducts":">=1.1.0 <2.0.0","functor-products":">=1.0.0 <2.0.0"}}
+{"name":"functor-optics","version":"3.0.0","license":"MIT","location":{"githubOwner":"paf31","githubRepo":"purescript-hoist"},"dependencies":{"functors":">=1.0.0 <2.0.0"}}
+{"name":"functor-optics","version":"4.0.0","license":"MIT","location":{"githubOwner":"paf31","githubRepo":"purescript-hoist"},"dependencies":{"functors":">=2.0.0 <3.0.0"}}

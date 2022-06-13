@@ -1,0 +1,2 @@
+{"name":"restify-router","version":"0.0.1","license":"ISC","location":{"githubOwner":"freqlabs","githubRepo":"purescript-restify-router"},"description":"PureScript wrapper around restify-router","dependencies":{"restify":">=0.0.1 <0.0.2"}}
+{"name":"restify-router","version":"0.0.2","license":"ISC","location":{"githubOwner":"freqlabs","githubRepo":"purescript-restify-router"},"description":"PureScript wrapper around restify-router","dependencies":{"restify":">=0.0.1 <0.0.2"}}

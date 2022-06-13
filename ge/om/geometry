@@ -1,0 +1,3 @@
+{"name":"geometry","version":"0.0.0","license":"MIT","location":{"githubOwner":"Fresheyeball","githubRepo":"purescript-geometry"},"dependencies":{"math":">=0.1.0 <0.2.0"}}
+{"name":"geometry","version":"0.0.1","license":"MIT","location":{"githubOwner":"Fresheyeball","githubRepo":"purescript-geometry"},"dependencies":{"math":">=0.1.0 <0.2.0"}}
+{"name":"geometry","version":"0.0.2","license":"MIT","location":{"githubOwner":"Fresheyeball","githubRepo":"purescript-geometry"},"dependencies":{"math":">=0.1.0 <0.2.0"}}

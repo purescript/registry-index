@@ -1,0 +1,1 @@
+{"name":"smolder-vdom","version":"1.0.0","license":"LGPL-3.0+","location":{"githubOwner":"bodil","githubRepo":"purescript-smolder-vdom"},"dependencies":{"prelude":">=2.1.0 <3.0.0","smolder":">=6.0.0 <7.0.0","vdom":">=2.0.0 <3.0.0"}}
