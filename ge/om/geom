@@ -1,0 +1,4 @@
+{"name":"geom","version":"1.0.0","license":"Apache-2.0","location":{"githubOwner":"bodil","githubRepo":"purescript-geom"},"dependencies":{"math":">=0.1.0 <0.2.0"}}
+{"name":"geom","version":"1.1.0","license":"Apache-2.0","location":{"githubOwner":"bodil","githubRepo":"purescript-geom"},"dependencies":{"math":">=0.1.0 <0.2.0"}}
+{"name":"geom","version":"2.0.0","license":"Apache-2.0","location":{"githubOwner":"bodil","githubRepo":"purescript-geom"},"dependencies":{"math":">=0.1.0 <0.2.0","monoid":">=0.1.4 <0.2.0","quickcheck":">=0.3.1 <0.4.0"}}
+{"name":"geom","version":"3.0.0","license":"Apache-2.0","location":{"githubOwner":"bodil","githubRepo":"purescript-geom"},"dependencies":{"math":">=0.1.0 <0.2.0","monoid":">=0.1.4 <0.2.0","quickcheck":">=0.3.1 <0.4.0"}}

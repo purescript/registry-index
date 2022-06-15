@@ -1,0 +1,2 @@
+{"name":"rehtie","version":"0.1.0","license":"MIT","location":{"githubOwner":"adarqui","githubRepo":"purescript-rehtie"},"description":"Values with two possibilities","dependencies":{"either":">=0.2.3 <0.3.0"}}
+{"name":"rehtie","version":"1.0.0","license":"MIT","location":{"githubOwner":"adarqui","githubRepo":"purescript-rehtie"},"description":"Values with two possibilities","dependencies":{"either":">=1.0.0 <2.0.0"}}

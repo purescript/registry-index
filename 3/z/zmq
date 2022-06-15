@@ -1,0 +1,1 @@
+{"name":"zmq","version":"0.0.1","license":"BSD-3-Clause","location":{"githubOwner":"rightfold","githubRepo":"purescript-zmq"},"dependencies":{"aff":">=2.0.3 <3.0.0","bytestrings":">=2.3.0 <3.0.0","prelude":">=2.0.0 <3.0.0","transformers":">=2.3.0 <3.0.0"}}

@@ -1,0 +1,12 @@
+{"name":"grain-virtualized","version":"0.1.0","license":"MIT","location":{"githubOwner":"purescript-grain","githubRepo":"purescript-grain-virtualized"},"dependencies":{"grain":">=0.1.0 <0.1.1"}}
+{"name":"grain-virtualized","version":"0.1.1","license":"MIT","location":{"githubOwner":"purescript-grain","githubRepo":"purescript-grain-virtualized"},"dependencies":{"grain":">=0.1.0 <0.1.1"}}
+{"name":"grain-virtualized","version":"0.2.0","license":"MIT","location":{"githubOwner":"purescript-grain","githubRepo":"purescript-grain-virtualized"},"dependencies":{"grain":">=0.2.0 <0.2.1"}}
+{"name":"grain-virtualized","version":"0.3.0","license":"MIT","location":{"githubOwner":"purescript-grain","githubRepo":"purescript-grain-virtualized"},"dependencies":{"grain":">=0.3.0 <0.3.1"}}
+{"name":"grain-virtualized","version":"0.4.0","license":"MIT","location":{"githubOwner":"purescript-grain","githubRepo":"purescript-grain-virtualized"},"dependencies":{"grain":">=0.4.0 <0.4.1"}}
+{"name":"grain-virtualized","version":"0.4.1","license":"MIT","location":{"githubOwner":"purescript-grain","githubRepo":"purescript-grain-virtualized"},"dependencies":{"grain":">=0.4.1 <0.4.2"}}
+{"name":"grain-virtualized","version":"0.5.0","license":"MIT","location":{"githubOwner":"purescript-grain","githubRepo":"purescript-grain-virtualized"},"dependencies":{"grain":">=0.5.0 <0.5.1"}}
+{"name":"grain-virtualized","version":"0.7.0","license":"MIT","location":{"githubOwner":"purescript-grain","githubRepo":"purescript-grain-virtualized"},"dependencies":{"grain":">=0.7.0 <0.7.1"}}
+{"name":"grain-virtualized","version":"0.8.0","license":"MIT","location":{"githubOwner":"purescript-grain","githubRepo":"purescript-grain-virtualized"},"dependencies":{"grain":">=0.8.0 <0.8.1"}}
+{"name":"grain-virtualized","version":"0.9.0","license":"MIT","location":{"githubOwner":"purescript-grain","githubRepo":"purescript-grain-virtualized"},"dependencies":{"grain":">=0.9.0 <0.9.1"}}
+{"name":"grain-virtualized","version":"1.0.0","license":"MIT","location":{"githubOwner":"purescript-grain","githubRepo":"purescript-grain-virtualized"},"dependencies":{"grain":">=1.0.0 <1.0.1"}}
+{"name":"grain-virtualized","version":"2.0.0","license":"MIT","location":{"githubOwner":"purescript-grain","githubRepo":"purescript-grain-virtualized"},"dependencies":{"grain":">=2.0.0 <2.0.1"}}

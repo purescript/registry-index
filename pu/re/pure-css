@@ -1,0 +1,2 @@
+{"name":"pure-css","version":"0.0.0","license":"BSD-3-Clause","location":{"githubOwner":"athanclark","githubRepo":"purescript-pure-css"},"dependencies":{"prelude":">=4.1.0 <5.0.0"}}
+{"name":"pure-css","version":"0.0.1","license":"BSD-3-Clause","location":{"githubOwner":"athanclark","githubRepo":"purescript-pure-css"},"dependencies":{"prelude":">=4.1.0 <5.0.0"}}

@@ -1,0 +1,3 @@
+{"name":"store","version":"0.0.0","license":"LGPL-3.0+","location":{"githubOwner":"bodil","githubRepo":"purescript-store"},"dependencies":{"foreign-generic":">=2.0.0 <3.0.0","prelude":">=2.1.0 <3.0.0"}}
+{"name":"store","version":"1.0.0","license":"LGPL-3.0+","location":{"githubOwner":"bodil","githubRepo":"purescript-store"},"dependencies":{"foreign-generic":">=2.0.0 <3.0.0","prelude":">=2.1.0 <3.0.0"}}
+{"name":"store","version":"1.0.1","license":"LGPL-3.0+","location":{"githubOwner":"bodil","githubRepo":"purescript-store"},"dependencies":{"foreign-generic":">=2.0.0 <3.0.0","prelude":">=2.1.0 <3.0.0","refs":">=2.0.0 <3.0.0"}}

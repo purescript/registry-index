@@ -1,0 +1,2 @@
+{"name":"wechaty","version":"1.0.0","license":"MIT","location":{"githubOwner":"Lupino","githubRepo":"purescript-wechaty"},"description":"[WIP!] PureScript bindings to the wechaty library","dependencies":{"aff":">=4.0.2 <5.0.0","aff-promise":">=1.0.0 <2.0.0"}}
+{"name":"wechaty","version":"1.0.1","license":"MIT","location":{"githubOwner":"Lupino","githubRepo":"purescript-wechaty"},"description":"[WIP!] PureScript bindings to the wechaty library","dependencies":{"aff":">=4.0.2 <5.0.0","aff-promise":">=1.0.0 <2.0.0"}}

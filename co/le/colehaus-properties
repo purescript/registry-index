@@ -1,0 +1,5 @@
+{"name":"colehaus-properties","version":"0.1.0","license":"MIT","location":{"githubOwner":"colehaus","githubRepo":"purescript-properties"},"dependencies":{"console":">=3.0.0 <4.0.0","prelude":">=3.1.0 <4.0.0"}}
+{"name":"colehaus-properties","version":"0.2.0","license":"MIT","location":{"githubOwner":"colehaus","githubRepo":"purescript-properties"},"dependencies":{"console":">=3.0.0 <4.0.0","prelude":">=3.1.0 <4.0.0"}}
+{"name":"colehaus-properties","version":"0.3.0","license":"MIT","location":{"githubOwner":"colehaus","githubRepo":"purescript-properties"},"dependencies":{"prelude":">=4.1.0 <5.0.0"}}
+{"name":"colehaus-properties","version":"0.3.1","license":"MIT","location":{"githubOwner":"colehaus","githubRepo":"purescript-properties"},"dependencies":{"prelude":">=4.1.0 <5.0.0"}}
+{"name":"colehaus-properties","version":"0.3.2","license":"MIT","location":{"githubOwner":"colehaus","githubRepo":"purescript-properties"},"dependencies":{"prelude":">=4.1.0 <5.0.0"}}

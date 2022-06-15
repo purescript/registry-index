@@ -1,0 +1,1 @@
+{"name":"node-domain","version":"0.0.1","license":"MIT","location":{"githubOwner":"joneshf","githubRepo":"purescript-node-domain"},"description":"PureScript bindings to node.js Domain API.","dependencies":{"node-events":">=0.0.6 <0.1.0"}}

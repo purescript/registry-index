@@ -1,0 +1,4 @@
+{"name":"safelist","version":"1.0.0","license":"MIT","location":{"githubOwner":"garyb","githubRepo":"purescript-safelist"},"dependencies":{"lists":">=4.9.0 <5.0.0","unsafe-coerce":">=3.0.0 <4.0.0"}}
+{"name":"safelist","version":"1.1.0","license":"MIT","location":{"githubOwner":"garyb","githubRepo":"purescript-safelist"},"dependencies":{"lists":">=4.9.0 <5.0.0","unsafe-coerce":">=3.0.0 <4.0.0"}}
+{"name":"safelist","version":"2.0.0","license":"MIT","location":{"githubOwner":"garyb","githubRepo":"purescript-safelist"},"dependencies":{"lists":">=5.0.0 <6.0.0","unsafe-coerce":">=4.0.0 <5.0.0"}}
+{"name":"safelist","version":"3.0.0","license":"MIT","location":{"githubOwner":"garyb","githubRepo":"purescript-safelist"},"dependencies":{"lists":">=6.0.1 <7.0.0","unsafe-coerce":">=5.0.0 <6.0.0"}}

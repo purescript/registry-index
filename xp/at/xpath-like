@@ -1,0 +1,4 @@
+{"name":"xpath-like","version":"1.0.0","license":"MIT AND MPL-2.0","location":{"githubOwner":"bbarker","githubRepo":"purescript-xpath-like"},"dependencies":{"prelude":">=4.1.0 <5.0.0"}}
+{"name":"xpath-like","version":"1.0.1","license":"MIT AND MPL-2.0","location":{"githubOwner":"bbarker","githubRepo":"purescript-xpath-like"},"dependencies":{"prelude":">=4.1.0 <5.0.0"}}
+{"name":"xpath-like","version":"2.0.0","license":"MIT AND MPL-2.0","location":{"githubOwner":"bbarker","githubRepo":"purescript-xpath-like"},"dependencies":{"prelude":">=4.1.0 <5.0.0"}}
+{"name":"xpath-like","version":"3.0.0","license":"MIT AND MPL-2.0","location":{"githubOwner":"bbarker","githubRepo":"purescript-xpath-like"},"dependencies":{"prelude":">=4.1.0 <5.0.0"}}

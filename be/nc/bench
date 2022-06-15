@@ -1,0 +1,4 @@
+{"name":"bench","version":"0.0.1","license":"BSD-3-Clause","location":{"githubOwner":"rightfold","githubRepo":"purescript-bench"},"dependencies":{"eff":">=1.0.0 <2.0.0","prelude":">=1.1.0 <2.0.0"}}
+{"name":"bench","version":"0.0.2","license":"BSD-3-Clause","location":{"githubOwner":"rightfold","githubRepo":"purescript-bench"},"dependencies":{"eff":">=1.0.0 <2.0.0","prelude":">=1.1.0 <2.0.0"}}
+{"name":"bench","version":"0.0.3","license":"BSD-3-Clause","location":{"githubOwner":"rightfold","githubRepo":"purescript-bench"},"dependencies":{"eff":">=1.0.0 <2.0.0","prelude":">=1.1.0 <2.0.0"}}
+{"name":"bench","version":"1.0.0","license":"BSD-3-Clause","location":{"githubOwner":"rightfold","githubRepo":"purescript-bench"},"dependencies":{"eff":">=2.0.0 <3.0.0","prelude":">=2.1.0 <3.0.0"}}

@@ -1,0 +1,1 @@
+{"name":"url-regex-safe","version":"0.1.0","license":"Apache-2.0","location":{"githubOwner":"srghma","githubRepo":"purescript-url-regex-safe"},"dependencies":{"console":">=5.0.0 <6.0.0","effect":">=3.0.0 <4.0.0","prelude":">=5.0.0 <6.0.0","psci-support":">=5.0.0 <6.0.0","strings":">=5.0.0 <6.0.0"}}

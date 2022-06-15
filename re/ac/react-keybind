@@ -1,0 +1,2 @@
+{"name":"react-keybind","version":"0.8.1","license":"MIT","location":{"githubOwner":"EpicOrange","githubRepo":"purescript-react-keybind"},"dependencies":{"react-basic":">=15.0.0 <16.0.0","react-basic-classic":">=1.0.1 <1.0.2"}}
+{"name":"react-keybind","version":"0.9.4","license":"MIT","location":{"githubOwner":"EpicOrange","githubRepo":"purescript-react-keybind"},"dependencies":{"react-basic":">=15.0.0 <16.0.0","react-basic-classic":">=1.0.1 <1.0.2"}}

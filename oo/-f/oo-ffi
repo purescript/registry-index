@@ -1,0 +1,7 @@
+{"name":"oo-ffi","version":"0.0.1","license":"MIT","location":{"githubOwner":"CapillarySoftware","githubRepo":"purescript-oo-ffi"},"description":"FFI Helpers for binding to OO","dependencies":{}}
+{"name":"oo-ffi","version":"0.0.2","license":"MIT","location":{"githubOwner":"CapillarySoftware","githubRepo":"purescript-oo-ffi"},"description":"FFI Helpers for binding to OO","dependencies":{}}
+{"name":"oo-ffi","version":"0.0.3","license":"MIT","location":{"githubOwner":"CapillarySoftware","githubRepo":"purescript-oo-ffi"},"description":"FFI Helpers for binding to OO","dependencies":{}}
+{"name":"oo-ffi","version":"0.0.4","license":"MIT","location":{"githubOwner":"CapillarySoftware","githubRepo":"purescript-oo-ffi"},"description":"FFI Helpers for binding to OO","dependencies":{"context":">=0.0.3 <0.1.0"}}
+{"name":"oo-ffi","version":"0.0.5","license":"MIT","location":{"githubOwner":"CapillarySoftware","githubRepo":"purescript-oo-ffi"},"description":"FFI Helpers for binding to OO","dependencies":{"context":">=0.0.3 <0.1.0"}}
+{"name":"oo-ffi","version":"0.0.6","license":"MIT","location":{"githubOwner":"CapillarySoftware","githubRepo":"purescript-oo-ffi"},"description":"FFI Helpers for binding to OO","dependencies":{"context":">=0.0.3 <0.1.0"}}
+{"name":"oo-ffi","version":"1.0.0","license":"MIT","location":{"githubOwner":"CapillarySoftware","githubRepo":"purescript-oo-ffi"},"description":"FFI Helpers for binding to OO","dependencies":{"context":">=1.0.0 <1.1.0","control":">=0.3.0 <0.4.0","eff":">=0.1.0 <0.2.0","functions":">=0.1.0 <0.2.0"}}

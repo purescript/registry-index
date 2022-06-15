@@ -1,0 +1,2 @@
+{"name":"motsunabe","version":"1.0.0","license":"MIT","location":{"githubOwner":"justinwoo","githubRepo":"purescript-motsunabe"},"dependencies":{"lists":">=5.4.0 <6.0.0","strings":">=4.0.1 <5.0.0"}}
+{"name":"motsunabe","version":"2.0.0","license":"MIT","location":{"githubOwner":"justinwoo","githubRepo":"purescript-motsunabe"},"dependencies":{"lists":">=5.4.0 <6.0.0","strings":">=4.0.1 <5.0.0"}}

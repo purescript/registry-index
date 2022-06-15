@@ -1,0 +1,1 @@
+{"name":"neo4j","version":"0.1.0","license":"MIT","location":{"githubOwner":"corajr","githubRepo":"purescript-neo4j"},"dependencies":{"aff":">=1.0.0 <2.0.0","console":">=1.0.0 <2.0.0","foreign":">=1.0.0 <2.0.0","foreign-generic":">=1.0.0 <2.0.0"}}

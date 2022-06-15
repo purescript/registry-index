@@ -1,0 +1,2 @@
+{"name":"socketio-2","version":"1.0.0","license":"BSD-3-Clause","location":{"githubOwner":"athanclark","githubRepo":"purescript-socketio"},"dependencies":{"console":">=2.0.0 <3.0.0","eff-functions":">=2.0.0 <3.0.0","foreign":">=3.2.0 <4.0.0","prelude":">=2.5.0 <3.0.0"}}
+{"name":"socketio-2","version":"1.1.0","license":"BSD-3-Clause","location":{"githubOwner":"athanclark","githubRepo":"purescript-socketio"},"dependencies":{"console":">=2.0.0 <3.0.0","eff-functions":">=2.0.0 <3.0.0","foreign":">=3.2.0 <4.0.0","prelude":">=2.5.0 <3.0.0"}}

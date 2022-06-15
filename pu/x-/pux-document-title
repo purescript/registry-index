@@ -1,0 +1,1 @@
+{"name":"pux-document-title","version":"1.0.0","license":"MIT","location":{"githubOwner":"spencerjanssen","githubRepo":"purescript-pux-document-title"},"dependencies":{"pux":">=6.0.1 <7.0.0"}}

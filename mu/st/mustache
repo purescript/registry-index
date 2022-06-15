@@ -1,0 +1,6 @@
+{"name":"mustache","version":"0.1.0","license":"MIT","location":{"githubOwner":"svisser","githubRepo":"purescript-mustache"},"dependencies":{"console":">=0.1.0 <0.2.0","maps":">=0.4.2 <0.5.0"}}
+{"name":"mustache","version":"2.0.0","license":"MIT","location":{"githubOwner":"svisser","githubRepo":"purescript-mustache"},"dependencies":{"console":">=2.0.0 <3.0.0","maps":">=2.1.1 <3.0.0"}}
+{"name":"mustache","version":"2.1.0","license":"MIT","location":{"githubOwner":"svisser","githubRepo":"purescript-mustache"},"dependencies":{"console":">=2.0.0 <3.0.0","maps":">=2.1.1 <3.0.0"}}
+{"name":"mustache","version":"3.0.0","license":"MIT","location":{"githubOwner":"svisser","githubRepo":"purescript-mustache"},"dependencies":{"console":">=3.0.0 <4.0.0","maps":">=3.5.1 <4.0.0"}}
+{"name":"mustache","version":"3.0.1","license":"MIT","location":{"githubOwner":"svisser","githubRepo":"purescript-mustache"},"dependencies":{"console":">=3.0.0 <4.0.0","maps":">=3.5.1 <4.0.0"}}
+{"name":"mustache","version":"3.0.2","license":"MIT","location":{"githubOwner":"svisser","githubRepo":"purescript-mustache"},"dependencies":{"console":">=3.0.0 <4.0.0","maps":">=3.5.1 <4.0.0"}}

@@ -1,0 +1,3 @@
+{"name":"es6-symbols","version":"1.0.0","license":"BSD-3-Clause","location":{"githubOwner":"Risto-Stevcev","githubRepo":"purescript-es6-symbols"},"dependencies":{"console":">=3.0.0 <4.0.0","prelude":">=3.1.0 <4.0.0"}}
+{"name":"es6-symbols","version":"1.0.1","license":"BSD-3-Clause","location":{"githubOwner":"Risto-Stevcev","githubRepo":"purescript-es6-symbols"},"dependencies":{"console":">=3.0.0 <4.0.0","prelude":">=3.1.0 <4.0.0"}}
+{"name":"es6-symbols","version":"1.0.2","license":"BSD-3-Clause","location":{"githubOwner":"Risto-Stevcev","githubRepo":"purescript-es6-symbols"},"dependencies":{"console":">=3.0.0 <4.0.0","prelude":">=3.1.0 <4.0.0"}}

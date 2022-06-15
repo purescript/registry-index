@@ -1,0 +1,3 @@
+{"name":"with-index","version":"1.0.0","license":"BSD-3-Clause","location":{"githubOwner":"paf31","githubRepo":"purescript-with-index"},"dependencies":{"monoid":">=3.3.0 <4.0.0","newtype":">=2.0.0 <3.0.0"}}
+{"name":"with-index","version":"1.0.1","license":"BSD-3-Clause","location":{"githubOwner":"paf31","githubRepo":"purescript-with-index"},"dependencies":{"monoid":">=3.3.0 <4.0.0","newtype":">=2.0.0 <3.0.0"}}
+{"name":"with-index","version":"2.0.0","license":"BSD-3-Clause","location":{"githubOwner":"paf31","githubRepo":"purescript-with-index"},"dependencies":{"monoid":">=3.3.0 <4.0.0","newtype":">=2.0.0 <3.0.0"}}
