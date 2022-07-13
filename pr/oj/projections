@@ -1,2 +1,0 @@
-{"name":"projections","version":"0.0.2","license":"MIT","location":{"githubOwner":"timdeputter","githubRepo":"purescript-projections"},"description":"Write your eventstore projections in purescript","dependencies":{"console":">=0.1.0 <0.2.0"}}
-{"name":"projections","version":"0.1.0","license":"MIT","location":{"githubOwner":"timdeputter","githubRepo":"purescript-projections"},"description":"Write your eventstore projections in purescript","dependencies":{"console":">=0.1.0 <0.2.0"}}

@@ -1,1 +1,0 @@
-{"name":"signal-aff","version":"0.0.1","license":"BSD-3-Clause","location":{"githubOwner":"chrisdotcode","githubRepo":"purescript-signal-aff"},"dependencies":{"aff":">=2.0.3 <3.0.0","dom":">=3.5.1 <4.0.0","eff":">=2.0.0 <3.0.0","js-timers":">=2.0.0 <3.0.0","prelude":">=2.4.0 <3.0.0","signal":">=8.0.1 <9.0.0"}}

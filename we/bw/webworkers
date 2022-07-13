@@ -1,3 +1,0 @@
-{"name":"webworkers","version":"0.1.1","license":"MIT","location":{"githubOwner":"FrigoEU","githubRepo":"purescript-webworkers"},"dependencies":{"argonaut-codecs":">=2.0.0 <2.0.1","exceptions":">=2.0.0 <2.0.1","foreign":">=3.0.0 <3.0.1"}}
-{"name":"webworkers","version":"0.1.2","license":"MIT","location":{"githubOwner":"FrigoEU","githubRepo":"purescript-webworkers"},"dependencies":{"argonaut-codecs":">=2.0.0 <2.0.1","exceptions":">=2.0.0 <2.0.1","foreign":">=3.0.0 <3.0.1"}}
-{"name":"webworkers","version":"0.2.0","license":"MIT","location":{"githubOwner":"FrigoEU","githubRepo":"purescript-webworkers"},"dependencies":{"argonaut-codecs":">=3.0.0 <3.0.1","exceptions":">=3.0.0 <3.0.1","foreign":">=4.0.0 <4.0.1"}}

@@ -1,1 +1,0 @@
-{"name":"unique-lists","version":"0.0.1","license":"AGPL-3.0","location":{"githubOwner":"colehaus","githubRepo":"purescript-unique-lists"},"dependencies":{"lists":">=4.12.0 <4.12.1","prelude":">=3.2.0 <4.0.0","sets":">=3.1.0 <4.0.0"}}

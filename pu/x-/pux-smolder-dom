@@ -1,1 +1,0 @@
-{"name":"pux-smolder-dom","version":"1.0.0","license":"LGPL-3.0+","location":{"githubOwner":"bodil","githubRepo":"purescript-pux-smolder-dom"},"dependencies":{"exceptions":">=3.0.0 <4.0.0","prelude":">=3.1.0 <4.0.0","pux":">=11.0.0 <12.0.0","smolder":">=10.1.0 <11.0.0","smolder-dom":">=2.0.0 <3.0.0"}}

@@ -1,1 +1,0 @@
-{"name":"wrappable","version":"1.0.0","license":"Apache-2.0","location":{"githubOwner":"cyrbon","githubRepo":"purescript-wrappable"},"description":"Type classes for Wrappable and Unwrappable","dependencies":{"prelude":">=3.0.0 <4.0.0"}}

@@ -1,7 +1,0 @@
-{"name":"leibniz","version":"1.0.0","license":"MIT","location":{"githubOwner":"paf31","githubRepo":"purescript-leibniz"},"dependencies":{"prelude":">=1.0.0 <2.0.0","unsafe-coerce":">=1.0.0 <2.0.0"}}
-{"name":"leibniz","version":"1.1.0","license":"MIT","location":{"githubOwner":"paf31","githubRepo":"purescript-leibniz"},"dependencies":{"prelude":">=1.0.0 <2.0.0","unsafe-coerce":">=1.0.0 <2.0.0"}}
-{"name":"leibniz","version":"2.0.0","license":"MIT","location":{"githubOwner":"paf31","githubRepo":"purescript-leibniz"},"dependencies":{"prelude":">=2.0.0 <3.0.0","unsafe-coerce":">=2.0.0 <3.0.0"}}
-{"name":"leibniz","version":"3.0.0","license":"MIT","location":{"githubOwner":"paf31","githubRepo":"purescript-leibniz"},"dependencies":{"prelude":">=2.0.0 <3.0.0","unsafe-coerce":">=2.0.0 <3.0.0"}}
-{"name":"leibniz","version":"4.0.0","license":"MIT","location":{"githubOwner":"paf31","githubRepo":"purescript-leibniz"},"dependencies":{"prelude":">=3.0.0 <4.0.0","unsafe-coerce":">=3.0.0 <4.0.0"}}
-{"name":"leibniz","version":"4.1.0","license":"MIT","location":{"githubOwner":"paf31","githubRepo":"purescript-leibniz"},"dependencies":{"prelude":">=3.0.0 <4.0.0","unsafe-coerce":">=3.0.0 <4.0.0"}}
-{"name":"leibniz","version":"5.0.0","license":"BSD-3-Clause AND MIT","location":{"githubOwner":"paf31","githubRepo":"purescript-leibniz"},"dependencies":{"prelude":">=4.0.0 <5.0.0","unsafe-coerce":">=4.0.0 <5.0.0"}}

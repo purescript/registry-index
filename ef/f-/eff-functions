@@ -1,3 +1,0 @@
-{"name":"eff-functions","version":"0.1.2","license":"MIT","location":{"githubOwner":"hdgarrood","githubRepo":"purescript-eff-functions"},"dependencies":{}}
-{"name":"eff-functions","version":"1.0.0","license":"MIT","location":{"githubOwner":"hdgarrood","githubRepo":"purescript-eff-functions"},"dependencies":{"eff":">=1.0.0 <2.0.0"}}
-{"name":"eff-functions","version":"2.0.0","license":"MIT","location":{"githubOwner":"hdgarrood","githubRepo":"purescript-eff-functions"},"dependencies":{"eff":">=2.0.0 <3.0.0"}}

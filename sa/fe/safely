@@ -1,5 +1,0 @@
-{"name":"safely","version":"1.0.1","license":"MIT","location":{"githubOwner":"paf31","githubRepo":"purescript-safely"},"dependencies":{"freet":">=1.0.0 <2.0.0","lists":">=1.0.1 <2.0.0"}}
-{"name":"safely","version":"2.0.0","license":"MIT","location":{"githubOwner":"paf31","githubRepo":"purescript-safely"},"dependencies":{"freet":">=2.0.0 <3.0.0","lists":">=3.0.0 <4.0.0"}}
-{"name":"safely","version":"3.0.0","license":"MIT","location":{"githubOwner":"paf31","githubRepo":"purescript-safely"},"dependencies":{"freet":">=3.0.0 <4.0.0","lists":">=4.0.0 <5.0.0"}}
-{"name":"safely","version":"4.0.0","license":"MIT","location":{"githubOwner":"paf31","githubRepo":"purescript-safely"},"dependencies":{"freet":">=4.0.0 <5.0.0","lists":">=5.0.0 <6.0.0"}}
-{"name":"safely","version":"4.0.1","license":"MIT","location":{"githubOwner":"paf31","githubRepo":"purescript-safely"},"dependencies":{"freet":">=4.0.0 <6.0.0","lists":">=5.0.0 <6.0.0"}}

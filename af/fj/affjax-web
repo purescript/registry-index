@@ -1,1 +1,0 @@
-{"name":"affjax-web","version":"1.0.0","license":"Apache-2.0","location":{"githubOwner":"purescript-contrib","githubRepo":"purescript-affjax-web"},"description":"An asynchronous AJAX library built using Aff that runs on the browser.","dependencies":{"affjax":">=13.0.0 <14.0.0"}}

@@ -1,6 +1,0 @@
-{"name":"neovim","version":"0.0.1","license":"MIT","location":{"githubOwner":"player-two","githubRepo":"purescript-neovim"},"dependencies":{"aff":">=1.0.0 <1.1.0","console":">=1.0.0 <2.0.0","node-buffer":">=1.0.0 <1.1.0"}}
-{"name":"neovim","version":"0.0.2","license":"MIT","location":{"githubOwner":"player-two","githubRepo":"purescript-neovim"},"dependencies":{"aff":">=2.0.0 <2.1.0","console":">=2.0.0 <2.1.0","node-buffer":">=2.0.0 <2.1.0"}}
-{"name":"neovim","version":"0.0.3","license":"MIT","location":{"githubOwner":"player-two","githubRepo":"purescript-neovim"},"dependencies":{"aff":">=2.0.0 <2.1.0","console":">=2.0.0 <2.1.0","node-buffer":">=2.0.0 <2.1.0"}}
-{"name":"neovim","version":"0.0.4","license":"MIT","location":{"githubOwner":"player-two","githubRepo":"purescript-neovim"},"dependencies":{"aff":">=2.0.0 <2.1.0","console":">=2.0.0 <2.1.0","node-buffer":">=2.0.0 <2.1.0"}}
-{"name":"neovim","version":"0.0.5","license":"MIT","location":{"githubOwner":"player-two","githubRepo":"purescript-neovim"},"dependencies":{"aff":">=2.0.0 <2.1.0","console":">=2.0.0 <2.1.0","node-buffer":">=2.0.0 <2.1.0"}}
-{"name":"neovim","version":"0.0.6","license":"MIT","location":{"githubOwner":"player-two","githubRepo":"purescript-neovim"},"dependencies":{"aff":">=2.0.0 <2.1.0","console":">=2.0.0 <2.1.0","node-buffer":">=2.0.0 <2.1.0"}}

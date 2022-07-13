@@ -1,5 +1,0 @@
-{"name":"moonshine","version":"0.0.1","license":"Apache-2.0","location":{"githubOwner":"slamdata","githubRepo":"purescript-moonshine"},"dependencies":{"chalky":">=2.0.0 <3.0.0","run":">=1.0.1 <2.0.0"}}
-{"name":"moonshine","version":"0.0.2","license":"Apache-2.0","location":{"githubOwner":"slamdata","githubRepo":"purescript-moonshine"},"dependencies":{"chalky":">=2.0.0 <3.0.0","lunapark":">=0.2.0 <0.3.0"}}
-{"name":"moonshine","version":"0.0.3","license":"Apache-2.0","location":{"githubOwner":"slamdata","githubRepo":"purescript-moonshine"},"dependencies":{"chalky":">=2.0.0 <3.0.0","lunapark":">=0.3.0 <0.4.0"}}
-{"name":"moonshine","version":"1.0.0","license":"Apache-2.0","location":{"githubOwner":"slamdata","githubRepo":"purescript-moonshine"},"dependencies":{"chalky":">=2.0.0 <3.0.0","lunapark":">=1.0.0 <2.0.0"}}
-{"name":"moonshine","version":"2.0.0","license":"Apache-2.0","location":{"githubOwner":"slamdata","githubRepo":"purescript-moonshine"},"dependencies":{"chalky":">=2.0.0 <3.0.0","lunapark":">=1.0.0 <2.0.0"}}
