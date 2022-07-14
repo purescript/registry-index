@@ -1,0 +1,2 @@
+{"name":"pair","version":"0.1.0","license":"Apache-2.0","location":{"githubOwner":"parsonsmatt","githubRepo":"purescript-pair"},"dependencies":{"console":">=0.1.0 <0.2.0","foldable-traversable":">=0.4.2 <0.5.0","tuples":">=0.4.0 <0.5.0"}}
+{"name":"pair","version":"0.1.1","license":"Apache-2.0","location":{"githubOwner":"parsonsmatt","githubRepo":"purescript-pair"},"dependencies":{"console":">=0.1.0 <0.2.0","foldable-traversable":">=0.4.2 <0.5.0","quickcheck":">=0.12.2 <0.13.0","tuples":">=0.4.0 <0.5.0"}}

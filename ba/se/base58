@@ -1,0 +1,1 @@
+{"name":"base58","version":"0.0.3","license":"CC0-1.0","location":{"githubOwner":"throughnothing","githubRepo":"purescript-base58"},"dependencies":{"console":">=3.0.0 <4.0.0","functions":">=3.0.0 <3.0.1","maybe":">=3.0.0 <4.0.0"}}

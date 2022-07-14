@@ -1,0 +1,4 @@
+{"name":"naporitan","version":"0.1.0","license":"MIT","location":{"githubOwner":"justinwoo","githubRepo":"purescript-naporitan"},"dependencies":{"record":">=1.0.0 <2.0.0"}}
+{"name":"naporitan","version":"0.2.0","license":"MIT","location":{"githubOwner":"justinwoo","githubRepo":"purescript-naporitan"},"dependencies":{"record":">=1.0.0 <2.0.0"}}
+{"name":"naporitan","version":"1.0.0","license":"MIT","location":{"githubOwner":"justinwoo","githubRepo":"purescript-naporitan"},"dependencies":{"record":">=2.0.1 <3.0.0","typelevel-prelude":">=5.0.0 <6.0.0"}}
+{"name":"naporitan","version":"2.0.0","license":"MIT","location":{"githubOwner":"justinwoo","githubRepo":"purescript-naporitan"},"dependencies":{"record":">=3.0.0 <4.0.0","typelevel-prelude":">=6.0.0 <7.0.0"}}

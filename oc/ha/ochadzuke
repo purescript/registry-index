@@ -1,0 +1,1 @@
+{"name":"ochadzuke","version":"0.1.0","license":"MIT","location":{"githubOwner":"justinwoo","githubRepo":"purescript-ochadzuke"},"dependencies":{"chirashi":">=0.1.0 <0.2.0","milkis":">=6.0.1 <7.0.0","simple-json":">=4.2.0 <5.0.0"}}

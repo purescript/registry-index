@@ -1,0 +1,4 @@
+{"name":"distributions","version":"1.1.0","license":"MIT","location":{"githubOwner":"paf31","githubRepo":"purescript-distributions"},"dependencies":{"integers":">=1.0.0 <2.0.0","lists":">=1.0.0 <2.0.0"}}
+{"name":"distributions","version":"2.0.0","license":"MIT","location":{"githubOwner":"paf31","githubRepo":"purescript-distributions"},"dependencies":{"lists":">=3.0.0 <4.0.0"}}
+{"name":"distributions","version":"3.0.0","license":"MIT","location":{"githubOwner":"paf31","githubRepo":"purescript-distributions"},"dependencies":{"lists":">=4.0.0 <5.0.0"}}
+{"name":"distributions","version":"4.0.0","license":"MIT","location":{"githubOwner":"paf31","githubRepo":"purescript-distributions"},"dependencies":{"lists":">=5.0.0 <6.0.0"}}

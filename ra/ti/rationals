@@ -1,0 +1,12 @@
+{"name":"rationals","version":"0.3.2","license":"MIT","location":{"githubOwner":"anttih","githubRepo":"purescript-rationals"},"dependencies":{"integers":">=0.2.1 <0.3.0"}}
+{"name":"rationals","version":"0.4.0","license":"MIT","location":{"githubOwner":"anttih","githubRepo":"purescript-rationals"},"dependencies":{"integers":">=1.0.0 <2.0.0"}}
+{"name":"rationals","version":"1.0.0","license":"MIT","location":{"githubOwner":"anttih","githubRepo":"purescript-rationals"},"dependencies":{"integers":">=1.0.0 <2.0.0"}}
+{"name":"rationals","version":"2.0.0","license":"MIT","location":{"githubOwner":"anttih","githubRepo":"purescript-rationals"},"dependencies":{"integers":">=2.0.0 <3.0.0"}}
+{"name":"rationals","version":"2.1.0","license":"MIT","location":{"githubOwner":"anttih","githubRepo":"purescript-rationals"},"dependencies":{"integers":">=2.0.0 <3.0.0"}}
+{"name":"rationals","version":"2.1.1","license":"MIT","location":{"githubOwner":"anttih","githubRepo":"purescript-rationals"},"dependencies":{"integers":">=2.0.0 <3.0.0"}}
+{"name":"rationals","version":"2.1.2","license":"MIT","location":{"githubOwner":"anttih","githubRepo":"purescript-rationals"},"dependencies":{"integers":">=2.0.0 <3.0.0","prelude":">=2.3.0 <3.0.0"}}
+{"name":"rationals","version":"3.0.0","license":"MIT","location":{"githubOwner":"anttih","githubRepo":"purescript-rationals"},"dependencies":{"integers":">=3.0.0 <4.0.0","prelude":">=3.0.0 <4.0.0"}}
+{"name":"rationals","version":"3.1.0","license":"MIT","location":{"githubOwner":"anttih","githubRepo":"purescript-rationals"},"dependencies":{"integers":">=3.0.0 <4.0.0","prelude":">=3.0.0 <4.0.0"}}
+{"name":"rationals","version":"3.1.1","license":"MIT","location":{"githubOwner":"anttih","githubRepo":"purescript-rationals"},"dependencies":{"integers":">=3.0.0 <4.0.0","prelude":">=3.0.0 <4.0.0"}}
+{"name":"rationals","version":"4.0.0","license":"MIT","location":{"githubOwner":"anttih","githubRepo":"purescript-rationals"},"dependencies":{"integers":">=3.0.0 <4.0.0","prelude":">=3.0.0 <4.0.0"}}
+{"name":"rationals","version":"5.0.0","license":"MIT","location":{"githubOwner":"anttih","githubRepo":"purescript-rationals"},"dependencies":{"integers":">=4.0.0 <5.0.0","prelude":">=4.0.1 <5.0.0"}}

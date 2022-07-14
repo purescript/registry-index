@@ -1,0 +1,1 @@
+{"name":"elm-color","version":"0.1.0","license":"BSD-3-Clause","location":{"githubOwner":"brainrape","githubRepo":"purescript-elm-color"},"dependencies":{"tuples":">=0.3.0 <0.4.0"}}

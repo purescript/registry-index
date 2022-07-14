@@ -1,0 +1,1 @@
+{"name":"plan","version":"1.0.0","license":"MIT","location":{"githubOwner":"Lupino","githubRepo":"purescript-plan"},"description":"A simple chat runner write by purescript","dependencies":{"aff":">=4.1.0 <5.0.0","strings":">=3.5.0 <4.0.0"}}

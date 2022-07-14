@@ -1,0 +1,1 @@
+{"name":"pretty-logs","version":"0.1.0","license":"BSD-3-Clause","location":{"githubOwner":"PureFunctor","githubRepo":"purescript-pretty-logs"},"dependencies":{"console":">=5.0.0 <6.0.0","effect":">=3.0.0 <4.0.0","newtype":">=4.0.0 <5.0.0","prelude":">=5.0.0 <6.0.0","psci-support":">=5.0.0 <6.0.0"}}

@@ -1,0 +1,1 @@
+{"name":"formless-aj","version":"0.1.0","license":"Apache-2.0 AND MIT","location":{"githubOwner":"ajnsit","githubRepo":"purescript-formless-independent"},"dependencies":{"aff":">=5.1.1 <6.0.0","datetime":">=4.1.1 <5.0.0","effect":">=2.0.1 <3.0.0","generics-rep":">=6.1.1 <7.0.0","heterogeneous":">=0.4.1 <0.5.0","profunctor-lenses":">=6.2.0 <7.0.0","variant":">=6.0.1 <7.0.0"}}

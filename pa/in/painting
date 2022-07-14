@@ -1,0 +1,1 @@
+{"name":"painting","version":"0.0.0","license":"ISC","location":{"githubOwner":"mikesol","githubRepo":"purescript-painting"},"dependencies":{"canvas":">=5.0.0 <6.0.0","colors":">=5.0.0 <6.0.0","console":">=5.0.0 <6.0.0","effect":">=3.0.0 <4.0.0","foldable-traversable":">=5.0.0 <6.0.0","foreign-object":">=3.0.0 <4.0.0","psci-support":">=5.0.0 <6.0.0","web-html":">=3.0.1 <4.0.0"}}

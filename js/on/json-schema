@@ -1,0 +1,1 @@
+{"name":"json-schema","version":"0.0.1","license":"MIT","location":{"githubOwner":"felixmulder","githubRepo":"purescript-json-schema"},"dependencies":{"generics-rep":">=6.1.0 <7.0.0","prelude":">=4.1.0 <5.0.0","simple-json":">=4.3.0 <5.0.0"}}
