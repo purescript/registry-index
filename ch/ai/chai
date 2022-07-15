@@ -1,1 +1,0 @@
-{"name":"chai","version":"0.0.3","license":"MIT","location":{"githubOwner":"CapillarySoftware","githubRepo":"purescript-chai"},"description":"Chai bindings for PureScript","dependencies":{"easy-ffi":">=1.0.1 <1.1.0"}}

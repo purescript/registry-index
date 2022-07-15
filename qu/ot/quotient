@@ -1,9 +1,0 @@
-{"name":"quotient","version":"0.0.1","license":"BSD-3-Clause","location":{"githubOwner":"rightfold","githubRepo":"purescript-quotient"},"dependencies":{"proxy":">=2.0.0 <3.0.0"}}
-{"name":"quotient","version":"0.0.2","license":"BSD-3-Clause","location":{"githubOwner":"rightfold","githubRepo":"purescript-quotient"},"dependencies":{"proxy":">=2.0.0 <3.0.0"}}
-{"name":"quotient","version":"0.0.3","license":"BSD-3-Clause","location":{"githubOwner":"rightfold","githubRepo":"purescript-quotient"},"dependencies":{"proxy":">=2.0.0 <3.0.0"}}
-{"name":"quotient","version":"0.0.4","license":"BSD-3-Clause","location":{"githubOwner":"rightfold","githubRepo":"purescript-quotient"},"dependencies":{"prelude":">=3.0.0 <4.0.0","proxy":">=2.0.0 <3.0.0"}}
-{"name":"quotient","version":"0.0.5","license":"BSD-3-Clause","location":{"githubOwner":"rightfold","githubRepo":"purescript-quotient"},"dependencies":{"prelude":">=3.0.0 <4.0.0","proxy":">=2.0.0 <3.0.0","quickcheck":">=4.0.0 <5.0.0"}}
-{"name":"quotient","version":"0.0.6","license":"BSD-3-Clause","location":{"githubOwner":"rightfold","githubRepo":"purescript-quotient"},"dependencies":{"prelude":">=3.0.0 <4.0.0","proxy":">=2.0.0 <3.0.0","quickcheck":">=4.0.0 <5.0.0"}}
-{"name":"quotient","version":"1.0.0","license":"BSD-3-Clause","location":{"githubOwner":"rightfold","githubRepo":"purescript-quotient"},"dependencies":{"prelude":">=3.0.0 <4.0.0","proxy":">=2.0.0 <3.0.0","quickcheck":">=4.0.0 <5.0.0"}}
-{"name":"quotient","version":"2.0.0","license":"BSD-3-Clause","location":{"githubOwner":"rightfold","githubRepo":"purescript-quotient"},"dependencies":{"prelude":">=4.0.0 <5.0.0","proxy":">=3.0.0 <4.0.0","quickcheck":">=5.0.0 <6.0.0"}}
-{"name":"quotient","version":"3.0.0","license":"BSD-3-Clause","location":{"githubOwner":"rightfold","githubRepo":"purescript-quotient"},"dependencies":{"prelude":">=4.0.0 <5.0.0","proxy":">=3.0.0 <4.0.0","quickcheck":">=5.0.0 <7.0.0"}}

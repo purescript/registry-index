@@ -1,2 +1,0 @@
-{"name":"pux-spectacle-codeslide","version":"1.0.0","license":"MIT","location":{"githubOwner":"spicydonuts","githubRepo":"purescript-pux-spectacle-codeslide"},"dependencies":{"pux":">=5.0.3 <6.0.0","pux-spectacle":">=1.2.0 <2.0.0"}}
-{"name":"pux-spectacle-codeslide","version":"2.0.0","license":"MIT","location":{"githubOwner":"spicydonuts","githubRepo":"purescript-pux-spectacle-codeslide"},"dependencies":{"pux":">=7.0.0 <8.0.0","pux-spectacle":">=2.0.0 <3.0.0"}}

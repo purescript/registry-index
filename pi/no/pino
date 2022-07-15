@@ -1,1 +1,0 @@
-{"name":"pino","version":"0.1.0","license":"BSD-3-Clause","location":{"githubOwner":"PureFunctor","githubRepo":"purescript-pino"},"dependencies":{"effect":">=3.0.0 <4.0.0","foreign":">=6.0.0 <7.0.0","foreign-object":">=3.0.0 <4.0.0","functions":">=5.0.0 <6.0.0","options":">=6.0.0 <7.0.0","prelude":">=5.0.0 <6.0.0","psci-support":">=5.0.0 <6.0.0","unsafe-coerce":">=5.0.0 <6.0.0"}}

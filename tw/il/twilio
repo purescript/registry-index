@@ -1,1 +1,0 @@
-{"name":"twilio","version":"0.0.1","license":"BSD-3-Clause","location":{"githubOwner":"TinkerTravel","githubRepo":"purescript-twilio"},"dependencies":{"aff":">=2.0.3 <3.0.0","eff":">=2.0.0 <3.0.0"}}

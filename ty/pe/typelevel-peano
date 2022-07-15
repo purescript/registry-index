@@ -1,1 +1,0 @@
-{"name":"typelevel-peano","version":"1.0.1","license":"MIT","location":{"githubOwner":"csicar","githubRepo":"purescript-typelevel-peano"},"dependencies":{"arrays":">=6.0.0 <7.0.0","console":">=5.0.0 <6.0.0","effect":">=3.0.0 <4.0.0","prelude":">=5.0.0 <6.0.0","psci-support":">=5.0.0 <6.0.0","typelevel-prelude":">=6.0.0 <7.0.0","unsafe-coerce":">=5.0.0 <6.0.0"}}

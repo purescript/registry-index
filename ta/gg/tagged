@@ -1,3 +1,0 @@
-{"name":"tagged","version":"1.0.0","license":"MIT","location":{"githubOwner":"LiamGoodacre","githubRepo":"purescript-tagged"},"description":"Phantom tags","dependencies":{"identity":">=2.0.0 <3.0.0"}}
-{"name":"tagged","version":"2.0.0","license":"MIT","location":{"githubOwner":"LiamGoodacre","githubRepo":"purescript-tagged"},"description":"Phantom tags","dependencies":{"identity":">=3.1.0 <4.0.0"}}
-{"name":"tagged","version":"3.0.0","license":"MIT","location":{"githubOwner":"LiamGoodacre","githubRepo":"purescript-tagged"},"description":"Phantom tags","dependencies":{"identity":">=4.0.0 <5.0.0","profunctor":">=4.0.0 <5.0.0"}}

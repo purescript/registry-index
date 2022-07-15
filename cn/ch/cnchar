@@ -1,1 +1,0 @@
-{"name":"cnchar","version":"0.0.1","license":"MIT","location":{"githubOwner":"ongyiren1994","githubRepo":"purescript-cnchar"},"dependencies":{"options":">=6.0.0 <7.0.0","prelude":">=5.0.0 <6.0.0","psci-support":">=5.0.0 <6.0.0","spec":">=5.0.0 <6.0.0"}}

@@ -1,1 +1,0 @@
-{"name":"ssh2-sftp-client","version":"0.1.0","license":"BSD-3-Clause","location":{"githubOwner":"adamczykm","githubRepo":"purescript-ssh2-sftp-client"},"description":"Set of bindings to npm's ssh2-sftp-client.","dependencies":{"aff":">=5.0.2 <6.0.0","effect":">=2.0.0 <3.0.0"}}

@@ -1,2 +1,0 @@
-{"name":"treemap","version":"0.1.0","license":"Apache-2.0","location":{"githubOwner":"slamdata","githubRepo":"purescript-treemap"},"dependencies":{"lists":">=1.0.1 <2.0.0"}}
-{"name":"treemap","version":"0.1.1","license":"Apache-2.0","location":{"githubOwner":"slamdata","githubRepo":"purescript-treemap"},"dependencies":{"lists":">=1.0.1 <2.0.0"}}

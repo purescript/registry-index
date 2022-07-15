@@ -1,2 +1,0 @@
-{"name":"halogen-leaflet","version":"0.0.1","license":"MIT","location":{"githubOwner":"tdammers","githubRepo":"purescript-halogen-leaflet"},"dependencies":{"console":">=3.0.0 <4.0.0","halogen":">=2.0.0 <3.0.0","leaflet-tdammers":">=0.0.4 <0.0.5","prelude":">=3.0.0 <4.0.0"}}
-{"name":"halogen-leaflet","version":"0.1.0","license":"MIT","location":{"githubOwner":"tdammers","githubRepo":"purescript-halogen-leaflet"},"dependencies":{"console":">=3.0.0 <4.0.0","halogen":">=2.0.0 <3.0.0","leaflet-tdammers":">=0.2.0 <0.3.0","prelude":">=3.0.0 <4.0.0"}}

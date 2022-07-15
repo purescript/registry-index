@@ -1,1 +1,0 @@
-{"name":"gm","version":"1.0.0","license":"MIT","location":{"githubOwner":"kofno","githubRepo":"purescript-gm"},"dependencies":{"aff":">=0.13.0 <0.14.0","console":">=0.1.0 <0.2.0","node-buffer":">=0.1.0 <0.2.0","node-fs":">=0.8.1 <0.9.0"}}

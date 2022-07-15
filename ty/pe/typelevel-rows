@@ -1,1 +1,0 @@
-{"name":"typelevel-rows","version":"0.1.0","license":"MIT","location":{"githubOwner":"jordanmartinez","githubRepo":"purescript-typelevel-rows"},"dependencies":{"prelude":">=5.0.1 <6.0.0","psci-support":">=5.0.0 <6.0.0"}}

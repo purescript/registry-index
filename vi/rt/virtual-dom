@@ -1,3 +1,0 @@
-{"name":"virtual-dom","version":"0.1.0","license":"MIT","location":{"githubOwner":"garyb","githubRepo":"purescript-virtual-dom"},"description":"virtual-dom bindings for PureScript","dependencies":{"dom":">=0.1.1 <0.2.0","maybe":">=0.2.0 <0.3.0"}}
-{"name":"virtual-dom","version":"0.2.0","license":"MIT","location":{"githubOwner":"garyb","githubRepo":"purescript-virtual-dom"},"description":"virtual-dom bindings for PureScript","dependencies":{"dom":">=0.1.1 <0.2.0"}}
-{"name":"virtual-dom","version":"0.3.0","license":"MIT","location":{"githubOwner":"garyb","githubRepo":"purescript-virtual-dom"},"description":"virtual-dom bindings for PureScript","dependencies":{"dom":">=0.1.1 <0.2.0","maybe":">=0.2.1 <0.3.0"}}

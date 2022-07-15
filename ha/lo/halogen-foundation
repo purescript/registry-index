@@ -1,1 +1,0 @@
-{"name":"halogen-foundation","version":"0.1.0","license":"Apache-2.0","location":{"githubOwner":"slamdata","githubRepo":"purescript-halogen-foundation"},"dependencies":{"halogen":">=0.4.1 <0.5.0"}}

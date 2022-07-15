@@ -1,1 +1,0 @@
-{"name":"xhr","version":"0.4.0","license":"MIT","location":{"githubOwner":"philopon","githubRepo":"purescript-xhr"},"description":"XMLHttpRequest","dependencies":{"foldable-traversable":">=0.2.1 <0.3.0","maybe":">=0.2.1 <0.3.0","tuples":">=0.2.3 <0.3.0"}}
