@@ -1,7 +1,0 @@
-{"name":"matrices","version":"1.0.0","license":"LGPL-3.0","location":{"githubOwner":"kRITZCREEK","githubRepo":"purescript-matrices"},"dependencies":{"arrays":">=1.1.0 <2.0.0","strings":">=1.1.0 <2.0.0"}}
-{"name":"matrices","version":"1.0.1","license":"LGPL-3.0","location":{"githubOwner":"kRITZCREEK","githubRepo":"purescript-matrices"},"dependencies":{"arrays":">=1.1.0 <2.0.0","strings":">=1.1.0 <2.0.0"}}
-{"name":"matrices","version":"2.0.0","license":"LGPL-3.0","location":{"githubOwner":"kRITZCREEK","githubRepo":"purescript-matrices"},"dependencies":{"arrays":">=3.0.0 <4.0.0","strings":">=2.0.2 <3.0.0"}}
-{"name":"matrices","version":"3.0.0","license":"LGPL-3.0","location":{"githubOwner":"kRITZCREEK","githubRepo":"purescript-matrices"},"dependencies":{"arrays":">=4.0.1 <5.0.0","strings":">=3.0.0 <4.0.0"}}
-{"name":"matrices","version":"4.0.0","license":"LGPL-3.0","location":{"githubOwner":"kRITZCREEK","githubRepo":"purescript-matrices"},"dependencies":{"arrays":">=5.1.0 <6.0.0","strings":">=4.0.1 <5.0.0"}}
-{"name":"matrices","version":"5.0.0","license":"LGPL-3.0","location":{"githubOwner":"kRITZCREEK","githubRepo":"purescript-matrices"},"dependencies":{"arrays":">=5.3.1 <6.0.0","strings":">=4.0.1 <5.0.0"}}
-{"name":"matrices","version":"5.0.1","license":"LGPL-3.0 AND LGPL-3.0-or-later","location":{"githubOwner":"kRITZCREEK","githubRepo":"purescript-matrices"},"dependencies":{"arrays":">=5.3.1 <6.0.0","strings":">=4.0.1 <5.0.0"}}

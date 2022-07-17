@@ -1,3 +1,0 @@
-{"name":"alert","version":"0.0.1","license":"BSD-3-Clause","location":{"githubOwner":"cdepillabout","githubRepo":"purescript-alert"},"dependencies":{"eff":">=0.1.0 <0.2.0","prelude":">=0.1.0 <0.2.0"}}
-{"name":"alert","version":"0.0.2","license":"BSD-3-Clause","location":{"githubOwner":"cdepillabout","githubRepo":"purescript-alert"},"dependencies":{"eff":">=0.1.0 <0.2.0","prelude":">=0.1.0 <0.2.0"}}
-{"name":"alert","version":"0.0.3","license":"BSD-3-Clause","location":{"githubOwner":"cdepillabout","githubRepo":"purescript-alert"},"dependencies":{"eff":">=0.1.0 <0.2.0","prelude":">=0.1.0 <0.2.0"}}

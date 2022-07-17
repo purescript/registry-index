@@ -1,2 +1,0 @@
-{"name":"purview","version":"1.0.0","license":"MIT","location":{"githubOwner":"paf31","githubRepo":"purescript-purview"},"dependencies":{"dom-classy":">=2.2.0 <3.0.0","incremental-functions":">=1.1.2 <2.0.0","refs":">=3.0.0 <4.0.0"}}
-{"name":"purview","version":"1.1.0","license":"MIT","location":{"githubOwner":"paf31","githubRepo":"purescript-purview"},"dependencies":{"dom-classy":">=2.2.0 <3.0.0","incremental-functions":">=1.3.0 <2.0.0","refs":">=3.0.0 <4.0.0"}}

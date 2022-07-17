@@ -1,3 +1,0 @@
-{"name":"functor1","version":"1.0.0","license":"MIT","location":{"githubOwner":"garyb","githubRepo":"purescript-functor1"},"dependencies":{"newtype":">=3.0.0 <4.0.0","prelude":">=4.1.0 <5.0.0"}}
-{"name":"functor1","version":"2.0.0","license":"MIT","location":{"githubOwner":"garyb","githubRepo":"purescript-functor1"},"dependencies":{"newtype":">=4.0.0 <5.0.0","prelude":">=5.0.0 <6.0.0"}}
-{"name":"functor1","version":"3.0.0","license":"MIT","location":{"githubOwner":"garyb","githubRepo":"purescript-functor1"},"dependencies":{"newtype":">=5.0.0 <6.0.0","prelude":">=6.0.0 <7.0.0"}}

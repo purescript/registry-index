@@ -1,2 +1,0 @@
-{"name":"functor-products","version":"1.0.0","license":"MIT","location":{"githubOwner":"purescript-deprecated","githubRepo":"purescript-functor-products"},"description":"Functor products","dependencies":{"foldable-traversable":">=1.0.0 <2.0.0","tuples":">=1.0.0 <2.0.0"}}
-{"name":"functor-products","version":"2.0.0","license":"MIT","location":{"githubOwner":"purescript-deprecated","githubRepo":"purescript-functor-products"},"description":"Functor products","dependencies":{"foldable-traversable":">=2.0.0 <3.0.0","tuples":">=3.0.0 <4.0.0"}}

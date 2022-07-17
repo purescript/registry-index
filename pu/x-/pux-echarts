@@ -1,2 +1,0 @@
-{"name":"pux-echarts","version":"0.1.0","license":"Apache-2.0","location":{"githubOwner":"tweag","githubRepo":"purescript-pux-echarts"},"dependencies":{"echarts":">=5.0.0 <6.0.0","pux":">=10.0.0 <11.0.0"}}
-{"name":"pux-echarts","version":"1.0.0","license":"Apache-2.0","location":{"githubOwner":"tweag","githubRepo":"purescript-pux-echarts"},"dependencies":{"echarts":">=5.0.0 <6.0.0","pux":">=11.0.0 <12.0.0","smolder":">=10.2.0 <11.0.0"}}

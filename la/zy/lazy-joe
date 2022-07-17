@@ -1,1 +1,0 @@
-{"name":"lazy-joe","version":"1.0.0","license":"MIT-0","location":{"githubOwner":"sigma-andex","githubRepo":"purescript-lazy-joe"},"dependencies":{"aff":">=7.0.0 <8.0.0","aff-promise":">=4.0.0 <5.0.0","effect":">=4.0.0 <5.0.0","functions":">=6.0.0 <7.0.0","prelude":">=6.0.0 <7.0.0","unsafe-coerce":">=6.0.0 <7.0.0"}}

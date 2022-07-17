@@ -1,1 +1,0 @@
-{"name":"yesod-auth","version":"0.1.0","license":"BSD-3-Clause","location":{"githubOwner":"zudov","githubRepo":"purescript-yesod-auth"},"dependencies":{"affjax":">=0.10.2 <0.11.0","foreign-generic":">=0.3.0 <0.4.0","form-urlencoded":">=0.2.0 <0.3.0","uri":">=0.2.1 <0.3.0"}}

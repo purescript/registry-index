@@ -1,4 +1,0 @@
-{"name":"tropical","version":"1.0.1","license":"MIT","location":{"githubOwner":"paf31","githubRepo":"purescript-tropical"},"dependencies":{"globals":">=1.0.0 <2.0.0","math":">=2.0.0 <3.0.0","prelude":">=1.0.0 <2.0.0"}}
-{"name":"tropical","version":"2.0.0","license":"MIT","location":{"githubOwner":"paf31","githubRepo":"purescript-tropical"},"dependencies":{"globals":">=2.0.0 <3.0.0","math":">=2.0.0 <3.0.0","newtype":">=1.0.0 <2.0.0","prelude":">=2.0.0 <3.0.0"}}
-{"name":"tropical","version":"3.0.0","license":"MIT","location":{"githubOwner":"paf31","githubRepo":"purescript-tropical"},"dependencies":{"globals":">=3.0.0 <4.0.0","math":">=2.0.0 <3.0.0","newtype":">=2.0.0 <3.0.0","prelude":">=3.0.0 <4.0.0"}}
-{"name":"tropical","version":"4.0.0","license":"MIT","location":{"githubOwner":"paf31","githubRepo":"purescript-tropical"},"dependencies":{"globals":">=4.0.0 <5.0.0","math":">=2.0.0 <3.0.0","newtype":">=3.0.0 <4.0.0","prelude":">=4.0.0 <5.0.0"}}

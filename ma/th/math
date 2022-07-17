@@ -1,8 +1,0 @@
-{"name":"math","version":"0.1.0","license":"MIT","location":{"githubOwner":"purescript-deprecated","githubRepo":"purescript-math"},"description":"Math functions","dependencies":{}}
-{"name":"math","version":"0.1.1","license":"MIT","location":{"githubOwner":"purescript-deprecated","githubRepo":"purescript-math"},"description":"Math functions","dependencies":{}}
-{"name":"math","version":"0.2.0","license":"MIT","location":{"githubOwner":"purescript-deprecated","githubRepo":"purescript-math"},"description":"Math functions","dependencies":{}}
-{"name":"math","version":"1.0.0","license":"MIT","location":{"githubOwner":"purescript-deprecated","githubRepo":"purescript-math"},"description":"Math functions","dependencies":{}}
-{"name":"math","version":"2.0.0","license":"MIT","location":{"githubOwner":"purescript-deprecated","githubRepo":"purescript-math"},"description":"Math functions","dependencies":{}}
-{"name":"math","version":"2.1.0","license":"MIT","location":{"githubOwner":"purescript-deprecated","githubRepo":"purescript-math"},"description":"Math functions","dependencies":{}}
-{"name":"math","version":"2.1.1","license":"BSD-3-Clause","location":{"githubOwner":"purescript-deprecated","githubRepo":"purescript-math"},"dependencies":{}}
-{"name":"math","version":"3.0.0","license":"BSD-3-Clause","location":{"githubOwner":"purescript-deprecated","githubRepo":"purescript-math"},"dependencies":{}}

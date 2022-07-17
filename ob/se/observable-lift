@@ -1,3 +1,0 @@
-{"name":"observable-lift","version":"0.1.0","license":"LGPL-3.0+","location":{"githubOwner":"justinwoo","githubRepo":"purescript-observable-lift"},"dependencies":{"eff":">=1.0.0 <2.0.0","observable":">=2.2.0 <3.0.0"}}
-{"name":"observable-lift","version":"0.2.0","license":"LGPL-3.0+","location":{"githubOwner":"justinwoo","githubRepo":"purescript-observable-lift"},"dependencies":{"eff":">=1.0.0 <2.0.0","observable":">=2.2.0 <3.0.0"}}
-{"name":"observable-lift","version":"0.2.1","license":"LGPL-3.0+","location":{"githubOwner":"justinwoo","githubRepo":"purescript-observable-lift"},"dependencies":{"eff":">=1.0.0 <2.0.0","observable":">=2.2.0 <3.0.0"}}

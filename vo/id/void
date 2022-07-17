@@ -1,4 +1,0 @@
-{"name":"void","version":"0.1.0","license":"MIT","location":{"githubOwner":"joneshf","githubRepo":"purescript-void"},"description":"PureScript uninhabited data type.","dependencies":{"contravariant":">=0.0.1 <0.1.0"}}
-{"name":"void","version":"0.2.0","license":"MIT","location":{"githubOwner":"joneshf","githubRepo":"purescript-void"},"description":"PureScript uninhabited data type.","dependencies":{"contravariant":">=0.1.0 <0.2.0"}}
-{"name":"void","version":"0.2.1","license":"MIT","location":{"githubOwner":"joneshf","githubRepo":"purescript-void"},"description":"PureScript uninhabited data type.","dependencies":{"contravariant":">=0.1.0 <0.2.0"}}
-{"name":"void","version":"0.3.0","license":"MIT","location":{"githubOwner":"joneshf","githubRepo":"purescript-void"},"description":"PureScript uninhabited data type.","dependencies":{"contravariant":">=0.2.0 <0.3.0"}}

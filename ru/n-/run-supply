@@ -1,1 +1,0 @@
-{"name":"run-supply","version":"1.0.0","license":"MIT","location":{"githubOwner":"joneshf","githubRepo":"purescript-run-supply"},"description":"Supply of values","dependencies":{"run":">=2.0.0 <3.0.0"}}

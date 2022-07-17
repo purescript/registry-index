@@ -1,4 +1,0 @@
-{"name":"mocha","version":"0.0.2","license":"MIT","location":{"githubOwner":"CapillarySoftware","githubRepo":"purescript-mocha"},"description":"Mocha bindings for PureScript","dependencies":{"easy-ffi":">=1.0.1 <1.1.0"}}
-{"name":"mocha","version":"0.0.3","license":"MIT","location":{"githubOwner":"CapillarySoftware","githubRepo":"purescript-mocha"},"description":"Mocha bindings for PureScript","dependencies":{}}
-{"name":"mocha","version":"0.0.4","license":"MIT","location":{"githubOwner":"CapillarySoftware","githubRepo":"purescript-mocha"},"description":"Mocha bindings for PureScript","dependencies":{"context":">=0.0.3 <0.1.0","oo-ffi":">=0.0.4 <0.1.0"}}
-{"name":"mocha","version":"0.0.5","license":"MIT","location":{"githubOwner":"CapillarySoftware","githubRepo":"purescript-mocha"},"description":"Mocha bindings for PureScript","dependencies":{"context":">=0.0.3 <0.1.0","oo-ffi":">=0.0.4 <0.1.0"}}

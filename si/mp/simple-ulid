@@ -1,2 +1,0 @@
-{"name":"simple-ulid","version":"1.0.0","license":"MIT","location":{"githubOwner":"oreshinya","githubRepo":"purescript-simple-ulid"},"dependencies":{"exceptions":">=4.0.0 <5.0.0","now":">=4.0.0 <5.0.0","strings":">=4.0.2 <5.0.0"}}
-{"name":"simple-ulid","version":"2.0.0","license":"MIT","location":{"githubOwner":"oreshinya","githubRepo":"purescript-simple-ulid"},"dependencies":{"exceptions":">=5.0.0 <6.0.0","now":">=5.0.0 <6.0.0","strings":">=5.0.0 <6.0.0"}}

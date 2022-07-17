@@ -1,1 +1,0 @@
-{"name":"cons","version":"0.1.0","license":"MIT","location":{"githubOwner":"joneshf","githubRepo":"purescript-cons"},"description":"Abstractions for inserting/removing from ends of a data structure.","dependencies":{"arrays":">=0.2.1 <0.3.0","either":">=0.1.4 <0.2.0","lens":">=0.3.2 <0.4.0","maybe":">=0.2.1 <0.3.0","tuples":">=0.2.2 <0.3.0"}}

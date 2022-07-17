@@ -1,2 +1,0 @@
-{"name":"c3","version":"0.1.0","license":"MIT","location":{"githubOwner":"joneshf","githubRepo":"purescript-c3"},"description":"PureScript bindings for c3.","dependencies":{}}
-{"name":"c3","version":"0.1.1","license":"MIT","location":{"githubOwner":"joneshf","githubRepo":"purescript-c3"},"description":"PureScript bindings for c3.","dependencies":{"dom":">=0.1.0 <0.2.0"}}

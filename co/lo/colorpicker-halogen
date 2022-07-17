@@ -1,1 +1,0 @@
-{"name":"colorpicker-halogen","version":"0.2.0","license":"Apache-2.0","location":{"githubOwner":"slamdata","githubRepo":"purescript-colorpicker-halogen"},"dependencies":{"colors":">=4.0.0 <5.0.0","dom-classy":">=2.1.0 <3.0.0","halogen-css":">=7.0.0 <8.0.0","halogen-proxy":">=1.0.0 <2.0.0"}}

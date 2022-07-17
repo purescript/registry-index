@@ -1,6 +1,0 @@
-{"name":"mote","version":"0.1.0","license":"MIT","location":{"githubOwner":"garyb","githubRepo":"purescript-mote"},"dependencies":{"exists":">=3.0.0 <4.0.0","these":">=3.0.0 <4.0.0","transformers":">=3.5.0 <4.0.0"}}
-{"name":"mote","version":"0.2.0","license":"MIT","location":{"githubOwner":"garyb","githubRepo":"purescript-mote"},"dependencies":{"these":">=3.0.0 <4.0.0","transformers":">=3.5.0 <4.0.0"}}
-{"name":"mote","version":"1.0.0","license":"MIT","location":{"githubOwner":"garyb","githubRepo":"purescript-mote"},"dependencies":{"arrays":">=5.1.1 <6.0.0","these":">=4.0.0 <5.0.0","transformers":">=4.1.0 <5.0.0"}}
-{"name":"mote","version":"1.1.0","license":"MIT","location":{"githubOwner":"garyb","githubRepo":"purescript-mote"},"dependencies":{"arrays":">=5.1.1 <6.0.0","these":">=4.0.0 <5.0.0","transformers":">=4.1.0 <5.0.0"}}
-{"name":"mote","version":"2.0.0","license":"MIT","location":{"githubOwner":"garyb","githubRepo":"purescript-mote"},"dependencies":{"arrays":">=6.0.1 <7.0.0","these":">=5.0.0 <6.0.0","transformers":">=5.0.0 <6.0.0"}}
-{"name":"mote","version":"3.0.0","license":"MIT","location":{"githubOwner":"garyb","githubRepo":"purescript-mote"},"dependencies":{"arrays":">=7.0.0 <8.0.0","these":">=6.0.0 <7.0.0","transformers":">=6.0.0 <7.0.0"}}
