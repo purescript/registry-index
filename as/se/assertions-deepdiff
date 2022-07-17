@@ -1,0 +1,1 @@
+{"name":"assertions-deepdiff","version":"0.1.0","license":"Apache-2.0","location":{"githubOwner":"cyrbon","githubRepo":"purescript-assertions-deepdiff"},"description":"Assertions about JS objects using deep diffs","dependencies":{"prelude":">=3.0.0 <4.0.0","spec":">=1.0.0 <2.0.0"}}

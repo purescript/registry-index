@@ -1,0 +1,1 @@
+{"name":"st-lazy-ref","version":"0.0.1","license":"MIT","location":{"githubOwner":"matthewleon","githubRepo":"purescript-st-lazy-ref"},"description":"Lazy references with the ST effect.","dependencies":{"eff":">=3.1.0 <4.0.0","newtype":">=2.0.0 <3.0.0","prelude":">=3.0.0 <4.0.0","st":">=3.0.0 <4.0.0"}}

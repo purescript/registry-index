@@ -1,0 +1,1 @@
+{"name":"periodic","version":"1.0.0","license":"MIT","location":{"githubOwner":"Lupino","githubRepo":"purescript-periodic"},"description":"The periodic task system client for purescript","dependencies":{"aff":">=4.0.2 <5.0.0"}}

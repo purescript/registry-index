@@ -1,0 +1,1 @@
+{"name":"halogen-proxy","version":"1.0.0","license":"Apache-2.0","location":{"githubOwner":"slamdata","githubRepo":"purescript-halogen-proxy"},"dependencies":{"halogen":">=3.0.1 <4.0.0"}}

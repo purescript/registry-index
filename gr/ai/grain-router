@@ -1,0 +1,11 @@
+{"name":"grain-router","version":"0.1.0","license":"MIT","location":{"githubOwner":"purescript-grain","githubRepo":"purescript-grain-router"},"dependencies":{"grain":">=0.1.0 <0.1.1","profunctor":">=4.1.0 <5.0.0"}}
+{"name":"grain-router","version":"0.2.0","license":"MIT","location":{"githubOwner":"purescript-grain","githubRepo":"purescript-grain-router"},"dependencies":{"grain":">=0.2.0 <0.2.1","profunctor":">=4.1.0 <5.0.0"}}
+{"name":"grain-router","version":"0.3.0","license":"MIT","location":{"githubOwner":"purescript-grain","githubRepo":"purescript-grain-router"},"dependencies":{"grain":">=0.3.0 <0.3.1","profunctor":">=4.1.0 <5.0.0"}}
+{"name":"grain-router","version":"0.4.0","license":"MIT","location":{"githubOwner":"purescript-grain","githubRepo":"purescript-grain-router"},"dependencies":{"grain":">=0.4.0 <0.4.1","profunctor":">=4.1.0 <5.0.0"}}
+{"name":"grain-router","version":"0.4.1","license":"MIT","location":{"githubOwner":"purescript-grain","githubRepo":"purescript-grain-router"},"dependencies":{"grain":">=0.4.1 <0.4.2","profunctor":">=4.1.0 <5.0.0"}}
+{"name":"grain-router","version":"0.5.0","license":"MIT","location":{"githubOwner":"purescript-grain","githubRepo":"purescript-grain-router"},"dependencies":{"grain":">=0.5.0 <0.5.1","profunctor":">=4.1.0 <5.0.0"}}
+{"name":"grain-router","version":"0.7.0","license":"MIT","location":{"githubOwner":"purescript-grain","githubRepo":"purescript-grain-router"},"dependencies":{"grain":">=0.7.0 <0.7.1","profunctor":">=4.1.0 <5.0.0"}}
+{"name":"grain-router","version":"0.8.0","license":"MIT","location":{"githubOwner":"purescript-grain","githubRepo":"purescript-grain-router"},"dependencies":{"grain":">=0.8.0 <0.8.1","profunctor":">=4.1.0 <5.0.0"}}
+{"name":"grain-router","version":"0.9.0","license":"MIT","location":{"githubOwner":"purescript-grain","githubRepo":"purescript-grain-router"},"dependencies":{"grain":">=0.9.0 <0.9.1","profunctor":">=4.1.0 <5.0.0"}}
+{"name":"grain-router","version":"1.0.0","license":"MIT","location":{"githubOwner":"purescript-grain","githubRepo":"purescript-grain-router"},"dependencies":{"grain":">=1.0.0 <1.0.1","profunctor":">=4.1.0 <5.0.0"}}
+{"name":"grain-router","version":"2.0.0","license":"MIT","location":{"githubOwner":"purescript-grain","githubRepo":"purescript-grain-router"},"dependencies":{"grain":">=2.0.0 <2.0.1","profunctor":">=5.0.0 <6.0.0"}}

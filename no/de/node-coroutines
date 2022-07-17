@@ -1,0 +1,2 @@
+{"name":"node-coroutines","version":"1.0.0","license":"MIT","location":{"githubOwner":"paf31","githubRepo":"purescript-node-coroutines"},"dependencies":{"aff-coroutines":">=5.0.0 <6.0.0","node-streams":">=3.1.0 <4.0.0"}}
+{"name":"node-coroutines","version":"2.0.0","license":"MIT","location":{"githubOwner":"paf31","githubRepo":"purescript-node-coroutines"},"dependencies":{"aff-coroutines":">=7.0.0 <8.0.0","avar":">=3.0.0 <4.0.0","node-streams":">=4.0.0 <5.0.0"}}

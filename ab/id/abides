@@ -1,0 +1,2 @@
+{"name":"abides","version":"0.0.0","license":"BSD-3-Clause","location":{"githubOwner":"athanclark","githubRepo":"purescript-abides"},"dependencies":{"enums":">=4.0.1 <5.0.0","foldable-traversable":">=4.1.1 <5.0.0","prelude":">=4.1.1 <5.0.0"}}
+{"name":"abides","version":"0.0.1","license":"BSD-3-Clause","location":{"githubOwner":"athanclark","githubRepo":"purescript-abides"},"dependencies":{"enums":">=4.0.1 <5.0.0","foldable-traversable":">=4.1.1 <5.0.0","prelude":">=4.1.1 <5.0.0"}}

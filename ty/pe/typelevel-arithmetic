@@ -1,0 +1,1 @@
+{"name":"typelevel-arithmetic","version":"0.1.0","license":"MIT-0","location":{"githubOwner":"sigma-andex","githubRepo":"purescript-typelevel-arithmetic"},"dependencies":{"console":">=5.0.0 <6.0.0","effect":">=3.0.0 <4.0.0","prelude":">=5.0.1 <6.0.0","psci-support":">=5.0.0 <6.0.0","tuples":">=6.0.1 <7.0.0"}}

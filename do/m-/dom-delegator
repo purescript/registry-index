@@ -1,0 +1,1 @@
+{"name":"dom-delegator","version":"0.1.0","license":"MIT","location":{"githubOwner":"philopon","githubRepo":"purescript-dom-delegator"},"dependencies":{"dom":">=0.1.1 <0.2.0"}}

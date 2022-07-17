@@ -1,0 +1,4 @@
+{"name":"number-format","version":"0.1.0","license":"MIT","location":{"githubOwner":"Jonplussed","githubRepo":"purescript-number-format"},"description":"Number-to-String functions","dependencies":{"maybe":">=0.2.1 <0.2.2"}}
+{"name":"number-format","version":"0.2.0","license":"MIT","location":{"githubOwner":"Jonplussed","githubRepo":"purescript-number-format"},"description":"Number-to-String functions","dependencies":{"maybe":">=0.2.1 <0.2.2"}}
+{"name":"number-format","version":"0.2.1","license":"MIT","location":{"githubOwner":"Jonplussed","githubRepo":"purescript-number-format"},"description":"Number-to-String functions","dependencies":{"exceptions":">=0.2.3 <0.2.4","maybe":">=0.2.2 <0.2.3"}}
+{"name":"number-format","version":"0.3.0","license":"MIT","location":{"githubOwner":"Jonplussed","githubRepo":"purescript-number-format"},"description":"Number-to-String functions","dependencies":{"eff":">=0.1.0 <0.1.1","exceptions":">=0.3.0 <0.3.1","maybe":">=0.3.2 <0.3.3"}}
