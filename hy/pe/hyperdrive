@@ -1,0 +1,1 @@
+{"name":"hyperdrive","version":"0.1.0","license":"MPL-2.0","location":{"githubOwner":"purescript-hyper","githubRepo":"purescript-hyperdrive"},"dependencies":{"console":">=3.0.0 <4.0.0","hyper":">=0.7.3 <0.8.0","prelude":">=3.0.0 <4.0.0"}}

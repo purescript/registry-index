@@ -1,0 +1,2 @@
+{"name":"puxing-bob","version":"0.0.3","license":"BSD-3-Clause","location":{"githubOwner":"paluh","githubRepo":"purescript-puxing-bob"},"dependencies":{"bifunctors":">=2.0.0 <3.0.0","console":">=2.0.0 <3.0.0","const":">=2.0.0 <3.0.0","pux":">=7.0.0 <8.0.0","routing-bob":">=0.4.2 <0.5.0"}}
+{"name":"puxing-bob","version":"0.1.0","license":"BSD-3-Clause","location":{"githubOwner":"paluh","githubRepo":"purescript-puxing-bob"},"dependencies":{"bifunctors":">=2.0.0 <3.0.0","console":">=2.0.0 <3.0.0","const":">=2.0.0 <3.0.0","pux":">=7.0.0 <8.0.0","routing-bob":">=0.4.2 <0.5.0"}}

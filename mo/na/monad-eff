@@ -1,0 +1,1 @@
+{"name":"monad-eff","version":"0.1.0","license":"MIT","location":{"githubOwner":"purescript-deprecated","githubRepo":"purescript-monad-eff"},"description":"A type class for monads which support native effects","dependencies":{"transformers":">=0.5.0 <0.6.0"}}

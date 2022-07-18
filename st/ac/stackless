@@ -1,0 +1,2 @@
+{"name":"stackless","version":"0.0.4","license":"MIT","location":{"githubOwner":"clinuxrulz","githubRepo":"purescript-stackless"},"dependencies":{"console":">=0.1.0 <0.2.0","eff":">=0.1.2 <0.2.0","tailrec":">=0.3.1 <0.4.0","transformers":">=0.8.4 <0.9.0"}}
+{"name":"stackless","version":"0.0.5","license":"MIT","location":{"githubOwner":"clinuxrulz","githubRepo":"purescript-stackless"},"dependencies":{"console":">=0.1.0 <0.2.0","eff":">=0.1.2 <0.2.0","tailrec":">=0.3.1 <0.4.0","transformers":">=0.8.4 <0.9.0"}}

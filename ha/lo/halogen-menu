@@ -1,0 +1,8 @@
+{"name":"halogen-menu","version":"0.5.0","license":"Apache-2.0","location":{"githubOwner":"slamdata","githubRepo":"purescript-halogen-menu"},"dependencies":{"generics":">=0.7.0 <0.8.0","halogen":">=0.6.1 <0.7.0"}}
+{"name":"halogen-menu","version":"0.6.0","license":"Apache-2.0","location":{"githubOwner":"slamdata","githubRepo":"purescript-halogen-menu"},"dependencies":{"generics":">=0.7.0 <0.8.0","halogen":">=0.7.0 <0.8.0"}}
+{"name":"halogen-menu","version":"0.7.0","license":"Apache-2.0","location":{"githubOwner":"slamdata","githubRepo":"purescript-halogen-menu"},"dependencies":{"generics":">=0.7.0 <0.8.0","halogen":">=0.8.0 <0.9.0"}}
+{"name":"halogen-menu","version":"1.0.0","license":"Apache-2.0","location":{"githubOwner":"slamdata","githubRepo":"purescript-halogen-menu"},"dependencies":{"generics":">=1.0.0 <2.0.0","halogen":">=0.10.0 <0.11.0"}}
+{"name":"halogen-menu","version":"2.0.0","license":"Apache-2.0","location":{"githubOwner":"slamdata","githubRepo":"purescript-halogen-menu"},"dependencies":{"generics":">=1.0.1 <2.0.0","halogen":">=0.11.0 <0.12.0"}}
+{"name":"halogen-menu","version":"3.0.0","license":"Apache-2.0","location":{"githubOwner":"slamdata","githubRepo":"purescript-halogen-menu"},"dependencies":{"generics":">=3.1.0 <4.0.0","halogen":">=0.12.0 <0.13.0"}}
+{"name":"halogen-menu","version":"4.0.0","license":"Apache-2.0","location":{"githubOwner":"slamdata","githubRepo":"purescript-halogen-menu"},"dependencies":{"halogen":">=1.0.0 <2.0.0"}}
+{"name":"halogen-menu","version":"5.0.0","license":"Apache-2.0","location":{"githubOwner":"slamdata","githubRepo":"purescript-halogen-menu"},"dependencies":{"halogen":">=3.1.2 <4.0.0"}}

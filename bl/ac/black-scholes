@@ -1,0 +1,2 @@
+{"name":"black-scholes","version":"0.1.0","license":"MIT","location":{"githubOwner":"vyorkin","githubRepo":"purescript-black-scholes"},"dependencies":{"console":">=2.0.0 <3.0.0","math":">=2.0.0 <3.0.0","prelude":">=2.1.0 <3.0.0"}}
+{"name":"black-scholes","version":"0.1.1","license":"MIT","location":{"githubOwner":"vyorkin","githubRepo":"purescript-black-scholes"},"dependencies":{"console":">=2.0.0 <3.0.0","math":">=2.0.0 <3.0.0","prelude":">=2.1.0 <3.0.0"}}

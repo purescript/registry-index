@@ -1,0 +1,2 @@
+{"name":"bingsu","version":"0.1.0","license":"MIT","location":{"githubOwner":"justinwoo","githubRepo":"purescript-bingsu"},"dependencies":{"node-sqlite3":">=6.0.0 <7.0.0","typelevel-prelude":">=5.0.0 <6.0.0"}}
+{"name":"bingsu","version":"0.2.0","license":"MIT","location":{"githubOwner":"justinwoo","githubRepo":"purescript-bingsu"},"dependencies":{"node-sqlite3":">=6.0.0 <7.0.0","typelevel-prelude":">=5.0.0 <6.0.0"}}

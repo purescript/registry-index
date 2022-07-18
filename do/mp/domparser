@@ -1,0 +1,1 @@
+{"name":"domparser","version":"0.0.1","license":"MIT","location":{"githubOwner":"Fresheyeball","githubRepo":"purescript-DOMParser"},"dependencies":{"dom":">=0.1.1 <0.2.0","mime":">=0.0.2 <0.1.0","oo-ffi":">=0.0.5 <0.1.0"}}

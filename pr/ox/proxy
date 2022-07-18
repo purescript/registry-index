@@ -1,0 +1,7 @@
+{"name":"proxy","version":"0.1.0","license":"MIT","location":{"githubOwner":"purescript-deprecated","githubRepo":"purescript-proxy"},"description":"Value proxy for type inputs","dependencies":{}}
+{"name":"proxy","version":"1.0.0","license":"MIT","location":{"githubOwner":"purescript-deprecated","githubRepo":"purescript-proxy"},"description":"Value proxy for type inputs","dependencies":{}}
+{"name":"proxy","version":"2.0.0","license":"MIT","location":{"githubOwner":"purescript-deprecated","githubRepo":"purescript-proxy"},"description":"Value proxy for type inputs","dependencies":{}}
+{"name":"proxy","version":"2.1.0","license":"MIT","location":{"githubOwner":"purescript-deprecated","githubRepo":"purescript-proxy"},"description":"Value proxy for type inputs","dependencies":{"prelude":">=3.1.0 <4.0.0"}}
+{"name":"proxy","version":"3.0.0","license":"BSD-3-Clause","location":{"githubOwner":"purescript-deprecated","githubRepo":"purescript-proxy"},"dependencies":{"prelude":">=4.0.0 <5.0.0"}}
+{"name":"proxy","version":"3.0.1","license":"BSD-3-Clause","location":{"githubOwner":"purescript-deprecated","githubRepo":"purescript-proxy"},"dependencies":{"prelude":">=4.0.0 <5.0.0"}}
+{"name":"proxy","version":"3.0.2","license":"BSD-3-Clause","location":{"githubOwner":"purescript-deprecated","githubRepo":"purescript-proxy"},"dependencies":{"prelude":">=4.1.1 <5.0.0"}}
