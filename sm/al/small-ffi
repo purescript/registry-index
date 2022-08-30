@@ -1,3 +1,4 @@
 {"name":"small-ffi","version":"1.0.0","license":"MIT","location":{"githubOwner":"lfarroco","githubRepo":"purescript-small-ffi"},"description":"Easy FFI for PureScript","dependencies":{}}
 {"name":"small-ffi","version":"1.0.1","license":"MIT","location":{"githubOwner":"lfarroco","githubRepo":"purescript-small-ffi"},"description":"Easy FFI for PureScript","dependencies":{}}
 {"name":"small-ffi","version":"1.0.2","license":"MIT","location":{"githubOwner":"lfarroco","githubRepo":"purescript-small-ffi"},"description":"Easy FFI for PureScript","dependencies":{"prelude":">=0.1.0 <0.2.0"}}
+{"name":"small-ffi","version":"2.0.0","license":"MIT","location":{"githubOwner":"lfarroco","githubRepo":"purescript-small-ffi"},"description":"Easy FFI for PureScript","dependencies":{"prelude":">=1.0.1 <2.0.0"}}
