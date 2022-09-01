@@ -1,5 +1,5 @@
 {"name":"prettier","version":"0.0.1","license":"MIT","location":{"githubOwner":"epicallan","githubRepo":"purescript-prettier"},"dependencies":{"maybe":">=3.0.0 <4.0.0","prelude":">=3.0.0 <4.0.0"}}
-{"name":"prettier","version":"0.0.2","license":"MIT","location":{"githubOwner":"epicallan","githubRepo":"purescript-prettier"},"dependencies":{"maybe":">=3.0.0 <4.0.0","prelude":">=3.1.0 <4.0.0"}}
+{"name":"prettier","version":"0.0.2","license":"MIT","location":{"githubOwner":"epicallan","githubRepo":"purescript-prettier"},"dependencies":{"maybe":">=3.0.0 <4.0.0","prelude":">=3.0.0 <4.0.0"}}
 {"name":"prettier","version":"0.1.0","license":"MIT","location":{"githubOwner":"epicallan","githubRepo":"purescript-prettier"},"dependencies":{"maybe":">=3.0.0 <4.0.0","prelude":">=3.1.1 <4.0.0"}}
 {"name":"prettier","version":"0.2.0","license":"MIT","location":{"githubOwner":"epicallan","githubRepo":"purescript-prettier"},"dependencies":{"maybe":">=4.0.0 <5.0.0","prelude":">=4.0.0 <5.0.0"}}
-{"name":"prettier","version":"0.3.0","license":"MIT","location":{"githubOwner":"epicallan","githubRepo":"purescript-prettier"},"dependencies":{"maybe":">=4.0.1 <5.0.0","prelude":">=4.1.1 <5.0.0"}}
+{"name":"prettier","version":"0.3.0","license":"MIT","location":{"githubOwner":"epicallan","githubRepo":"purescript-prettier"},"dependencies":{"maybe":">=4.0.0 <5.0.0","prelude":">=4.0.0 <5.0.0"}}
