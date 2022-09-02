@@ -1,1 +1,0 @@
-{"name":"nodetrout","version":"0.0.1","license":"MIT","location":{"githubOwner":"nsaunders","githubRepo":"purescript-nodetrout"},"dependencies":{"effect":">=2.0.1 <3.0.0","form-urlencoded":">=5.0.0 <6.0.0","http-methods":">=4.0.2 <5.0.0","node-http":">=5.0.2 <6.0.0","trout":">=0.12.2 <0.13.0"}}

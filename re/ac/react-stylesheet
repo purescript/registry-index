@@ -1,1 +1,0 @@
-{"name":"react-stylesheet","version":"0.0.2","license":"MIT","location":{"githubOwner":"danieljharvey","githubRepo":"purescript-react-stylesheet"},"description":"Purs-in-CSS solution for Purescript React","dependencies":{"cssom":">=0.0.2 <0.0.3","effect":">=2.0.1 <3.0.0","react":">=7.0.1 <8.0.0","stylesheet":">=0.0.3 <0.0.4"}}

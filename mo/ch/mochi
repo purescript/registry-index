@@ -1,1 +1,0 @@
-{"name":"mochi","version":"0.1.0","license":"MIT","location":{"githubOwner":"justinwoo","githubRepo":"purescript-mochi"},"dependencies":{"foreign-object":">=1.1.0 <2.0.0","typelevel-prelude":">=3.0.0 <4.0.0"}}

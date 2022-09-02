@@ -1,7 +1,0 @@
-{"name":"unsafe-coerce","version":"0.1.1","license":"MIT","location":{"githubOwner":"purescript","githubRepo":"purescript-unsafe-coerce"},"description":"Unsafe coercion of values.","dependencies":{}}
-{"name":"unsafe-coerce","version":"1.0.0","license":"MIT","location":{"githubOwner":"purescript","githubRepo":"purescript-unsafe-coerce"},"description":"Unsafe coercion of values.","dependencies":{}}
-{"name":"unsafe-coerce","version":"2.0.0","license":"MIT","location":{"githubOwner":"purescript","githubRepo":"purescript-unsafe-coerce"},"description":"Unsafe coercion of values.","dependencies":{}}
-{"name":"unsafe-coerce","version":"3.0.0","license":"MIT","location":{"githubOwner":"purescript","githubRepo":"purescript-unsafe-coerce"},"description":"Unsafe coercion of values.","dependencies":{}}
-{"name":"unsafe-coerce","version":"4.0.0","license":"BSD-3-Clause","location":{"githubOwner":"purescript","githubRepo":"purescript-unsafe-coerce"},"dependencies":{}}
-{"name":"unsafe-coerce","version":"5.0.0","license":"BSD-3-Clause","location":{"githubOwner":"purescript","githubRepo":"purescript-unsafe-coerce"},"dependencies":{}}
-{"name":"unsafe-coerce","version":"6.0.0","license":"BSD-3-Clause","location":{"githubOwner":"purescript","githubRepo":"purescript-unsafe-coerce"},"dependencies":{}}

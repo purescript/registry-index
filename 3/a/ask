@@ -1,1 +1,0 @@
-{"name":"ask","version":"1.0.0","license":"GPL-3.0-or-later","location":{"githubOwner":"Mateiadrielrafael","githubRepo":"purescript-ask"},"dependencies":{"unsafe-coerce":">=5.0.0 <6.0.0"}}

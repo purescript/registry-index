@@ -1,2 +1,0 @@
-{"name":"cycle","version":"0.0.1","license":"MIT","location":{"githubOwner":"TylorS","githubRepo":"purescript-cycle"},"dependencies":{"almost":">=0.0.1 <0.0.2","console":">=0.1.0 <0.2.0","maps":">=0.5.7 <0.6.0"}}
-{"name":"cycle","version":"0.0.2","license":"MIT","location":{"githubOwner":"TylorS","githubRepo":"purescript-cycle"},"dependencies":{"almost":">=0.0.1 <0.0.2","console":">=0.1.0 <0.2.0","maps":">=0.5.7 <0.6.0"}}

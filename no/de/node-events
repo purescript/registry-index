@@ -1,6 +1,0 @@
-{"name":"node-events","version":"0.0.1","license":"MIT","location":{"githubOwner":"joneshf","githubRepo":"purescript-node-events"},"description":"PureScript bindings to node Events.","dependencies":{}}
-{"name":"node-events","version":"0.0.2","license":"MIT","location":{"githubOwner":"joneshf","githubRepo":"purescript-node-events"},"description":"PureScript bindings to node Events.","dependencies":{}}
-{"name":"node-events","version":"0.0.3","license":"MIT","location":{"githubOwner":"joneshf","githubRepo":"purescript-node-events"},"description":"PureScript bindings to node Events.","dependencies":{}}
-{"name":"node-events","version":"0.0.4","license":"MIT","location":{"githubOwner":"joneshf","githubRepo":"purescript-node-events"},"description":"PureScript bindings to node Events.","dependencies":{}}
-{"name":"node-events","version":"0.0.5","license":"MIT","location":{"githubOwner":"joneshf","githubRepo":"purescript-node-events"},"description":"PureScript bindings to node Events.","dependencies":{}}
-{"name":"node-events","version":"0.0.6","license":"MIT","location":{"githubOwner":"joneshf","githubRepo":"purescript-node-events"},"description":"PureScript bindings to node Events.","dependencies":{}}

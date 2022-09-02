@@ -1,1 +1,0 @@
-{"name":"fancy-operators","version":"1.0.0","license":"MIT","location":{"githubOwner":"Thimoteus","githubRepo":"purescript-fancy-operators"},"dependencies":{"foldable-traversable":">=0.4.2 <0.5.0","prelude":">=0.1.4 <0.2.0"}}

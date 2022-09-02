@@ -1,1 +1,0 @@
-{"name":"pray","version":"0.0.1","license":"MIT","location":{"githubOwner":"cryogenian","githubRepo":"purescript-pray"},"description":"reactjs purescript binding prototype","dependencies":{"arrays":">=0.3.0 <0.4.0","datetime":">=0.1.2 <0.2.0","dom":">=0.1.1 <0.2.0","exists":">=0.1.0 <0.2.0","free":">=0.1.6 <0.2.0","transformers":">=0.3.2 <0.4.0"}}

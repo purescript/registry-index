@@ -1,6 +1,0 @@
-{"name":"arraybuffer-types","version":"0.2.0","license":"MIT","location":{"githubOwner":"purescript-contrib","githubRepo":"purescript-arraybuffer-types"},"description":"PureScript type definitions for JavaScript ArrayBuffers","dependencies":{}}
-{"name":"arraybuffer-types","version":"1.0.0","license":"MIT","location":{"githubOwner":"purescript-contrib","githubRepo":"purescript-arraybuffer-types"},"description":"PureScript type definitions for JavaScript ArrayBuffers","dependencies":{}}
-{"name":"arraybuffer-types","version":"2.0.0","license":"MIT","location":{"githubOwner":"purescript-contrib","githubRepo":"purescript-arraybuffer-types"},"description":"PureScript type definitions for JavaScript ArrayBuffers","dependencies":{}}
-{"name":"arraybuffer-types","version":"3.0.0","license":"MIT","location":{"githubOwner":"purescript-contrib","githubRepo":"purescript-arraybuffer-types"},"description":"PureScript type definitions for JavaScript ArrayBuffers","dependencies":{}}
-{"name":"arraybuffer-types","version":"3.0.1","license":"MIT","location":{"githubOwner":"purescript-contrib","githubRepo":"purescript-arraybuffer-types"},"dependencies":{}}
-{"name":"arraybuffer-types","version":"3.0.2","license":"MIT","location":{"githubOwner":"purescript-contrib","githubRepo":"purescript-arraybuffer-types"},"dependencies":{}}

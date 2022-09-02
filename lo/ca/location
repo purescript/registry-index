@@ -1,1 +1,0 @@
-{"name":"location","version":"1.0.0","license":"BSD-3-Clause","location":{"githubOwner":"cdepillabout","githubRepo":"purescript-location"},"dependencies":{"eff":">=0.1.0 <0.2.0"}}

@@ -1,6 +1,0 @@
-{"name":"clipboard","version":"0.1.0","license":"Apache-2.0","location":{"githubOwner":"slamdata","githubRepo":"purescript-clipboard"},"dependencies":{"css":">=2.1.0 <3.0.0","dom":">=3.5.1 <4.0.0","prelude":">=2.4.0 <3.0.0"}}
-{"name":"clipboard","version":"0.2.0","license":"Apache-2.0","location":{"githubOwner":"slamdata","githubRepo":"purescript-clipboard"},"dependencies":{"css":">=3.0.0 <4.0.0","dom":">=4.2.0 <5.0.0","prelude":">=3.0.0 <4.0.0"}}
-{"name":"clipboard","version":"0.3.0","license":"Apache-2.0","location":{"githubOwner":"slamdata","githubRepo":"purescript-clipboard"},"dependencies":{"css":">=3.0.0 <4.0.0","dom":">=4.2.0 <5.0.0","prelude":">=3.0.0 <4.0.0"}}
-{"name":"clipboard","version":"0.4.0","license":"Apache-2.0","location":{"githubOwner":"slamdata","githubRepo":"purescript-clipboard"},"dependencies":{"css":">=4.0.0 <5.0.0","prelude":">=4.1.0 <5.0.0","web-dom":">=1.0.0 <2.0.0"}}
-{"name":"clipboard","version":"0.5.0","license":"Apache-2.0","location":{"githubOwner":"slamdata","githubRepo":"purescript-clipboard"},"dependencies":{"css":">=4.0.0 <5.0.0","prelude":">=4.1.1 <5.0.0","web-dom":">=3.0.0 <4.0.0"}}
-{"name":"clipboard","version":"1.0.0","license":"Apache-2.0","location":{"githubOwner":"slamdata","githubRepo":"purescript-clipboard"},"dependencies":{"css":">=5.0.1 <6.0.0","prelude":">=5.0.0 <6.0.0","web-dom":">=5.0.0 <6.0.0"}}

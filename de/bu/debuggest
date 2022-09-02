@@ -1,5 +1,0 @@
-{"name":"debuggest","version":"0.3.1","license":"BSD-3-Clause","location":{"githubOwner":"ursi","githubRepo":"purescript-debuggest"},"dependencies":{"prelude":">=4.1.1 <5.0.0","unsafe-coerce":">=4.0.0 <5.0.0"}}
-{"name":"debuggest","version":"0.4.0","license":"BSD-3-Clause","location":{"githubOwner":"ursi","githubRepo":"purescript-debuggest"},"dependencies":{"prelude":">=4.1.1 <5.0.0","unsafe-coerce":">=4.0.0 <5.0.0"}}
-{"name":"debuggest","version":"0.4.1","license":"BSD-3-Clause","location":{"githubOwner":"ursi","githubRepo":"purescript-debuggest"},"dependencies":{"prelude":">=5.0.0 <6.0.0","unsafe-coerce":">=5.0.0 <6.0.0"}}
-{"name":"debuggest","version":"0.5.0","license":"BSD-3-Clause","location":{"githubOwner":"ursi","githubRepo":"purescript-debuggest"},"dependencies":{"prelude":">=6.0.0 <7.0.0","unsafe-coerce":">=6.0.0 <7.0.0"}}
-{"name":"debuggest","version":"0.5.1","license":"BSD-3-Clause","location":{"githubOwner":"ursi","githubRepo":"purescript-debuggest"},"dependencies":{"prelude":">=6.0.0 <7.0.0","unsafe-coerce":">=6.0.0 <7.0.0"}}

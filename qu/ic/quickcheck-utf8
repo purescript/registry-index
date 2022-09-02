@@ -1,1 +1,0 @@
-{"name":"quickcheck-utf8","version":"0.0.0","license":"BSD-3-Clause","location":{"githubOwner":"openchronology","githubRepo":"purescript-quickcheck-utf8"},"dependencies":{"quickcheck":">=6.1.0 <7.0.0"}}

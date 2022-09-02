@@ -1,1 +1,0 @@
-{"name":"node-openurl","version":"0.0.1","license":"MIT","location":{"githubOwner":"jacereda","githubRepo":"purescript-node-openurl"},"dependencies":{"node-child-process":">=5.0.0 <6.0.0","node-process":">=6.0.0 <7.0.0","prelude":">=4.0.1 <5.0.0"}}

@@ -1,1 +1,0 @@
-{"name":"angle","version":"0.1.0","license":"MIT","location":{"githubOwner":"joneshf","githubRepo":"purescript-angle"},"description":"Angle functions.","dependencies":{"math":">=0.1.0 <0.2.0"}}

@@ -1,2 +1,0 @@
-{"name":"confusables","version":"1.0.0","license":"BSD-3-Clause","location":{"githubOwner":"michaelficarra","githubRepo":"purescript-confusables"},"dependencies":{"console":">=3.0.0 <4.0.0","prelude":">=3.0.0 <4.0.0","strings":">=3.3.0 <4.0.0"}}
-{"name":"confusables","version":"1.0.1","license":"BSD-3-Clause","location":{"githubOwner":"michaelficarra","githubRepo":"purescript-confusables"},"dependencies":{"prelude":">=3.0.0 <4.0.0","strings":">=3.3.0 <4.0.0"}}

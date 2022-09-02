@@ -1,2 +1,0 @@
-{"name":"halogen-virtual-dom","version":"1.0.0","license":"Apache-2.0","location":{"githubOwner":"purescript-halogen","githubRepo":"purescript-halogen-virtual-dom"},"dependencies":{"halogen":">=1.0.0 <2.0.0"}}
-{"name":"halogen-virtual-dom","version":"2.0.0","license":"Apache-2.0","location":{"githubOwner":"purescript-halogen","githubRepo":"purescript-halogen-virtual-dom"},"dependencies":{"halogen":">=2.1.0 <3.0.0"}}

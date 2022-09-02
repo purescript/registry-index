@@ -1,3 +1,0 @@
-{"name":"flow-id","version":"0.1.1","license":"MIT","location":{"githubOwner":"i-am-the-slime","githubRepo":"purescript-flow-id"},"dependencies":{"prelude":">=4.1.0 <5.0.0","simple-json":">=4.3.0 <5.0.0"}}
-{"name":"flow-id","version":"0.1.2","license":"MIT","location":{"githubOwner":"i-am-the-slime","githubRepo":"purescript-flow-id"},"dependencies":{"prelude":">=4.1.0 <5.0.0","simple-json":">=4.3.0 <5.0.0"}}
-{"name":"flow-id","version":"1.0.0","license":"MIT","location":{"githubOwner":"i-am-the-slime","githubRepo":"purescript-flow-id"},"dependencies":{"prelude":">=4.1.1 <5.0.0","simple-json":">=7.0.0 <8.0.0"}}
