@@ -1,0 +1,1 @@
+{"name":"color-palettes","version":"0.0.1","license":"Apache-2.0","location":{"githubOwner":"slamdata","githubRepo":"purescript-color-palettes"},"dependencies":{"codec-argonaut":">=4.3.0 <5.0.0","colors":">=4.3.0 <5.0.0","css":">=3.3.0 <4.0.0","generics-rep":">=5.4.0 <6.0.0","record":">=0.2.5 <0.3.0","safelist":">=1.1.0 <2.0.0"}}

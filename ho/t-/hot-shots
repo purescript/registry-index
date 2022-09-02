@@ -1,0 +1,2 @@
+{"name":"hot-shots","version":"0.0.1","license":"MIT","location":{"githubOwner":"mcoffin","githubRepo":"purescript-hot-shots"},"dependencies":{"aff":">=2.0.2 <3.0.0","console":">=2.0.0 <3.0.0","eff-functions":">=2.0.0 <3.0.0","options":">=2.0.0 <3.0.0","prelude":">=2.4.0 <3.0.0"}}
+{"name":"hot-shots","version":"0.0.2","license":"MIT","location":{"githubOwner":"mcoffin","githubRepo":"purescript-hot-shots"},"dependencies":{"aff":">=2.0.2 <3.0.0","console":">=2.0.0 <3.0.0","eff-functions":">=2.0.0 <3.0.0","options":">=2.0.0 <3.0.0","prelude":">=2.4.0 <3.0.0"}}

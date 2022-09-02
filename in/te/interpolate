@@ -1,0 +1,7 @@
+{"name":"interpolate","version":"1.0.0","license":"MIT","location":{"githubOwner":"jordanmartinez","githubRepo":"purescript-interpolate"},"dependencies":{"prelude":">=4.1.1 <5.0.0"}}
+{"name":"interpolate","version":"2.0.0","license":"MIT","location":{"githubOwner":"jordanmartinez","githubRepo":"purescript-interpolate"},"dependencies":{"prelude":">=4.1.1 <5.0.0"}}
+{"name":"interpolate","version":"2.0.1","license":"MIT","location":{"githubOwner":"jordanmartinez","githubRepo":"purescript-interpolate"},"dependencies":{"prelude":">=4.1.1 <5.0.0"}}
+{"name":"interpolate","version":"3.0.0","license":"MIT","location":{"githubOwner":"jordanmartinez","githubRepo":"purescript-interpolate"},"dependencies":{"prelude":">=5.0.1 <6.0.0"}}
+{"name":"interpolate","version":"3.0.1","license":"MIT","location":{"githubOwner":"jordanmartinez","githubRepo":"purescript-interpolate"},"dependencies":{"prelude":">=5.0.1 <6.0.0"}}
+{"name":"interpolate","version":"4.0.0","license":"MIT","location":{"githubOwner":"jordanmartinez","githubRepo":"purescript-interpolate"},"dependencies":{"prelude":">=6.0.0 <7.0.0"}}
+{"name":"interpolate","version":"5.0.0","license":"MIT","location":{"githubOwner":"jordanmartinez","githubRepo":"purescript-interpolate"},"dependencies":{"prelude":">=6.0.0 <7.0.0"}}

@@ -1,0 +1,2 @@
+{"name":"lit-html","version":"0.1.0","license":"BSD-3-Clause","location":{"githubOwner":"nonbili","githubRepo":"purescript-lit-html"},"description":"A purescript wrapper of lit-html","dependencies":{"argonaut-codecs":">=6.0.2 <7.0.0","web-dom":">=4.0.0 <5.0.0"}}
+{"name":"lit-html","version":"0.2.0","license":"BSD-3-Clause","location":{"githubOwner":"nonbili","githubRepo":"purescript-lit-html"},"description":"A purescript wrapper of lit-html","dependencies":{"argonaut-codecs":">=6.0.2 <7.0.0","web-dom":">=4.0.0 <5.0.0"}}

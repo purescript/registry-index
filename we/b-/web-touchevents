@@ -1,0 +1,4 @@
+{"name":"web-touchevents","version":"1.0.0","license":"MIT","location":{"githubOwner":"purescript-web","githubRepo":"purescript-web-touchevents"},"dependencies":{"web-uievents":">=1.0.0 <2.0.0"}}
+{"name":"web-touchevents","version":"2.0.0","license":"MIT","location":{"githubOwner":"purescript-web","githubRepo":"purescript-web-touchevents"},"dependencies":{"web-uievents":">=2.0.0 <3.0.0"}}
+{"name":"web-touchevents","version":"3.0.0","license":"MIT","location":{"githubOwner":"purescript-web","githubRepo":"purescript-web-touchevents"},"dependencies":{"web-uievents":">=3.0.0 <4.0.0"}}
+{"name":"web-touchevents","version":"4.0.0","license":"MIT","location":{"githubOwner":"purescript-web","githubRepo":"purescript-web-touchevents"},"dependencies":{"web-uievents":">=4.0.0 <5.0.0"}}

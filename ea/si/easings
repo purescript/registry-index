@@ -1,0 +1,4 @@
+{"name":"easings","version":"1.0.0","license":"ISC AND MIT","location":{"githubOwner":"i-am-tom","githubRepo":"purescript-easings"},"dependencies":{"math":">=2.0.0 <3.0.0","test-unit":">=7.0.0 <8.0.0"}}
+{"name":"easings","version":"1.0.1","license":"ISC AND MIT","location":{"githubOwner":"i-am-tom","githubRepo":"purescript-easings"},"dependencies":{"math":">=2.1.0 <3.0.0","prelude":">=3.1.0 <4.0.0"}}
+{"name":"easings","version":"2.0.0","license":"ISC AND MIT","location":{"githubOwner":"i-am-tom","githubRepo":"purescript-easings"},"dependencies":{"math":">=2.1.0 <3.0.0","prelude":">=3.1.0 <4.0.0"}}
+{"name":"easings","version":"2.1.0","license":"ISC AND MIT","location":{"githubOwner":"i-am-tom","githubRepo":"purescript-easings"},"dependencies":{"math":">=2.1.0 <3.0.0","prelude":">=3.1.0 <4.0.0"}}

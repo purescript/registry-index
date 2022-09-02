@@ -1,0 +1,1 @@
+{"name":"console-lifted","version":"0.0.1","license":"MIT","location":{"githubOwner":"matthewleon","githubRepo":"purescript-console-lifted"},"description":"purescript-console functions lifted to MonadEff","dependencies":{"console":">=3.0.0 <4.0.0"}}

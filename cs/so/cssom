@@ -1,0 +1,1 @@
+{"name":"cssom","version":"0.0.2","license":"MIT","location":{"githubOwner":"danieljharvey","githubRepo":"purescript-cssom"},"dependencies":{"effect":">=2.0.1 <3.0.0"}}

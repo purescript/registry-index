@@ -1,0 +1,5 @@
+{"name":"symbols","version":"1.0.0","license":"MIT","location":{"githubOwner":"purescript-deprecated","githubRepo":"purescript-symbols"},"dependencies":{"unsafe-coerce":">=1.0.0 <2.0.0"}}
+{"name":"symbols","version":"1.0.1","license":"MIT","location":{"githubOwner":"purescript-deprecated","githubRepo":"purescript-symbols"},"dependencies":{"unsafe-coerce":">=1.0.0 <2.0.0"}}
+{"name":"symbols","version":"2.0.0","license":"MIT","location":{"githubOwner":"purescript-deprecated","githubRepo":"purescript-symbols"},"dependencies":{"prelude":">=2.1.0 <3.0.0","unsafe-coerce":">=1.0.0 <3.0.0"}}
+{"name":"symbols","version":"3.0.0","license":"MIT","location":{"githubOwner":"purescript-deprecated","githubRepo":"purescript-symbols"},"description":"Utilities for working with type-level strings","dependencies":{"prelude":">=3.0.0 <4.0.0","unsafe-coerce":">=3.0.0 <4.0.0"}}
+{"name":"symbols","version":"3.0.1","license":"MIT","location":{"githubOwner":"purescript-deprecated","githubRepo":"purescript-symbols"},"description":"Utilities for working with type-level strings","dependencies":{"prelude":">=3.0.0 <4.0.0","unsafe-coerce":">=3.0.0 <4.0.0"}}
