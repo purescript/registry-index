@@ -14,3 +14,4 @@
 {"name":"debug","version":"5.0.0","license":"MIT","location":{"githubOwner":"garyb","githubRepo":"purescript-debug"},"description":"Console based debugging functions","dependencies":{"functions":">=5.0.0 <6.0.0","prelude":">=5.0.0 <6.0.0"}}
 {"name":"debug","version":"6.0.0","license":"MIT","location":{"githubOwner":"garyb","githubRepo":"purescript-debug"},"description":"Console based debugging functions","dependencies":{"functions":">=6.0.0 <7.0.0","prelude":">=6.0.0 <7.0.0"}}
 {"name":"debug","version":"6.0.1","license":"MIT","location":{"githubOwner":"garyb","githubRepo":"purescript-debug"},"description":"Console based debugging functions","dependencies":{"functions":">=6.0.0 <7.0.0","prelude":">=6.0.0 <7.0.0"}}
+{"name":"debug","version":"6.0.2","license":"MIT","location":{"githubOwner":"garyb","githubRepo":"purescript-debug"},"description":"Console based debugging functions","dependencies":{"functions":">=6.0.0 <7.0.0","prelude":">=6.0.0 <7.0.0"}}
