@@ -10,3 +10,4 @@
 {"name":"rationals","version":"3.1.1","license":"MIT","location":{"githubOwner":"purescript-contrib","githubRepo":"purescript-rationals"},"dependencies":{"integers":">=3.0.0 <4.0.0"}}
 {"name":"rationals","version":"4.0.0","license":"MIT","location":{"githubOwner":"purescript-contrib","githubRepo":"purescript-rationals"},"dependencies":{"integers":">=3.0.0 <4.0.0","prelude":">=3.0.0 <4.0.0"}}
 {"name":"rationals","version":"5.0.0","license":"MIT","location":{"githubOwner":"purescript-contrib","githubRepo":"purescript-rationals"},"dependencies":{"integers":">=4.0.0 <5.0.0","prelude":">=4.0.0 <5.0.0"}}
+{"name":"rationals","version":"5.0.1","license":"MIT","location":{"githubOwner":"purescript-contrib","githubRepo":"purescript-rationals"},"dependencies":{"integers":">=6.0.0 <7.0.0","prelude":">=6.0.0 <7.0.0"}}
