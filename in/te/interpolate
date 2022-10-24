@@ -6,3 +6,4 @@
 {"name":"interpolate","version":"4.0.0","license":"MIT","location":{"githubOwner":"jordanmartinez","githubRepo":"purescript-interpolate"},"dependencies":{"prelude":">=6.0.0 <7.0.0"}}
 {"name":"interpolate","version":"5.0.0","license":"MIT","location":{"githubOwner":"jordanmartinez","githubRepo":"purescript-interpolate"},"dependencies":{"prelude":">=6.0.0 <7.0.0"}}
 {"name":"interpolate","version":"5.0.1","license":"MIT","location":{"githubOwner":"jordanmartinez","githubRepo":"purescript-interpolate"},"dependencies":{"partial":">=4.0.0 <5.0.0","prelude":">=6.0.0 <7.0.0"}}
+{"name":"interpolate","version":"5.0.2","license":"MIT","location":{"githubOwner":"jordanmartinez","githubRepo":"purescript-interpolate"},"dependencies":{"partial":">=4.0.0 <5.0.0","prelude":">=6.0.0 <7.0.0"}}
