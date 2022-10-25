@@ -1,0 +1,1 @@
+{"name":"uuidv4","version":"1.0.0","license":"MIT","location":{"githubOwner":"garyb","githubRepo":"purescript-uuidv4"},"dependencies":{"prelude":">=6.0.0 <7.0.0","random":">=6.0.0 <7.0.0","strings":">=6.0.1 <7.0.0"}}
