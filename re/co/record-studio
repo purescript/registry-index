@@ -1,0 +1,1 @@
+{"name":"record-studio","version":"1.0.0","license":"MIT-0","location":{"githubOwner":"rowtype-yoga","githubRepo":"purescript-record-studio"},"dependencies":{"heterogeneous":">=0.6.0 <0.7.0","lists":">=7.0.0 <8.0.0","prelude":">=6.0.0 <7.0.0","record":">=4.0.0 <5.0.0"}}
