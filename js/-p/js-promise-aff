@@ -1,0 +1,1 @@
+{"name":"js-promise-aff","version":"1.0.0","license":"MIT","location":{"githubOwner":"purescript-contrib","githubRepo":"purescript-js-promise-aff"},"dependencies":{"aff":">=7.0.0 <8.0.0","foreign":">=7.0.0 <8.0.0","js-promise":">=1.0.0 <2.0.0"}}
