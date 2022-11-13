@@ -10,3 +10,4 @@
 {"name":"grain-virtualized","version":"0.9.0","license":"MIT","location":{"githubOwner":"purescript-grain","githubRepo":"purescript-grain-virtualized"},"dependencies":{"grain":">=0.9.0 <0.10.0"}}
 {"name":"grain-virtualized","version":"1.0.0","license":"MIT","location":{"githubOwner":"purescript-grain","githubRepo":"purescript-grain-virtualized"},"dependencies":{"grain":">=1.0.0 <2.0.0"}}
 {"name":"grain-virtualized","version":"2.0.0","license":"MIT","location":{"githubOwner":"purescript-grain","githubRepo":"purescript-grain-virtualized"},"dependencies":{"grain":">=2.0.0 <3.0.0"}}
+{"name":"grain-virtualized","version":"3.0.0","license":"MIT","location":{"githubOwner":"purescript-grain","githubRepo":"purescript-grain-virtualized"},"dependencies":{"arrays":">=7.1.0 <8.0.0","foldable-traversable":">=6.0.0 <7.0.0","grain":">=3.0.0 <4.0.0","maybe":">=6.0.0 <7.0.0","prelude":">=6.0.1 <7.0.0","web-dom":">=6.0.0 <7.0.0","web-events":">=4.0.0 <5.0.0"}}
