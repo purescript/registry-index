@@ -5,9 +5,6 @@
 {"name":"halogen-bootstrap","version":"0.7.0","license":"Apache-2.0","location":{"githubOwner":"slamdata","githubRepo":"purescript-halogen-bootstrap"},"dependencies":{"halogen":">=0.8.0 <0.9.0"}}
 {"name":"halogen-bootstrap","version":"1.0.0","license":"Apache-2.0","location":{"githubOwner":"slamdata","githubRepo":"purescript-halogen-bootstrap"},"dependencies":{"halogen":">=0.9.0 <0.10.0"}}
 {"name":"halogen-bootstrap","version":"2.0.0","license":"Apache-2.0","location":{"githubOwner":"slamdata","githubRepo":"purescript-halogen-bootstrap"},"dependencies":{"halogen":">=0.10.0 <0.11.0"}}
-{"name":"halogen-bootstrap","version":"3.0.0","license":"Apache-2.0","location":{"githubOwner":"slamdata","githubRepo":"purescript-halogen-bootstrap"},"dependencies":{"halogen":">=0.11.0 <0.12.0"}}
-{"name":"halogen-bootstrap","version":"4.0.0","license":"Apache-2.0","location":{"githubOwner":"slamdata","githubRepo":"purescript-halogen-bootstrap"},"dependencies":{"halogen":">=0.12.0 <0.13.0"}}
-{"name":"halogen-bootstrap","version":"5.0.0","license":"Apache-2.0","location":{"githubOwner":"slamdata","githubRepo":"purescript-halogen-bootstrap"},"dependencies":{"halogen":">=1.0.0 <2.0.0"}}
 {"name":"halogen-bootstrap","version":"6.0.0","license":"Apache-2.0","location":{"githubOwner":"slamdata","githubRepo":"purescript-halogen-bootstrap"},"dependencies":{"halogen":">=2.0.0 <3.0.0"}}
 {"name":"halogen-bootstrap","version":"7.0.0","license":"Apache-2.0","location":{"githubOwner":"slamdata","githubRepo":"purescript-halogen-bootstrap"},"dependencies":{"halogen":">=3.0.0 <4.0.0"}}
 {"name":"halogen-bootstrap","version":"8.0.0","license":"Apache-2.0","location":{"githubOwner":"slamdata","githubRepo":"purescript-halogen-bootstrap"},"dependencies":{"halogen":">=4.0.0 <6.0.0"}}

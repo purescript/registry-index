@@ -1,5 +1,3 @@
-{"name":"carpenter-router","version":"0.1.0","license":"MIT","location":{"githubOwner":"arthurxavierx","githubRepo":"purescript-carpenter-router"},"dependencies":{"carpenter":">=2.0.0 <3.0.0","dom":">=2.0.1 <3.0.0"}}
 {"name":"carpenter-router","version":"0.1.1","license":"MIT","location":{"githubOwner":"arthurxavierx","githubRepo":"purescript-carpenter-router"},"dependencies":{"carpenter":">=2.0.0 <3.0.0","dom":">=1.1.0 <2.0.0"}}
 {"name":"carpenter-router","version":"0.1.2","license":"MIT","location":{"githubOwner":"arthurxavierx","githubRepo":"purescript-carpenter-router"},"dependencies":{"carpenter":">=2.0.0 <3.0.0","dom":">=1.1.0 <2.0.0"}}
 {"name":"carpenter-router","version":"0.1.3","license":"MIT","location":{"githubOwner":"arthurxavierx","githubRepo":"purescript-carpenter-router"},"dependencies":{"carpenter":">=2.0.0 <3.0.0","dom":">=1.1.0 <2.0.0"}}
-{"name":"carpenter-router","version":"1.0.0","license":"MIT","location":{"githubOwner":"arthurxavierx","githubRepo":"purescript-carpenter-router"},"dependencies":{"carpenter":">=2.0.0 <3.0.0","dom":">=2.0.0 <3.0.0"}}
