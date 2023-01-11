@@ -1,1 +1,1 @@
-{"name":"xiaomian","version":"0.1.0","license":"MIT","location":{"githubOwner":"justinwoo","githubRepo":"purescript-xiaomian"},"dependencies":{"naporitan":">=0.2.0 <0.3.0"}}
+{"name":"xiaomian","version":"0.1.0","license":"MIT","location":{"githubOwner":"justinwoo","githubRepo":"purescript-xiaomian"},"dependencies":{"naporitan":">=0.2.0 <2.0.0"}}

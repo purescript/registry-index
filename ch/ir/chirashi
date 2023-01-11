@@ -1,2 +1,2 @@
-{"name":"chirashi","version":"0.1.0","license":"MIT","location":{"githubOwner":"justinwoo","githubRepo":"purescript-chirashi"},"dependencies":{"exceptions":">=4.0.0 <5.0.0","prelude":">=4.1.0 <5.0.0","variant":">=5.1.0 <6.0.0"}}
+{"name":"chirashi","version":"0.1.0","license":"MIT","location":{"githubOwner":"justinwoo","githubRepo":"purescript-chirashi"},"dependencies":{"exceptions":">=4.0.0 <5.0.0","prelude":">=4.1.0 <5.0.0","variant":">=5.1.0 <7.0.0"}}
 {"name":"chirashi","version":"1.0.0","license":"MIT","location":{"githubOwner":"justinwoo","githubRepo":"purescript-chirashi"},"dependencies":{"exceptions":">=4.0.0 <5.0.0","prelude":">=4.1.0 <5.0.0","typelevel-prelude":">=5.0.0 <6.0.0","variant":">=6.0.1 <7.0.0"}}

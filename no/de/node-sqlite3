@@ -9,6 +9,6 @@
 {"name":"node-sqlite3","version":"4.0.0","license":"MIT","location":{"githubOwner":"justinwoo","githubRepo":"purescript-node-sqlite3"},"dependencies":{"aff":">=5.0.0 <6.0.0","foreign":">=5.0.0 <6.0.0"}}
 {"name":"node-sqlite3","version":"4.1.0","license":"MIT","location":{"githubOwner":"justinwoo","githubRepo":"purescript-node-sqlite3"},"dependencies":{"aff":">=5.0.0 <6.0.0","foreign":">=5.0.0 <6.0.0"}}
 {"name":"node-sqlite3","version":"5.0.0","license":"MIT","location":{"githubOwner":"justinwoo","githubRepo":"purescript-node-sqlite3"},"dependencies":{"aff":">=5.0.0 <6.0.0","foreign":">=5.0.0 <6.0.0"}}
-{"name":"node-sqlite3","version":"6.0.0","license":"MIT","location":{"githubOwner":"justinwoo","githubRepo":"purescript-node-sqlite3"},"dependencies":{"aff":">=5.0.0 <6.0.0","foreign":">=5.0.0 <6.0.0"}}
+{"name":"node-sqlite3","version":"6.0.0","license":"MIT","location":{"githubOwner":"justinwoo","githubRepo":"purescript-node-sqlite3"},"dependencies":{"aff":">=5.0.0 <7.0.0","foreign":">=5.0.0 <7.0.0"}}
 {"name":"node-sqlite3","version":"7.0.0","license":"MIT","location":{"githubOwner":"justinwoo","githubRepo":"purescript-node-sqlite3"},"dependencies":{"aff":">=6.0.0 <7.0.0","foreign":">=6.0.1 <7.0.0"}}
 {"name":"node-sqlite3","version":"8.0.0","license":"MIT","location":{"githubOwner":"justinwoo","githubRepo":"purescript-node-sqlite3"},"dependencies":{"aff":">=7.0.0 <8.0.0","foreign":">=7.0.0 <8.0.0"}}
