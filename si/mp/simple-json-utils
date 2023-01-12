@@ -1,1 +1,1 @@
-{"name":"simple-json-utils","version":"0.1.0","license":"MIT","location":{"githubOwner":"justinwoo","githubRepo":"purescript-simple-json-utils"},"dependencies":{"motsunabe":">=1.0.0 <2.0.0","simple-json":">=5.1.0 <6.0.0"}}
+{"name":"simple-json-utils","version":"0.1.0","license":"MIT","location":{"githubOwner":"justinwoo","githubRepo":"purescript-simple-json-utils"},"dependencies":{"motsunabe":">=1.0.0 <3.0.0","simple-json":">=5.1.0 <8.0.0"}}

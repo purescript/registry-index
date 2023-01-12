@@ -1,3 +1,1 @@
-{"name":"oboe","version":"0.1.0","license":"MIT","location":{"githubOwner":"joneshf","githubRepo":"purescript-oboe"},"description":"PureScript wrapper around oboe.js","dependencies":{"either":">=0.1.2 <0.2.0","http":">=0.1.1 <0.2.0"}}
-{"name":"oboe","version":"0.2.0","license":"MIT","location":{"githubOwner":"joneshf","githubRepo":"purescript-oboe"},"description":"PureScript wrapper around oboe.js","dependencies":{"either":">=0.1.2 <0.2.0","exceptions":">=0.1.0 <0.2.0","http":">=0.1.1 <0.2.0"}}
-{"name":"oboe","version":"0.3.0","license":"MIT","location":{"githubOwner":"joneshf","githubRepo":"purescript-oboe"},"description":"PureScript wrapper around oboe.js","dependencies":{"exceptions":">=0.2.0 <0.3.0","http":">=0.2.0 <0.3.0"}}
+{"name":"oboe","version":"0.3.0","license":"MIT","description":"PureScript wrapper around oboe.js","location":{"githubOwner":"joneshf","githubRepo":"purescript-oboe"},"dependencies":{"exceptions":">=0.2.0 <0.3.0","http":">=0.2.0 <0.3.0"}}

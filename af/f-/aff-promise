@@ -7,6 +7,6 @@
 {"name":"aff-promise","version":"1.0.0","license":"MIT","location":{"githubOwner":"nwolverson","githubRepo":"purescript-aff-promise"},"dependencies":{"aff":">=4.0.0 <5.0.0","foreign":">=4.0.0 <5.0.0"}}
 {"name":"aff-promise","version":"2.0.0","license":"MIT","location":{"githubOwner":"nwolverson","githubRepo":"purescript-aff-promise"},"dependencies":{"aff":">=5.0.0 <6.0.0","foreign":">=5.0.0 <6.0.0"}}
 {"name":"aff-promise","version":"2.0.1","license":"MIT","location":{"githubOwner":"nwolverson","githubRepo":"purescript-aff-promise"},"dependencies":{"aff":">=5.0.0 <6.0.0","foreign":">=5.0.0 <6.0.0"}}
-{"name":"aff-promise","version":"2.1.0","license":"MIT","location":{"githubOwner":"nwolverson","githubRepo":"purescript-aff-promise"},"dependencies":{"aff":">=5.0.0 <6.0.0","foreign":">=5.0.0 <6.0.0"}}
+{"name":"aff-promise","version":"2.1.0","license":"MIT","location":{"githubOwner":"nwolverson","githubRepo":"purescript-aff-promise"},"dependencies":{"aff":">=5.0.0 <7.0.0","foreign":">=5.0.0 <7.0.0"}}
 {"name":"aff-promise","version":"3.0.0","license":"MIT","location":{"githubOwner":"nwolverson","githubRepo":"purescript-aff-promise"},"dependencies":{"aff":">=6.0.0 <7.0.0","foreign":">=6.0.0 <7.0.0"}}
 {"name":"aff-promise","version":"4.0.0","license":"MIT","location":{"githubOwner":"nwolverson","githubRepo":"purescript-aff-promise"},"dependencies":{"aff":">=7.0.0 <8.0.0","foreign":">=7.0.0 <8.0.0"}}
