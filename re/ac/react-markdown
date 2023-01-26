@@ -1,0 +1,1 @@
+{"name":"react-markdown","version":"0.1.0","license":"MIT-0","location":{"githubOwner":"rowtype-yoga","githubRepo":"purescript-react-markdown"},"dependencies":{"prelude":">=6.0.1 <7.0.0","react-basic-hooks":">=8.1.2 <9.0.0"}}
