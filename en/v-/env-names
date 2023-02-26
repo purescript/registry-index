@@ -1,1 +1,2 @@
 {"name":"env-names","version":"0.3.1","license":"MIT","description":"Resolve short environment aliases.","location":{"githubOwner":"joellefkowitz","githubRepo":"env-names"},"dependencies":{"arrays":">=6.0.0 <7.0.0","maybe":">=5.0.0 <6.0.0"}}
+{"name":"env-names","version":"0.3.2","license":"MIT","description":"Resolve short environment aliases.","location":{"githubOwner":"joellefkowitz","githubRepo":"env-names"},"dependencies":{"arrays":">=6.0.0 <7.0.0","maybe":">=5.0.0 <6.0.0"}}
