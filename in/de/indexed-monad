@@ -6,3 +6,4 @@
 {"name":"indexed-monad","version":"2.0.0","license":"MIT","location":{"githubOwner":"garyb","githubRepo":"purescript-indexed-monad"},"dependencies":{"control":">=5.0.0 <6.0.0","newtype":">=4.0.0 <5.0.0"}}
 {"name":"indexed-monad","version":"2.0.1","license":"MIT","location":{"githubOwner":"garyb","githubRepo":"purescript-indexed-monad"},"dependencies":{"control":">=5.0.0 <7.0.0","newtype":">=4.0.0 <6.0.0"}}
 {"name":"indexed-monad","version":"2.1.0","license":"MIT","location":{"githubOwner":"garyb","githubRepo":"purescript-indexed-monad"},"dependencies":{"control":">=5.0.0 <7.0.0","newtype":">=4.0.0 <6.0.0"}}
+{"name":"indexed-monad","version":"3.0.0","license":"MIT","location":{"githubOwner":"garyb","githubRepo":"purescript-indexed-monad"},"dependencies":{"control":">=6.0.0 <7.0.0","newtype":">=5.0.0 <6.0.0"}}
