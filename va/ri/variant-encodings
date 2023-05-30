@@ -1,2 +1,3 @@
 {"name":"variant-encodings","version":"0.1.0","license":"MIT","location":{"githubOwner":"thought2","githubRepo":"purescript-variant-encodings"},"dependencies":{"prelude":">=6.0.1 <7.0.0","unsafe-coerce":">=6.0.0 <7.0.0","variant":">=8.0.0 <9.0.0"}}
 {"name":"variant-encodings","version":"1.0.0","license":"MIT","location":{"githubOwner":"thought2","githubRepo":"purescript-variant-encodings"},"dependencies":{"prelude":">=6.0.1 <7.0.0","unsafe-coerce":">=6.0.0 <7.0.0","variant":">=8.0.0 <9.0.0"}}
+{"name":"variant-encodings","version":"2.0.0","license":"MIT","location":{"githubOwner":"thought2","githubRepo":"purescript-variant-encodings"},"dependencies":{"prelude":">=6.0.1 <7.0.0","unsafe-coerce":">=6.0.0 <7.0.0","variant":">=8.0.0 <9.0.0"}}
