@@ -1,0 +1,1 @@
+{"name":"halogen-css-frameworks","version":"1.0.0","license":"Apache-2.0","location":{"githubOwner":"deemp","githubRepo":"purescript-halogen-css-frameworks"},"dependencies":{"halogen":">=7.0.0 <8.0.0"}}
