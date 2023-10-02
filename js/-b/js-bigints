@@ -4,3 +4,4 @@
 {"name":"js-bigints","version":"2.0.0","license":"MIT AND ISC","location":{"githubOwner":"sigma-andex","githubRepo":"purescript-js-bigints"},"dependencies":{"integers":">=6.0.0 <7.0.0","maybe":">=6.0.0 <7.0.0","prelude":">=6.0.1 <7.0.0"}}
 {"name":"js-bigints","version":"2.1.0","license":"MIT AND ISC","location":{"githubOwner":"purescript-contrib","githubRepo":"purescript-js-bigints"},"dependencies":{"integers":">=6.0.0 <7.0.0","maybe":">=6.0.0 <7.0.0","prelude":">=6.0.1 <7.0.0"}}
 {"name":"js-bigints","version":"2.2.0","license":"MIT AND ISC","location":{"githubOwner":"purescript-contrib","githubRepo":"purescript-js-bigints"},"dependencies":{"integers":">=6.0.0 <7.0.0","maybe":">=6.0.0 <7.0.0","prelude":">=6.0.1 <7.0.0"}}
+{"name":"js-bigints","version":"2.2.1","license":"MIT AND ISC","location":{"githubOwner":"purescript-contrib","githubRepo":"purescript-js-bigints"},"dependencies":{"integers":">=6.0.0 <7.0.0","maybe":">=6.0.0 <7.0.0","prelude":">=6.0.1 <7.0.0"}}
