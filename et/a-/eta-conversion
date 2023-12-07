@@ -1,0 +1,1 @@
+{"name":"eta-conversion","version":"0.1.0","license":"MIT","location":{"githubOwner":"pujoheadsoft","githubRepo":"purescript-eta-conversion"},"dependencies":{"effect":">=4.0.0 <5.0.0","prelude":">=6.0.1 <7.0.0","transformers":">=6.0.0 <7.0.0","type-equality":">=4.0.1 <5.0.0"}}
