@@ -5,3 +5,4 @@
 {"name":"halogen-bootstrap5","version":"2.2.1","license":"Apache-2.0","location":{"githubOwner":"tonicebrian","githubRepo":"purescript-halogen-bootstrap5"},"dependencies":{"halogen":">=7.0.0 <8.0.0"}}
 {"name":"halogen-bootstrap5","version":"2.3.0","license":"Apache-2.0","location":{"githubOwner":"tonicebrian","githubRepo":"purescript-halogen-bootstrap5"},"dependencies":{"halogen":">=7.0.0 <8.0.0"}}
 {"name":"halogen-bootstrap5","version":"2.3.1","license":"Apache-2.0","location":{"githubOwner":"tonicebrian","githubRepo":"purescript-halogen-bootstrap5"},"dependencies":{"halogen":">=7.0.0 <8.0.0"}}
+{"name":"halogen-bootstrap5","version":"5.3.2","license":"Apache-2.0","location":{"githubOwner":"tonicebrian","githubRepo":"purescript-halogen-bootstrap5"},"dependencies":{"halogen":">=7.0.0 <8.0.0"}}
