@@ -1,0 +1,1 @@
+{"name":"fft-js","version":"0.1.0","license":"MIT","location":{"githubOwner":"jeslie0","githubRepo":"purescript-fft-js"},"dependencies":{"arrays":">=7.3.0 <8.0.0","cartesian":">=1.0.6 <2.0.0","partial":">=4.0.0 <5.0.0","prelude":">=6.0.1 <7.0.0","st":">=6.2.0 <7.0.0"}}
