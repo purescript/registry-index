@@ -1,0 +1,1 @@
+{"name":"intersection-observer","version":"1.0.0","license":"MIT","location":{"githubOwner":"grybiena","githubRepo":"intersection-observer"},"dependencies":{"css":">=6.0.0 <7.0.0","options":">=7.0.0 <8.0.0","web-dom":">=6.0.0 <7.0.0"}}
