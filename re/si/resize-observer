@@ -1,0 +1,1 @@
+{"name":"resize-observer","version":"1.0.0","license":"MIT","location":{"githubOwner":"grybiena","githubRepo":"resize-observer"},"dependencies":{"web-dom":">=6.0.0 <7.0.0"}}
