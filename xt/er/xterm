@@ -1,0 +1,1 @@
+{"name":"xterm","version":"1.0.0","license":"ISC AND MIT","location":{"githubOwner":"grybiena","githubRepo":"xterm"},"dependencies":{"aff-promise":">=4.0.0 <5.0.0","css":">=6.0.0 <7.0.0","options":">=7.0.0 <8.0.0","web-uievents":">=4.0.0 <5.0.0"}}
