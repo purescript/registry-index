@@ -1,0 +1,1 @@
+{"name":"typisch","version":"0.4.0","license":"MPL-2.0","location":{"githubOwner":"garganscript","githubRepo":"purescript-typisch"},"excludeFiles":["test/graphs/**/*"],"dependencies":{"prelude":">=6.0.1 <7.0.0"}}
