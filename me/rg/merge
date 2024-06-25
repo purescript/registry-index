@@ -1,0 +1,1 @@
+{"name":"merge","version":"0.3.0","license":"MIT","description":"Merge sort.","location":{"githubOwner":"joellefkowitz","githubRepo":"merge"},"dependencies":{"arrays":">=7.0.0 <8.0.0","control":">=6.0.0 <7.0.0","integers":">=6.0.0 <7.0.0","maybe":">=6.0.0 <7.0.0","numbers":">=9.0.0 <10.0.0","prelude":">=6.0.1 <7.0.0","tuples":">=7.0.0 <8.0.0"}}
