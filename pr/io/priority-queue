@@ -1,0 +1,1 @@
+{"name":"priority-queue","version":"0.1.0","license":"Apache-2.0","location":{"githubOwner":"f-f","githubRepo":"purescript-priority-queue"},"dependencies":{"arrays":">=7.0.0 <8.0.0","effect":">=4.0.0 <5.0.0","foldable-traversable":">=6.0.0 <7.0.0","integers":">=6.0.0 <7.0.0","lists":">=7.0.0 <8.0.0","maybe":">=6.0.0 <7.0.0","prelude":">=6.0.0 <7.0.0","st":">=6.0.0 <7.0.0"}}
