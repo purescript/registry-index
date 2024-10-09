@@ -1,0 +1,1 @@
+{"name":"jsdom","version":"1.0.0","license":"MIT","location":{"githubOwner":"purescript-open-community","githubRepo":"purescript-jsdom"},"dependencies":{"effect":">=4.0.0 <5.0.0","record":">=4.0.0 <5.0.0","web-dom":">=6.0.0 <7.0.0"}}
