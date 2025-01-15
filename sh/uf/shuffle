@@ -1,0 +1,1 @@
+{"name":"shuffle","version":"1.1.0","license":"MIT","description":"Shuffle and pick elements from arrays.","location":{"githubOwner":"joellefkowitz","githubRepo":"shuffle"},"dependencies":{"arrays":">=7.0.0 <8.0.0","effect":">=4.0.0 <5.0.0","maybe":">=6.0.0 <7.0.0","prelude":">=6.0.1 <7.0.0"}}
