@@ -1,0 +1,1 @@
+{"name":"halogen-use-trigger-hooks","version":"0.1.0","license":"MIT","location":{"githubOwner":"katsujukou","githubRepo":"purescript-halogen-use-trigger-hooks"},"dependencies":{"halogen-hooks":">=0.6.3 <1.0.0","prelude":">=6.0.2 <7.0.0","tuples":">=7.0.0 <8.0.0"}}
