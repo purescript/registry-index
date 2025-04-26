@@ -1,0 +1,1 @@
+{"name":"fakerjs","version":"0.0.1","license":"MIT","location":{"githubOwner":"purescript-open-community","githubRepo":"purescript-fakerjs"},"dependencies":{"arrays":">=7.3.0 <8.0.0","effect":">=4.0.0 <5.0.0","exceptions":">=6.1.0 <7.0.0","functions":">=6.0.0 <7.0.0","maybe":">=6.0.0 <7.0.0","nullable":">=6.0.0 <7.0.0","prelude":">=6.0.2 <7.0.0","unsafe-coerce":">=6.0.0 <7.0.0"}}
