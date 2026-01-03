@@ -1,1 +1,2 @@
 {"name":"webb-array","version":"0.0.1","license":"BSD-3-Clause","location":{"githubOwner":"mitchellandwebb","githubRepo":"webb-array"},"dependencies":{"arrays":">=7.3.0 <8.0.0","foldable-traversable":">=6.0.0 <7.0.0","maybe":">=6.0.0 <7.0.0","prelude":">=6.0.2 <7.0.0"}}
+{"name":"webb-array","version":"0.0.2","license":"BSD-3-Clause","location":{"githubOwner":"mitchellandwebb","githubRepo":"webb-array"},"dependencies":{"arrays":">=7.3.0 <8.0.0","foldable-traversable":">=6.0.0 <7.0.0","maybe":">=6.0.0 <7.0.0","prelude":">=6.0.2 <7.0.0"}}
