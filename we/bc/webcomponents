@@ -1,1 +1,0 @@
-{"name":"webcomponents","version":"0.1.0","license":"BSD-3-Clause","location":{"githubOwner":"Risto-Stevcev","githubRepo":"purescript-webcomponents"},"description":"A web components wrapper for purescript","dependencies":{"console":">=3.0.0 <4.0.0","dom":">=4.9.0 <5.0.0","prelude":">=3.1.0 <4.0.0","symbols":">=3.0.0 <4.0.0"}}

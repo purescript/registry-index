@@ -1,1 +1,0 @@
-{"name":"twoset","version":"0.1.0","license":"AGPL-3.0-or-later","location":{"githubOwner":"colehaus","githubRepo":"purescript-twoset"},"dependencies":{"prelude":">=4.1.1 <5.0.0"}}

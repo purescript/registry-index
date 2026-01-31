@@ -1,4 +1,1 @@
-{"name":"sammy","version":"0.1.0","license":"MIT","location":{"githubOwner":"paf31","githubRepo":"purescript-sammy"},"description":"purescript-sammy","dependencies":{"jquery":">=0.4.0 <0.5.0"}}
-{"name":"sammy","version":"1.0.0","license":"MIT","location":{"githubOwner":"paf31","githubRepo":"purescript-sammy"},"description":"purescript-sammy","dependencies":{"eff":">=1.0.0 <2.0.0"}}
-{"name":"sammy","version":"2.0.0","license":"MIT","location":{"githubOwner":"paf31","githubRepo":"purescript-sammy"},"description":"purescript-sammy","dependencies":{"eff":">=2.0.0 <3.0.0","prelude":">=2.1.0 <3.0.0"}}
-{"name":"sammy","version":"3.0.0","license":"MIT","location":{"githubOwner":"paf31","githubRepo":"purescript-sammy"},"description":"purescript-sammy","dependencies":{"eff":">=3.0.0 <4.0.0","prelude":">=3.0.0 <4.0.0"}}
+{"name":"sammy","version":"3.0.0","license":"MIT","description":"purescript-sammy","location":{"githubOwner":"paf31","githubRepo":"purescript-sammy"},"ref":"v3.0.0","dependencies":{"eff":">=3.0.0 <4.0.0","prelude":">=3.0.0 <4.0.0"}}

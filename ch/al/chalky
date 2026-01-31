@@ -1,4 +1,4 @@
-{"name":"chalky","version":"0.1.0","license":"Apache-2.0","location":{"githubOwner":"slamdata","githubRepo":"purescript-chalky"},"description":"PureScript bindings to chalk library","dependencies":{}}
-{"name":"chalky","version":"0.2.0","license":"Apache-2.0","location":{"githubOwner":"slamdata","githubRepo":"purescript-chalky"},"description":"PureScript bindings to chalk library","dependencies":{}}
-{"name":"chalky","version":"1.0.0","license":"Apache-2.0","location":{"githubOwner":"slamdata","githubRepo":"purescript-chalky"},"description":"PureScript bindings to chalk library","dependencies":{}}
-{"name":"chalky","version":"2.0.0","license":"Apache-2.0","location":{"githubOwner":"slamdata","githubRepo":"purescript-chalky"},"description":"PureScript bindings to chalk library","dependencies":{}}
+{"name":"chalky","version":"0.1.0","license":"Apache-2.0","description":"PureScript bindings to chalk library","location":{"githubOwner":"slamdata","githubRepo":"purescript-chalky"},"ref":"v0.1.0","dependencies":{}}
+{"name":"chalky","version":"0.2.0","license":"Apache-2.0","description":"PureScript bindings to chalk library","location":{"githubOwner":"slamdata","githubRepo":"purescript-chalky"},"ref":"v0.2.0","dependencies":{}}
+{"name":"chalky","version":"1.0.0","license":"Apache-2.0","description":"PureScript bindings to chalk library","location":{"githubOwner":"slamdata","githubRepo":"purescript-chalky"},"ref":"v1.0.0","dependencies":{}}
+{"name":"chalky","version":"2.0.0","license":"Apache-2.0","description":"PureScript bindings to chalk library","location":{"githubOwner":"slamdata","githubRepo":"purescript-chalky"},"ref":"v2.0.0","dependencies":{}}

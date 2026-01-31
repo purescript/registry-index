@@ -1,1 +1,1 @@
-{"name":"mimetype","version":"0.0.1","license":"GPL-3.0-or-later","location":{"githubOwner":"cakekindel","githubRepo":"purescript-mimetype"},"dependencies":{"maybe":">=6.0.0 <7.0.0","prelude":">=6.0.1 <7.0.0"}}
+{"name":"mimetype","version":"0.0.1","license":"GPL-3.0-or-later","location":{"githubOwner":"cakekindel","githubRepo":"purescript-mimetype"},"ref":"v0.0.1","dependencies":{"maybe":">=6.0.0 <7.0.0","prelude":">=6.0.1 <7.0.0"}}

@@ -1,1 +1,1 @@
-{"name":"webb-set","version":"0.0.1","license":"BSD-3-Clause","location":{"githubOwner":"mitchellandwebb","githubRepo":"webb-set"},"dependencies":{"ordered-collections":">=3.2.0 <4.0.0","prelude":">=6.0.2 <7.0.0"}}
+{"name":"webb-set","version":"0.0.1","license":"BSD-3-Clause","location":{"githubOwner":"mitchellandwebb","githubRepo":"webb-set"},"ref":"v0.0.1","dependencies":{"ordered-collections":">=3.2.0 <4.0.0","prelude":">=6.0.2 <7.0.0"}}

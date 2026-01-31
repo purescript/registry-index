@@ -1,3 +1,2 @@
-{"name":"handlebars","version":"0.1.0","license":"MIT","location":{"githubOwner":"paf31","githubRepo":"purescript-handlebars"},"description":"purescript-handlebars","dependencies":{"jquery":">=0.4.0 <0.5.0"}}
-{"name":"handlebars","version":"1.0.0","license":"MIT","location":{"githubOwner":"paf31","githubRepo":"purescript-handlebars"},"description":"purescript-handlebars","dependencies":{}}
-{"name":"handlebars","version":"2.0.0","license":"MIT","location":{"githubOwner":"paf31","githubRepo":"purescript-handlebars"},"description":"purescript-handlebars","dependencies":{}}
+{"name":"handlebars","version":"1.0.0","license":"MIT","description":"purescript-handlebars","location":{"githubOwner":"paf31","githubRepo":"purescript-handlebars"},"ref":"v1.0.0","dependencies":{}}
+{"name":"handlebars","version":"2.0.0","license":"MIT","description":"purescript-handlebars","location":{"githubOwner":"paf31","githubRepo":"purescript-handlebars"},"ref":"v2.0.0","dependencies":{}}

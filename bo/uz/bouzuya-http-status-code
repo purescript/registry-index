@@ -1,1 +1,1 @@
-{"name":"bouzuya-http-status-code","version":"0.1.0","license":"MIT","location":{"githubOwner":"bouzuya","githubRepo":"purescript-bouzuya-http-status-code"},"description":"HTTP status code","dependencies":{"maybe":">=3.1.0 <4.0.0","prelude":">=3.3.0 <4.0.0"}}
+{"name":"bouzuya-http-status-code","version":"0.1.0","license":"MIT","description":"HTTP status code","location":{"githubOwner":"bouzuya","githubRepo":"purescript-bouzuya-http-status-code"},"ref":"v0.1.0","dependencies":{"maybe":">=3.1.0 <4.0.0","prelude":">=3.3.0 <4.0.0"}}

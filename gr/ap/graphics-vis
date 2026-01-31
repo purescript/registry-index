@@ -1,2 +1,0 @@
-{"name":"graphics-vis","version":"1.0.0","license":"MIT","location":{"githubOwner":"paf31","githubRepo":"purescript-graphics-vis"},"dependencies":{"drawing":">=2.1.0 <3.0.0","psci-support":">=2.0.0 <3.0.0"}}
-{"name":"graphics-vis","version":"2.0.0","license":"MIT","location":{"githubOwner":"paf31","githubRepo":"purescript-graphics-vis"},"dependencies":{"drawing":">=3.0.0 <4.0.0","psci-support":">=3.0.0 <4.0.0"}}

@@ -1,2 +1,1 @@
-{"name":"halogen-pure","version":"0.0.1","license":"MIT","location":{"githubOwner":"aij","githubRepo":"purescript-halogen-pure"},"description":"Functions to create pure Halogen components.","dependencies":{}}
-{"name":"halogen-pure","version":"0.0.2","license":"MIT","location":{"githubOwner":"aij","githubRepo":"purescript-halogen-pure"},"description":"Functions to create pure Halogen components.","dependencies":{"halogen":">=5.0.0 <6.0.0"}}
+{"name":"halogen-pure","version":"0.0.2","license":"MIT","description":"Functions to create pure Halogen components.","location":{"githubOwner":"aij","githubRepo":"purescript-halogen-pure"},"ref":"v0.0.2","dependencies":{"halogen":">=5.0.0 <6.0.0","prelude":">=4.1.0 <5.0.0"}}

@@ -1,10 +1,8 @@
-{"name":"partial","version":"1.0.0","license":"MIT","location":{"githubOwner":"purescript","githubRepo":"purescript-partial"},"dependencies":{}}
-{"name":"partial","version":"1.1.0","license":"MIT","location":{"githubOwner":"purescript","githubRepo":"purescript-partial"},"dependencies":{}}
-{"name":"partial","version":"1.1.1","license":"MIT","location":{"githubOwner":"purescript","githubRepo":"purescript-partial"},"description":"Mutable value references","dependencies":{}}
-{"name":"partial","version":"1.1.2","license":"MIT","location":{"githubOwner":"purescript","githubRepo":"purescript-partial"},"description":"Utilities for working with partial functions","dependencies":{}}
-{"name":"partial","version":"1.2.0","license":"MIT","location":{"githubOwner":"purescript","githubRepo":"purescript-partial"},"description":"Utilities for working with partial functions","dependencies":{}}
-{"name":"partial","version":"1.2.1","license":"MIT","location":{"githubOwner":"purescript","githubRepo":"purescript-partial"},"description":"Utilities for working with partial functions","dependencies":{}}
-{"name":"partial","version":"2.0.0","license":"BSD-3-Clause","location":{"githubOwner":"purescript","githubRepo":"purescript-partial"},"description":"Utilities for working with partial functions","dependencies":{}}
-{"name":"partial","version":"2.0.1","license":"BSD-3-Clause","location":{"githubOwner":"purescript","githubRepo":"purescript-partial"},"description":"Utilities for working with partial functions","dependencies":{}}
-{"name":"partial","version":"3.0.0","license":"BSD-3-Clause","location":{"githubOwner":"purescript","githubRepo":"purescript-partial"},"description":"Utilities for working with partial functions","dependencies":{}}
-{"name":"partial","version":"4.0.0","license":"BSD-3-Clause","location":{"githubOwner":"purescript","githubRepo":"purescript-partial"},"description":"Utilities for working with partial functions","dependencies":{}}
+{"name":"partial","version":"1.0.0","license":"MIT","location":{"githubOwner":"purescript","githubRepo":"purescript-partial"},"ref":"v1.0.0","dependencies":{}}
+{"name":"partial","version":"1.1.2","license":"MIT","description":"Utilities for working with partial functions","location":{"githubOwner":"purescript","githubRepo":"purescript-partial"},"ref":"v1.1.2","dependencies":{}}
+{"name":"partial","version":"1.2.0","license":"MIT","description":"Utilities for working with partial functions","location":{"githubOwner":"purescript","githubRepo":"purescript-partial"},"ref":"v1.2.0","dependencies":{}}
+{"name":"partial","version":"1.2.1","license":"MIT","description":"Utilities for working with partial functions","location":{"githubOwner":"purescript","githubRepo":"purescript-partial"},"ref":"v1.2.1","dependencies":{}}
+{"name":"partial","version":"2.0.0","license":"BSD-3-Clause","description":"Utilities for working with partial functions","location":{"githubOwner":"purescript","githubRepo":"purescript-partial"},"ref":"v2.0.0","dependencies":{}}
+{"name":"partial","version":"2.0.1","license":"BSD-3-Clause","description":"Utilities for working with partial functions","location":{"githubOwner":"purescript","githubRepo":"purescript-partial"},"ref":"v2.0.1","dependencies":{}}
+{"name":"partial","version":"3.0.0","license":"BSD-3-Clause","description":"Utilities for working with partial functions","location":{"githubOwner":"purescript","githubRepo":"purescript-partial"},"ref":"v3.0.0","dependencies":{}}
+{"name":"partial","version":"4.0.0","license":"BSD-3-Clause","description":"Utilities for working with partial functions","location":{"githubOwner":"purescript","githubRepo":"purescript-partial"},"ref":"v4.0.0","dependencies":{}}

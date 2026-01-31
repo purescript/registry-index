@@ -1,7 +1,6 @@
-{"name":"type-equality","version":"1.0.0","license":"MIT","location":{"githubOwner":"purescript","githubRepo":"purescript-type-equality"},"dependencies":{}}
-{"name":"type-equality","version":"1.1.0","license":"MIT","location":{"githubOwner":"purescript","githubRepo":"purescript-type-equality"},"dependencies":{}}
-{"name":"type-equality","version":"2.0.0","license":"MIT","location":{"githubOwner":"purescript","githubRepo":"purescript-type-equality"},"dependencies":{}}
-{"name":"type-equality","version":"2.1.0","license":"MIT","location":{"githubOwner":"purescript","githubRepo":"purescript-type-equality"},"dependencies":{"eff":">=3.1.0 <4.0.0"}}
-{"name":"type-equality","version":"3.0.0","license":"BSD-3-Clause","location":{"githubOwner":"purescript","githubRepo":"purescript-type-equality"},"dependencies":{}}
-{"name":"type-equality","version":"4.0.0","license":"BSD-3-Clause","location":{"githubOwner":"purescript","githubRepo":"purescript-type-equality"},"dependencies":{}}
-{"name":"type-equality","version":"4.0.1","license":"BSD-3-Clause","location":{"githubOwner":"purescript","githubRepo":"purescript-type-equality"},"dependencies":{}}
+{"name":"type-equality","version":"1.0.0","license":"MIT","location":{"githubOwner":"purescript","githubRepo":"purescript-type-equality"},"ref":"v1.0.0","dependencies":{}}
+{"name":"type-equality","version":"2.0.0","license":"MIT","location":{"githubOwner":"purescript","githubRepo":"purescript-type-equality"},"ref":"v2.0.0","dependencies":{}}
+{"name":"type-equality","version":"2.1.0","license":"MIT","location":{"githubOwner":"purescript","githubRepo":"purescript-type-equality"},"ref":"v2.1.0","dependencies":{"eff":">=3.1.0 <4.0.0"}}
+{"name":"type-equality","version":"3.0.0","license":"BSD-3-Clause","location":{"githubOwner":"purescript","githubRepo":"purescript-type-equality"},"ref":"v3.0.0","dependencies":{}}
+{"name":"type-equality","version":"4.0.0","license":"BSD-3-Clause","location":{"githubOwner":"purescript","githubRepo":"purescript-type-equality"},"ref":"v4.0.0","dependencies":{}}
+{"name":"type-equality","version":"4.0.1","license":"BSD-3-Clause","location":{"githubOwner":"purescript","githubRepo":"purescript-type-equality"},"ref":"v4.0.1","dependencies":{}}

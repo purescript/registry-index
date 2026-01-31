@@ -1,1 +1,1 @@
-{"name":"printf","version":"0.1.0","license":"MIT","location":{"githubOwner":"eternasuno","githubRepo":"purescript-printf"},"dependencies":{"prelude":">=6.0.1 <7.0.0"}}
+{"name":"printf","version":"0.1.0","license":"MIT","location":{"githubOwner":"eternasuno","githubRepo":"purescript-printf"},"ref":"v0.1.0","dependencies":{"prelude":">=6.0.1 <7.0.0"}}

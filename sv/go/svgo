@@ -1,1 +1,1 @@
-{"name":"svgo","version":"0.1.0","license":"BSD-3-Clause","location":{"githubOwner":"nonbili","githubRepo":"purescript-svgo"},"description":"A purescript wrapper of SVGO","dependencies":{"aff-promise":">=2.0.1 <3.0.0"}}
+{"name":"svgo","version":"0.1.0","license":"BSD-3-Clause","description":"A purescript wrapper of SVGO","location":{"githubOwner":"nonbili","githubRepo":"purescript-svgo"},"ref":"v0.1.0","dependencies":{"aff":">=5.0.0 <7.0.0","aff-promise":">=2.0.1 <3.0.0","effect":">=2.0.0 <4.0.0","foreign":">=5.0.0 <7.0.0","prelude":">=4.0.0 <6.0.0"}}

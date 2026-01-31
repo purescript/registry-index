@@ -1,4 +1,0 @@
-{"name":"chartjs","version":"0.1.0","license":"MIT","location":{"githubOwner":"benkolera","githubRepo":"purescript-chartjs"},"dependencies":{"canvas":">=0.2.0 <0.3.0","dom":">=0.1.1 <0.2.0"}}
-{"name":"chartjs","version":"0.2.0","license":"MIT","location":{"githubOwner":"benkolera","githubRepo":"purescript-chartjs"},"dependencies":{"canvas":">=0.2.0 <0.3.0","dom":">=0.1.1 <0.2.0"}}
-{"name":"chartjs","version":"0.3.0","license":"MIT","location":{"githubOwner":"benkolera","githubRepo":"purescript-chartjs"},"dependencies":{"canvas":">=0.2.0 <0.3.0","dom":">=0.1.1 <0.2.0"}}
-{"name":"chartjs","version":"0.4.0","license":"MIT","location":{"githubOwner":"benkolera","githubRepo":"purescript-chartjs"},"dependencies":{"canvas":">=0.2.0 <0.3.0","dom":">=0.1.1 <0.2.0"}}

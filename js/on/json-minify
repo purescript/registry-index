@@ -1,4 +1,4 @@
-{"name":"json-minify","version":"1.0.0","license":"MIT","location":{"githubOwner":"dgendill","githubRepo":"purescript-json-minify"},"dependencies":{}}
-{"name":"json-minify","version":"1.0.1","license":"MIT","location":{"githubOwner":"dgendill","githubRepo":"purescript-json-minify"},"dependencies":{}}
-{"name":"json-minify","version":"2.0.0","license":"MIT","location":{"githubOwner":"dgendill","githubRepo":"purescript-json-minify"},"dependencies":{}}
-{"name":"json-minify","version":"3.0.0","license":"MIT","location":{"githubOwner":"dgendill","githubRepo":"purescript-json-minify"},"dependencies":{"prelude":">=3.0.0 <4.0.0"}}
+{"name":"json-minify","version":"1.0.0","license":"MIT","location":{"githubOwner":"dgendill","githubRepo":"purescript-json-minify"},"ref":"v1.0.0","dependencies":{}}
+{"name":"json-minify","version":"1.0.1","license":"MIT","location":{"githubOwner":"dgendill","githubRepo":"purescript-json-minify"},"ref":"v1.0.1","dependencies":{}}
+{"name":"json-minify","version":"2.0.0","license":"MIT","location":{"githubOwner":"dgendill","githubRepo":"purescript-json-minify"},"ref":"v2.0.0","dependencies":{}}
+{"name":"json-minify","version":"3.0.0","license":"MIT","location":{"githubOwner":"dgendill","githubRepo":"purescript-json-minify"},"ref":"v3.0.0","dependencies":{}}

@@ -1,1 +1,1 @@
-{"name":"gdp","version":"0.1.0","license":"AGPL-3.0-or-later","location":{"githubOwner":"colehaus","githubRepo":"purescript-gdp"},"dependencies":{"prelude":">=4.1.0 <5.0.0"}}
+{"name":"gdp","version":"0.1.0","license":"AGPL-3.0-or-later","location":{"githubOwner":"colehaus","githubRepo":"purescript-gdp"},"ref":"v0.1.0","dependencies":{"prelude":">=4.1.0 <5.0.0"}}

@@ -1,1 +1,1 @@
-{"name":"type-isequal","version":"0.1.0","license":"MIT","location":{"githubOwner":"justinwoo","githubRepo":"purescript-type-isequal"},"dependencies":{"typelevel-prelude":">=3.0.0 <6.0.0"}}
+{"name":"type-isequal","version":"0.1.0","license":"MIT","location":{"githubOwner":"justinwoo","githubRepo":"purescript-type-isequal"},"ref":"v0.1.0","dependencies":{"typelevel-prelude":">=3.0.0 <6.0.0"}}

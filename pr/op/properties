@@ -1,2 +1,2 @@
-{"name":"properties","version":"0.1.0","license":"MIT","location":{"githubOwner":"Risto-Stevcev","githubRepo":"purescript-properties"},"dependencies":{"console":">=3.0.0 <4.0.0","prelude":">=3.1.0 <4.0.0"}}
-{"name":"properties","version":"0.2.0","license":"MIT","location":{"githubOwner":"Risto-Stevcev","githubRepo":"purescript-properties"},"dependencies":{"console":">=3.0.0 <4.0.0","prelude":">=3.1.0 <4.0.0"}}
+{"name":"properties","version":"0.1.0","license":"MIT","location":{"githubOwner":"Risto-Stevcev","githubRepo":"purescript-properties"},"ref":"v0.1.0","dependencies":{"prelude":">=3.1.0 <4.0.0"}}
+{"name":"properties","version":"0.2.0","license":"MIT","location":{"githubOwner":"Risto-Stevcev","githubRepo":"purescript-properties"},"ref":"v0.2.0","dependencies":{"prelude":">=3.1.0 <4.0.0"}}

@@ -1,8 +1,8 @@
-{"name":"halogen-bootstrap5","version":"1.0.0","license":"Apache-2.0","location":{"githubOwner":"tonicebrian","githubRepo":"purescript-halogen-bootstrap5"},"dependencies":{"halogen":">=7.0.0 <8.0.0"}}
-{"name":"halogen-bootstrap5","version":"2.0.0","license":"Apache-2.0","location":{"githubOwner":"tonicebrian","githubRepo":"purescript-halogen-bootstrap5"},"dependencies":{"halogen":">=7.0.0 <8.0.0"}}
-{"name":"halogen-bootstrap5","version":"2.1.0","license":"Apache-2.0","location":{"githubOwner":"tonicebrian","githubRepo":"purescript-halogen-bootstrap5"},"dependencies":{"halogen":">=7.0.0 <8.0.0"}}
-{"name":"halogen-bootstrap5","version":"2.2.0","license":"Apache-2.0","location":{"githubOwner":"tonicebrian","githubRepo":"purescript-halogen-bootstrap5"},"dependencies":{"halogen":">=7.0.0 <8.0.0"}}
-{"name":"halogen-bootstrap5","version":"2.2.1","license":"Apache-2.0","location":{"githubOwner":"tonicebrian","githubRepo":"purescript-halogen-bootstrap5"},"dependencies":{"halogen":">=7.0.0 <8.0.0"}}
-{"name":"halogen-bootstrap5","version":"2.3.0","license":"Apache-2.0","location":{"githubOwner":"tonicebrian","githubRepo":"purescript-halogen-bootstrap5"},"dependencies":{"halogen":">=7.0.0 <8.0.0"}}
-{"name":"halogen-bootstrap5","version":"2.3.1","license":"Apache-2.0","location":{"githubOwner":"tonicebrian","githubRepo":"purescript-halogen-bootstrap5"},"dependencies":{"halogen":">=7.0.0 <8.0.0"}}
-{"name":"halogen-bootstrap5","version":"5.3.2","license":"Apache-2.0","location":{"githubOwner":"tonicebrian","githubRepo":"purescript-halogen-bootstrap5"},"dependencies":{"halogen":">=7.0.0 <8.0.0"}}
+{"name":"halogen-bootstrap5","version":"1.0.0","license":"Apache-2.0","location":{"githubOwner":"tonicebrian","githubRepo":"purescript-halogen-bootstrap5"},"ref":"v1.0.0","dependencies":{"halogen":">=7.0.0 <8.0.0"}}
+{"name":"halogen-bootstrap5","version":"2.0.0","license":"Apache-2.0","location":{"githubOwner":"tonicebrian","githubRepo":"purescript-halogen-bootstrap5"},"ref":"v2.0.0","dependencies":{"halogen":">=7.0.0 <8.0.0"}}
+{"name":"halogen-bootstrap5","version":"2.1.0","license":"Apache-2.0","location":{"githubOwner":"tonicebrian","githubRepo":"purescript-halogen-bootstrap5"},"ref":"v2.1.0","dependencies":{"halogen":">=7.0.0 <8.0.0"}}
+{"name":"halogen-bootstrap5","version":"2.2.0","license":"Apache-2.0","location":{"githubOwner":"tonicebrian","githubRepo":"purescript-halogen-bootstrap5"},"ref":"v2.2.0","dependencies":{"halogen":">=7.0.0 <8.0.0"}}
+{"name":"halogen-bootstrap5","version":"2.2.1","license":"Apache-2.0","location":{"githubOwner":"tonicebrian","githubRepo":"purescript-halogen-bootstrap5"},"ref":"v2.2.1","dependencies":{"halogen":">=7.0.0 <8.0.0"}}
+{"name":"halogen-bootstrap5","version":"2.3.0","license":"Apache-2.0","location":{"githubOwner":"tonicebrian","githubRepo":"purescript-halogen-bootstrap5"},"ref":"v2.3.0","dependencies":{"halogen":">=7.0.0 <8.0.0"}}
+{"name":"halogen-bootstrap5","version":"2.3.1","license":"Apache-2.0","location":{"githubOwner":"tonicebrian","githubRepo":"purescript-halogen-bootstrap5"},"ref":"v2.3.1","dependencies":{"halogen":">=7.0.0 <8.0.0"}}
+{"name":"halogen-bootstrap5","version":"5.3.2","license":"Apache-2.0","location":{"githubOwner":"tonicebrian","githubRepo":"purescript-halogen-bootstrap5"},"ref":"v5.3.2","dependencies":{"halogen":">=7.0.0 <8.0.0"}}

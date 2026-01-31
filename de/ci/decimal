@@ -1,2 +1,1 @@
-{"name":"decimal","version":"1.0.0","license":"MIT","location":{"githubOwner":"Ambrosia","githubRepo":"purescript-decimal"},"description":"Arbitrary length numbers","dependencies":{"maybe":">=2.0.0 <3.0.0"}}
-{"name":"decimal","version":"2.0.0","license":"MIT","location":{"githubOwner":"Ambrosia","githubRepo":"purescript-decimal"},"description":"Arbitrary length numbers","dependencies":{"maybe":">=3.0.0 <4.0.0"}}
+{"name":"decimal","version":"2.0.0","license":"MIT","description":"Arbitrary length numbers","location":{"githubOwner":"Ambrosia","githubRepo":"purescript-decimal"},"ref":"v2.0.0","dependencies":{"maybe":">=3.0.0 <4.0.0","prelude":">=3.0.0 <4.0.0"}}

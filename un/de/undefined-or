@@ -1,2 +1,2 @@
-{"name":"undefined-or","version":"1.0.0","license":"MIT","location":{"githubOwner":"d86leader","githubRepo":"purescript-undefined-or"},"dependencies":{"maybe":">=4.0.1 <5.0.0"}}
-{"name":"undefined-or","version":"1.0.1","license":"MIT","location":{"githubOwner":"d86leader","githubRepo":"purescript-undefined-or"},"dependencies":{"maybe":">=4.0.1 <6.0.0"}}
+{"name":"undefined-or","version":"1.0.0","license":"MIT","location":{"githubOwner":"maurges","githubRepo":"purescript-undefined-or"},"ref":"v1.0.0","dependencies":{"control":">=4.0.0 <5.0.0","maybe":">=4.0.1 <5.0.0","prelude":">=4.0.0 <5.0.0"}}
+{"name":"undefined-or","version":"1.0.1","license":"MIT","location":{"githubOwner":"maurges","githubRepo":"purescript-undefined-or"},"ref":"v1.0.1","dependencies":{"control":">=4.0.0 <6.0.0","maybe":">=4.0.1 <6.0.0","prelude":">=4.0.0 <6.0.0"}}

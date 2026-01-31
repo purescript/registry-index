@@ -1,2 +1,0 @@
-{"name":"almost","version":"0.0.1","license":"MIT","location":{"githubOwner":"TylorS","githubRepo":"almost"},"dependencies":{"maybe":">=0.3.5 <0.4.0"}}
-{"name":"almost","version":"0.0.2","license":"MIT","location":{"githubOwner":"TylorS","githubRepo":"almost"},"dependencies":{"eff":">=0.1.2 <0.2.0","maybe":">=0.3.5 <0.4.0"}}

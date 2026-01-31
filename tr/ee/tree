@@ -1,6 +1,0 @@
-{"name":"tree","version":"1.0.0","license":"MIT","location":{"githubOwner":"dmbfm","githubRepo":"purescript-tree"},"dependencies":{"console":">=3.0.0 <4.0.0","lists":">=4.9.1 <5.0.0","prelude":">=3.1.0 <4.0.0"}}
-{"name":"tree","version":"1.1.0","license":"MIT","location":{"githubOwner":"dmbfm","githubRepo":"purescript-tree"},"dependencies":{"console":">=3.0.0 <4.0.0","lists":">=4.9.1 <5.0.0","prelude":">=3.1.0 <4.0.0"}}
-{"name":"tree","version":"1.2.0","license":"MIT","location":{"githubOwner":"dmbfm","githubRepo":"purescript-tree"},"dependencies":{"console":">=3.0.0 <4.0.0","lists":">=4.9.1 <5.0.0","prelude":">=3.1.0 <4.0.0"}}
-{"name":"tree","version":"1.3.0","license":"MIT","location":{"githubOwner":"dmbfm","githubRepo":"purescript-tree"},"dependencies":{"console":">=3.0.0 <4.0.0","free":">=4.1.0 <5.0.0","lists":">=4.9.1 <5.0.0","prelude":">=3.1.0 <4.0.0"}}
-{"name":"tree","version":"1.3.1","license":"MIT","location":{"githubOwner":"dmbfm","githubRepo":"purescript-tree"},"dependencies":{"console":">=3.0.0 <4.0.0","free":">=4.1.0 <5.0.0","lists":">=4.9.1 <5.0.0","prelude":">=3.1.0 <4.0.0"}}
-{"name":"tree","version":"1.3.2","license":"MIT","location":{"githubOwner":"dmbfm","githubRepo":"purescript-tree"},"dependencies":{"console":">=3.0.0 <4.0.0","free":">=4.1.0 <5.0.0","lists":">=4.9.1 <5.0.0","prelude":">=3.1.0 <4.0.0"}}

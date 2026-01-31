@@ -1,1 +1,1 @@
-{"name":"cast","version":"0.1.0","license":"MIT","location":{"githubOwner":"Risto-Stevcev","githubRepo":"purescript-cast"},"dependencies":{"console":">=3.0.0 <4.0.0","integers":">=3.1.0 <4.0.0","prelude":">=3.1.0 <4.0.0"}}
+{"name":"cast","version":"0.1.0","license":"MIT","location":{"githubOwner":"Risto-Stevcev","githubRepo":"purescript-cast"},"ref":"v0.1.0","dependencies":{"integers":">=3.1.0 <4.0.0","prelude":">=3.1.0 <4.0.0"}}

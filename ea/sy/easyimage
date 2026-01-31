@@ -1,4 +1,0 @@
-{"name":"easyimage","version":"0.1.0","license":"Apache-2.0","location":{"githubOwner":"slamdata","githubRepo":"purescript-easyimage"},"dependencies":{"aff":">=0.11.3 <0.12.0"}}
-{"name":"easyimage","version":"0.2.0","license":"Apache-2.0","location":{"githubOwner":"slamdata","githubRepo":"purescript-easyimage"},"dependencies":{"aff":">=0.13.0 <0.14.0"}}
-{"name":"easyimage","version":"0.3.0","license":"Apache-2.0","location":{"githubOwner":"slamdata","githubRepo":"purescript-easyimage"},"dependencies":{"aff":">=0.16.0 <0.17.0"}}
-{"name":"easyimage","version":"1.0.0","license":"Apache-2.0","location":{"githubOwner":"slamdata","githubRepo":"purescript-easyimage"},"dependencies":{"aff":">=1.1.0 <2.0.0"}}

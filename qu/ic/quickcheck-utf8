@@ -1,1 +1,1 @@
-{"name":"quickcheck-utf8","version":"0.0.0","license":"BSD-3-Clause","location":{"githubOwner":"openchronology","githubRepo":"purescript-quickcheck-utf8"},"dependencies":{"quickcheck":">=6.1.0 <9.0.0"}}
+{"name":"quickcheck-utf8","version":"0.0.0","license":"BSD-3-Clause","location":{"githubOwner":"athanclark","githubRepo":"purescript-quickcheck-utf8"},"ref":"v0.0.0","dependencies":{"control":">=4.0.0 <7.0.0","enums":">=4.0.0 <7.0.0","prelude":">=4.1.1 <7.0.0","quickcheck":">=6.1.0 <9.0.0","strings":">=4.0.0 <7.0.0"}}

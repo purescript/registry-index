@@ -1,8 +1,2 @@
-{"name":"http","version":"0.1.0","license":"MIT","location":{"githubOwner":"joneshf","githubRepo":"purescript-http"},"description":"PureScript HTTP bindings","dependencies":{}}
-{"name":"http","version":"0.2.0","license":"MIT","location":{"githubOwner":"joneshf","githubRepo":"purescript-http"},"description":"PureScript HTTP bindings","dependencies":{"maybe":">=0.2.0 <0.3.0"}}
-{"name":"http","version":"0.3.0","license":"MIT","location":{"githubOwner":"joneshf","githubRepo":"purescript-http"},"description":"PureScript HTTP bindings","dependencies":{"maybe":">=0.2.2 <0.3.0"}}
-{"name":"http","version":"0.4.0","license":"MIT","location":{"githubOwner":"joneshf","githubRepo":"purescript-http"},"description":"PureScript HTTP bindings","dependencies":{"maybe":">=0.3.2 <0.4.0"}}
-{"name":"http","version":"1.0.0","license":"MIT","location":{"githubOwner":"joneshf","githubRepo":"purescript-http"},"description":"PureScript HTTP bindings","dependencies":{"maybe":">=1.0.0 <1.1.0"}}
-{"name":"http","version":"2.0.0","license":"MIT","location":{"githubOwner":"joneshf","githubRepo":"purescript-http"},"description":"PureScript HTTP bindings","dependencies":{"maybe":">=2.0.1 <2.1.0"}}
-{"name":"http","version":"3.0.0","license":"MIT","location":{"githubOwner":"joneshf","githubRepo":"purescript-http"},"description":"PureScript HTTP bindings","dependencies":{"maybe":">=3.0.0 <3.1.0"}}
-{"name":"http","version":"4.0.0","license":"MIT","location":{"githubOwner":"joneshf","githubRepo":"purescript-http"},"description":"PureScript HTTP bindings","dependencies":{"maybe":">=4.0.0 <4.1.0"}}
+{"name":"http","version":"3.0.0","license":"MIT","description":"PureScript HTTP bindings","location":{"githubOwner":"joneshf","githubRepo":"purescript-http"},"ref":"v3.0.0","dependencies":{"maybe":">=3.0.0 <3.1.0","prelude":">=3.0.0 <4.0.0"}}
+{"name":"http","version":"4.0.0","license":"MIT","description":"PureScript HTTP bindings","location":{"githubOwner":"joneshf","githubRepo":"purescript-http"},"ref":"v4.0.0","dependencies":{"maybe":">=4.0.0 <4.1.0","prelude":">=4.0.0 <5.0.0"}}

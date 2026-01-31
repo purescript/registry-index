@@ -1,1 +1,1 @@
-{"name":"ask","version":"1.0.0","license":"GPL-3.0-or-later","location":{"githubOwner":"Mateiadrielrafael","githubRepo":"purescript-ask"},"dependencies":{"unsafe-coerce":">=5.0.0 <7.0.0"}}
+{"name":"ask","version":"1.0.0","license":"GPL-3.0-or-later","location":{"githubOwner":"prescientmoon","githubRepo":"purescript-ask"},"ref":"v1.0.0","dependencies":{"unsafe-coerce":">=5.0.0 <7.0.0"}}

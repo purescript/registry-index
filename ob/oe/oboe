@@ -1,1 +1,0 @@
-{"name":"oboe","version":"0.3.0","license":"MIT","description":"PureScript wrapper around oboe.js","location":{"githubOwner":"joneshf","githubRepo":"purescript-oboe"},"dependencies":{"exceptions":">=0.2.0 <0.3.0","http":">=0.2.0 <0.3.0"}}

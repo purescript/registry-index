@@ -1,1 +1,0 @@
-{"name":"qrcode-js-halogen","version":"0.1.0","license":"MIT","location":{"githubOwner":"narinari","githubRepo":"purescript-qrcode-js-halogen"},"dependencies":{"console":">=1.0.0 <2.0.0","halogen":">=0.9.0 <0.10.0","qrcode-js":">=0.2.0 <0.3.0"}}

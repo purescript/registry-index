@@ -1,8 +1,0 @@
-{"name":"react-simple","version":"0.0.2","license":"MIT","location":{"githubOwner":"joneshf","githubRepo":"purescript-react-simple"},"description":"Purescript bindings for React.js","dependencies":{}}
-{"name":"react-simple","version":"0.0.3","license":"MIT","location":{"githubOwner":"joneshf","githubRepo":"purescript-react-simple"},"description":"Purescript bindings for React.js","dependencies":{}}
-{"name":"react-simple","version":"0.0.4","license":"MIT","location":{"githubOwner":"joneshf","githubRepo":"purescript-react-simple"},"description":"Purescript bindings for React.js","dependencies":{}}
-{"name":"react-simple","version":"0.0.5","license":"MIT","location":{"githubOwner":"joneshf","githubRepo":"purescript-react-simple"},"description":"Purescript bindings for React.js","dependencies":{}}
-{"name":"react-simple","version":"0.0.6","license":"MIT","location":{"githubOwner":"joneshf","githubRepo":"purescript-react-simple"},"description":"Purescript bindings for React.js","dependencies":{"dom":">=0.1.0 <0.2.0"}}
-{"name":"react-simple","version":"0.1.0","license":"MIT","location":{"githubOwner":"joneshf","githubRepo":"purescript-react-simple"},"description":"Purescript bindings for React.js","dependencies":{"dom":">=0.1.0 <0.2.0"}}
-{"name":"react-simple","version":"0.1.1","license":"MIT","location":{"githubOwner":"joneshf","githubRepo":"purescript-react-simple"},"description":"Purescript bindings for React.js","dependencies":{"dom":">=0.1.0 <0.2.0"}}
-{"name":"react-simple","version":"0.1.2","license":"MIT","location":{"githubOwner":"joneshf","githubRepo":"purescript-react-simple"},"description":"Purescript bindings for React.js","dependencies":{"dom":">=0.1.0 <0.2.0"}}

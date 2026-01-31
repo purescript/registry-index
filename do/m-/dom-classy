@@ -1,3 +1,0 @@
-{"name":"dom-classy","version":"2.0.0","license":"MIT","location":{"githubOwner":"garyb","githubRepo":"purescript-dom-classy"},"dependencies":{"dom":">=4.1.0 <5.0.0"}}
-{"name":"dom-classy","version":"2.1.0","license":"MIT","location":{"githubOwner":"garyb","githubRepo":"purescript-dom-classy"},"dependencies":{"dom":">=4.1.0 <5.0.0"}}
-{"name":"dom-classy","version":"2.2.0","license":"MIT","location":{"githubOwner":"garyb","githubRepo":"purescript-dom-classy"},"dependencies":{"dom":">=4.1.0 <5.0.0"}}

@@ -1,2 +1,0 @@
-{"name":"chapagetti","version":"0.1.0","license":"MIT","location":{"githubOwner":"justinwoo","githubRepo":"purescript-chapagetti"},"dependencies":{"eff":">=3.1.0 <4.0.0","jolly-pong":">=0.1.0 <0.2.0","prelude":">=3.1.0 <4.0.0","react":">=4.3.0 <5.0.0","typelevel-prelude":">=2.4.0 <3.0.0"}}
-{"name":"chapagetti","version":"1.0.0","license":"MIT","location":{"githubOwner":"justinwoo","githubRepo":"purescript-chapagetti"},"dependencies":{"effect":">=2.0.0 <3.0.0","jolly-pong":">=1.0.0 <2.0.0","prelude":">=4.1.0 <5.0.0","typelevel-prelude":">=3.0.0 <4.0.0"}}

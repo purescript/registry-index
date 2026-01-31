@@ -1,2 +1,0 @@
-{"name":"random-secure","version":"1.0.0","license":"BSD-3-Clause","location":{"githubOwner":"TinkerTravel","githubRepo":"purescript-random-secure"},"dependencies":{"bytestrings":">=1.2.0 <2.0.0","eff":">=2.0.0 <3.0.0","exceptions":">=2.0.0 <3.0.0"}}
-{"name":"random-secure","version":"2.0.0","license":"BSD-3-Clause","location":{"githubOwner":"TinkerTravel","githubRepo":"purescript-random-secure"},"dependencies":{"bytestrings":">=2.0.0 <3.0.0","eff":">=2.0.0 <3.0.0","exceptions":">=2.0.0 <3.0.0"}}

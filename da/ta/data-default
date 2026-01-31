@@ -1,1 +1,1 @@
-{"name":"data-default","version":"0.1.0","license":"MIT","location":{"githubOwner":"nkly","githubRepo":"purescript-data-default"},"description":"Typeclass for datatypes which have default values","dependencies":{}}
+{"name":"data-default","version":"0.1.0","license":"MIT","description":"Typeclass for datatypes which have default values","location":{"githubOwner":"nkly","githubRepo":"purescript-data-default"},"ref":"0.1.0","dependencies":{}}

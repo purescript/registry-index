@@ -1,4 +1,4 @@
-{"name":"shoronpo","version":"0.1.0","license":"MIT","location":{"githubOwner":"justinwoo","githubRepo":"purescript-shoronpo"},"dependencies":{"prelude":">=4.0.0 <5.0.0","record-format":">=0.1.0 <0.2.0"}}
-{"name":"shoronpo","version":"0.2.0","license":"MIT","location":{"githubOwner":"justinwoo","githubRepo":"purescript-shoronpo"},"dependencies":{"prelude":">=4.0.0 <5.0.0","record-format":">=0.1.0 <0.2.0"}}
-{"name":"shoronpo","version":"0.3.0","license":"MIT","location":{"githubOwner":"justinwoo","githubRepo":"purescript-shoronpo"},"dependencies":{"prelude":">=4.0.0 <5.0.0","record-format":">=0.1.0 <3.0.0"}}
-{"name":"shoronpo","version":"1.0.0","license":"MIT","location":{"githubOwner":"justinwoo","githubRepo":"purescript-shoronpo"},"dependencies":{"prelude":">=5.0.1 <6.0.0","record-format":">=3.0.0 <4.0.0"}}
+{"name":"shoronpo","version":"0.1.0","license":"MIT","location":{"githubOwner":"justinwoo","githubRepo":"purescript-shoronpo"},"ref":"v0.1.0","dependencies":{"record-format":">=0.1.0 <0.2.0","typelevel-prelude":">=3.0.0 <5.0.0"}}
+{"name":"shoronpo","version":"0.2.0","license":"MIT","location":{"githubOwner":"justinwoo","githubRepo":"purescript-shoronpo"},"ref":"v0.2.0","dependencies":{"record-format":">=0.1.0 <0.2.0","typelevel-prelude":">=3.0.0 <5.0.0"}}
+{"name":"shoronpo","version":"0.3.0","license":"MIT","location":{"githubOwner":"justinwoo","githubRepo":"purescript-shoronpo"},"ref":"v0.3.0","dependencies":{"record-format":">=0.1.0 <3.0.0","typelevel-prelude":">=3.0.0 <6.0.0"}}
+{"name":"shoronpo","version":"1.0.0","license":"MIT","location":{"githubOwner":"justinwoo","githubRepo":"purescript-shoronpo"},"ref":"v1.0.0","dependencies":{"record-format":">=3.0.0 <4.0.0","typelevel-prelude":">=6.0.0 <7.0.0"}}

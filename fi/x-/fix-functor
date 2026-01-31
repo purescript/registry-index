@@ -1,1 +1,1 @@
-{"name":"fix-functor","version":"0.1.0","license":"MIT","location":{"githubOwner":"artemisSystem","githubRepo":"purescript-fix-functor"},"dependencies":{"prelude":">=6.0.1 <7.0.0"}}
+{"name":"fix-functor","version":"0.1.0","license":"MIT","location":{"githubOwner":"artemisSystem","githubRepo":"purescript-fix-functor"},"ref":"v0.1.0","dependencies":{"prelude":">=6.0.1 <7.0.0"}}

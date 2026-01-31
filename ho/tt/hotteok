@@ -1,3 +1,0 @@
-{"name":"hotteok","version":"0.1.0","license":"MIT","location":{"githubOwner":"justinwoo","githubRepo":"purescript-hotteok"},"dependencies":{"foreign":">=4.0.1 <5.0.0","prelude":">=3.1.1 <4.0.0","typelevel-prelude":">=2.6.0 <3.0.0"}}
-{"name":"hotteok","version":"1.0.0","license":"MIT","location":{"githubOwner":"justinwoo","githubRepo":"purescript-hotteok"},"dependencies":{"foreign":">=5.0.0 <6.0.0","prelude":">=4.1.0 <5.0.0","typelevel-prelude":">=3.0.0 <4.0.0"}}
-{"name":"hotteok","version":"1.0.1","license":"MIT","location":{"githubOwner":"justinwoo","githubRepo":"purescript-hotteok"},"dependencies":{"foreign":">=5.0.0 <6.0.0","prelude":">=4.1.0 <5.0.0","typelevel-prelude":">=3.0.0 <4.0.0"}}

@@ -1,4 +1,1 @@
-{"name":"ebyam","version":"0.1.0","license":"MIT","location":{"githubOwner":"adarqui","githubRepo":"purescript-ebyam"},"description":"Optional values","dependencies":{"maybe":">=0.3.5 <0.4.0"}}
-{"name":"ebyam","version":"0.1.1","license":"MIT","location":{"githubOwner":"adarqui","githubRepo":"purescript-ebyam"},"description":"Optional values","dependencies":{"maybe":">=0.3.5 <0.4.0"}}
-{"name":"ebyam","version":"1.0.0","license":"MIT","location":{"githubOwner":"adarqui","githubRepo":"purescript-ebyam"},"description":"Optional values","dependencies":{"maybe":">=1.0.0 <2.0.0"}}
-{"name":"ebyam","version":"1.2.0","license":"MIT","location":{"githubOwner":"adarqui","githubRepo":"purescript-ebyam"},"description":"Optional values","dependencies":{"maybe":">=3.0.0 <4.0.0"}}
+{"name":"ebyam","version":"1.2.0","license":"MIT","description":"Optional values","location":{"githubOwner":"adarqui","githubRepo":"purescript-ebyam"},"ref":"v1.2.0","dependencies":{"maybe":">=3.0.0 <4.0.0","prelude":">=3.0.0 <4.0.0"}}

@@ -1,5 +1,0 @@
-{"name":"aws-ses","version":"0.0.1","license":"MIT","location":{"githubOwner":"purescript-aws-sdk","githubRepo":"purescript-aws-ses"},"dependencies":{"aws-request":">=0.0.5 <0.0.6"}}
-{"name":"aws-ses","version":"0.1.1","license":"MIT","location":{"githubOwner":"purescript-aws-sdk","githubRepo":"purescript-aws-ses"},"dependencies":{"aws-request":">=0.1.3 <0.1.4"}}
-{"name":"aws-ses","version":"0.1.2","license":"MIT","location":{"githubOwner":"purescript-aws-sdk","githubRepo":"purescript-aws-ses"},"dependencies":{"aws-request":">=0.1.3 <0.1.4"}}
-{"name":"aws-ses","version":"0.2.1","license":"MIT","location":{"githubOwner":"purescript-aws-sdk","githubRepo":"purescript-aws-ses"},"dependencies":{"aws-request":">=0.2.2 <0.2.3"}}
-{"name":"aws-ses","version":"0.3.1","license":"MIT","location":{"githubOwner":"purescript-aws-sdk","githubRepo":"purescript-aws-ses"},"dependencies":{"aws-request":">=0.3.1 <0.3.2"}}

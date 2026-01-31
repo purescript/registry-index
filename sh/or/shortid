@@ -1,3 +1,0 @@
-{"name":"shortid","version":"0.0.1","license":"MIT","location":{"githubOwner":"DaQuirm","githubRepo":"purescript-shortid"},"dependencies":{"eff":">=2.0.0 <3.0.0"}}
-{"name":"shortid","version":"0.0.2","license":"MIT","location":{"githubOwner":"DaQuirm","githubRepo":"purescript-shortid"},"dependencies":{"eff":">=2.0.0 <3.0.0"}}
-{"name":"shortid","version":"0.0.3","license":"MIT","location":{"githubOwner":"DaQuirm","githubRepo":"purescript-shortid"},"dependencies":{"eff":">=2.0.0 <3.0.0"}}

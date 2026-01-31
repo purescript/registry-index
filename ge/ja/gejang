@@ -1,1 +1,1 @@
-{"name":"gejang","version":"1.0.0","license":"MIT","location":{"githubOwner":"justinwoo","githubRepo":"purescript-gejang"},"dependencies":{"variant":">=6.0.1 <7.0.0"}}
+{"name":"gejang","version":"1.0.0","license":"MIT","location":{"githubOwner":"justinwoo","githubRepo":"purescript-gejang"},"ref":"v1.0.0","dependencies":{"variant":">=6.0.1 <7.0.0"}}
