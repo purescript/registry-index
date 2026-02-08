@@ -1,0 +1,1 @@
+{"name":"yoga-options","version":"0.1.0","license":"MIT","location":{"githubOwner":"rowtype-yoga","githubRepo":"purescript-yoga-options"},"ref":"v0.1.0","dependencies":{"identity":">=6.0.0 <7.0.0","literals":">=1.0.2 <2.0.0","unsafe-coerce":">=6.0.0 <7.0.0","untagged-union":">=1.0.0 <2.0.0"}}
