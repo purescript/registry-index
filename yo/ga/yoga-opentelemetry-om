@@ -1,0 +1,1 @@
+{"name":"yoga-opentelemetry-om","version":"0.1.0","license":"MIT","location":{"githubOwner":"rowtype-yoga","githubRepo":"purescript-yoga-opentelemetry-om"},"ref":"v0.1.0","dependencies":{"effect":">=4.0.0 <5.0.0","prelude":">=6.0.2 <7.0.0","typelevel-prelude":">=7.0.0 <8.0.0","yoga-om":">=1.3.0 <2.0.0","yoga-opentelemetry":">=0.1.0 <0.2.0"}}
