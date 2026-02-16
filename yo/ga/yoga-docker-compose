@@ -1,0 +1,1 @@
+{"name":"yoga-docker-compose","version":"0.1.0","license":"MIT","location":{"githubOwner":"rowtype-yoga","githubRepo":"purescript-yoga-docker-compose"},"ref":"v0.1.0","dependencies":{"aff":">=7.1.0 <8.0.0","newtype":">=5.0.0 <6.0.0","node-child-process":">=11.1.0 <12.0.0","prelude":">=6.0.1 <7.0.0"}}
