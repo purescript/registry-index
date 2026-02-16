@@ -1,0 +1,1 @@
+{"name":"yoga-pino","version":"0.1.0","license":"MIT","location":{"githubOwner":"rowtype-yoga","githubRepo":"purescript-yoga-pino"},"ref":"v0.1.0","dependencies":{"effect":">=4.0.0 <5.0.0","foreign-object":">=4.0.0 <5.0.0","functions":">=6.0.0 <7.0.0","prelude":">=6.0.0 <7.0.0"}}
