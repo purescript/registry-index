@@ -1,0 +1,1 @@
+{"name":"yoga-sqlite-om","version":"0.1.0","license":"MIT","location":{"githubOwner":"rowtype-yoga","githubRepo":"purescript-yoga-sqlite-om"},"ref":"v0.1.0","dependencies":{"console":">=6.1.0 <7.0.0","effect":">=4.0.0 <5.0.0","prelude":">=6.0.2 <7.0.0","yoga-om":">=1.4.0 <2.0.0","yoga-om-layer":">=1.1.1 <2.0.0","yoga-sqlite":">=0.1.0 <0.2.0"}}
