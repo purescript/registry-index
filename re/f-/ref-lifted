@@ -1,0 +1,1 @@
+{"name":"ref-lifted","version":"0.0.1","license":"MIT","location":{"githubOwner":"rowtype-yoga","githubRepo":"purescript-ref-lifted"},"ref":"v0.0.1","dependencies":{"effect":">=4.0.0 <5.0.0","prelude":">=6.0.0 <7.0.0","refs":">=6.0.0 <7.0.0"}}
