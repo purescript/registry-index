@@ -1,0 +1,1 @@
+{"name":"sigil-hats","version":"0.1.0","license":"MIT","description":"Bridge from Sigil layout trees to HATS Tree for declarative composition","location":{"githubOwner":"afcondon","githubRepo":"purescript-sigil-hats"},"ref":"v0.1.0","dependencies":{"hylograph-selection":">=0.2.0 <0.3.0","maybe":">=6.0.0 <7.0.0","prelude":">=6.0.2 <7.0.0","sigil":">=0.3.0 <0.4.0"}}
