@@ -1,0 +1,1 @@
+{"name":"nqueens","version":"0.1.2","license":"MIT","location":{"githubOwner":"jrrom","githubRepo":"purescript-nqueens"},"ref":"v0.1.2","owners":[{"id":"maintainer@jrrom.com","keytype":"ssh-ed25519","public":"AAAAC3NzaC1lZDI1NTE5AAAAIFO1kn/983377PaE6JQO9UoiJ67ZZWNZxyouUVkhJYKd"}],"dependencies":{"control":">=6.0.0 <7.0.0","lists":">=7.0.0 <8.0.0","prelude":">=6.0.2 <7.0.0"}}
