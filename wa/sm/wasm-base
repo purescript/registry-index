@@ -1,0 +1,1 @@
+{"name":"wasm-base","version":"0.1.1","license":"MIT","description":"a thin PureScript bridge to the low-level operations \nthe purs-wasm provides as intrinsics\n","location":{"githubOwner":"purs-wasm","githubRepo":"purescript-wasm-base"},"ref":"v0.1.1","dependencies":{}}
