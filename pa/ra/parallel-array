@@ -1,0 +1,1 @@
+{"name":"parallel-array","version":"0.0.1","license":"MIT","location":{"githubOwner":"rowtype-yoga","githubRepo":"purescript-parallel-array"},"ref":"v0.0.1","includeFiles":["ffi/**/*.go","go.mod"],"dependencies":{}}
