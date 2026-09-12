@@ -1,0 +1,1 @@
+{"name":"codemirror","version":"0.0.1","license":"MIT","location":{"githubOwner":"rowtype-yoga","githubRepo":"purescript-codemirror6"},"ref":"v0.0.1","includeFiles":["package.json","LICENSE"],"dependencies":{"effect":">=4.0.0 <5.0.0","foreign-object":">=4.1.0 <5.0.0","nullable":">=6.0.0 <7.0.0","prelude":">=6.0.2 <7.0.0","strings":">=6.0.1 <7.0.0","web-dom":">=6.0.0 <7.0.0"}}
