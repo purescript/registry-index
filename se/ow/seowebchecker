@@ -1,0 +1,1 @@
+{"name":"seowebchecker","version":"1.0.4","license":"MIT","description":"Automated technical on-page SEO diagnostics and health auditing.","location":{"githubOwner":"jaiganesh6999","githubRepo":"seowebchecker-seoaudit-sdk"},"ref":"v1.0.4","dependencies":{"prelude":">=6.0.2 <7.0.0","strings":">=6.0.1 <7.0.0"}}
