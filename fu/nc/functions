@@ -2,3 +2,4 @@
 {"name":"functions","version":"4.0.0","license":"BSD-3-Clause","location":{"githubOwner":"purescript","githubRepo":"purescript-functions"},"ref":"v4.0.0","dependencies":{"prelude":">=4.0.0 <5.0.0"}}
 {"name":"functions","version":"5.0.0","license":"BSD-3-Clause","location":{"githubOwner":"purescript","githubRepo":"purescript-functions"},"ref":"v5.0.0","dependencies":{"prelude":">=5.0.0 <6.0.0"}}
 {"name":"functions","version":"6.0.0","license":"BSD-3-Clause","location":{"githubOwner":"purescript","githubRepo":"purescript-functions"},"ref":"v6.0.0","dependencies":{"prelude":">=6.0.0 <7.0.0"}}
+{"name":"functions","version":"6.0.1","license":"BSD-3-Clause","description":"Function combinators and types for uncurried multi-argument functions","location":{"githubOwner":"purescript","githubRepo":"purescript-functions"},"ref":"v6.0.1","dependencies":{"prelude":">=6.0.0 <7.0.0"}}
