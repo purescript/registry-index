@@ -5,3 +5,4 @@
 {"name":"unsafe-coerce","version":"4.0.0","license":"BSD-3-Clause","location":{"githubOwner":"purescript","githubRepo":"purescript-unsafe-coerce"},"ref":"v4.0.0","dependencies":{}}
 {"name":"unsafe-coerce","version":"5.0.0","license":"BSD-3-Clause","location":{"githubOwner":"purescript","githubRepo":"purescript-unsafe-coerce"},"ref":"v5.0.0","dependencies":{}}
 {"name":"unsafe-coerce","version":"6.0.0","license":"BSD-3-Clause","location":{"githubOwner":"purescript","githubRepo":"purescript-unsafe-coerce"},"ref":"v6.0.0","dependencies":{}}
+{"name":"unsafe-coerce","version":"6.0.1","license":"BSD-3-Clause","description":"Unsafe coercions between types with the same runtime representation","location":{"githubOwner":"purescript","githubRepo":"purescript-unsafe-coerce"},"ref":"v6.0.1","dependencies":{}}
