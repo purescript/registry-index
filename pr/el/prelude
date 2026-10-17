@@ -12,3 +12,4 @@
 {"name":"prelude","version":"6.0.0","license":"BSD-3-Clause","description":"The PureScript Prelude","location":{"githubOwner":"purescript","githubRepo":"purescript-prelude"},"ref":"v6.0.0","dependencies":{}}
 {"name":"prelude","version":"6.0.1","license":"BSD-3-Clause","description":"The PureScript Prelude","location":{"githubOwner":"purescript","githubRepo":"purescript-prelude"},"ref":"v6.0.1","dependencies":{}}
 {"name":"prelude","version":"6.0.2","license":"BSD-3-Clause","description":"The PureScript Prelude","location":{"githubOwner":"purescript","githubRepo":"purescript-prelude"},"ref":"v6.0.2","dependencies":{}}
+{"name":"prelude","version":"6.0.3","license":"BSD-3-Clause","description":"The PureScript Prelude","location":{"githubOwner":"purescript","githubRepo":"purescript-prelude"},"ref":"v6.0.3","dependencies":{}}
