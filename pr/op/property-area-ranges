@@ -1,1 +1,2 @@
 {"name":"property-area-ranges","version":"1.0.0","license":"MIT","location":{"githubOwner":"novasia-estate","githubRepo":"property-area-ranges"},"ref":"v1.0.0","dependencies":{"either":">=6.1.0 <7.0.0","numbers":">=9.0.1 <10.0.0","prelude":">=6.0.0 <7.0.0"}}
+{"name":"property-area-ranges","version":"1.0.1","license":"MIT","location":{"githubOwner":"novasia-estate","githubRepo":"property-area-ranges"},"ref":"v1.0.1","dependencies":{"either":">=6.1.0 <7.0.0","numbers":">=9.0.1 <10.0.0","prelude":">=6.0.0 <7.0.0"}}
